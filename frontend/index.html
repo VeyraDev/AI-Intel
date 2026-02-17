@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI 情报日报</title>
+  <style>
+    :root {
+      /* 60% 中性色：背景 & 大面积卡片 */
+      --bg: #020617;
+      --panel: rgba(15, 23, 42, 0.88);
+      --panel-soft: rgba(15, 23, 42, 0.82);
+      --border: rgba(148, 163, 184, 0.35);
+      --shadow-soft: 0 22px 60px rgba(15, 23, 42, 0.9);
+
+      /* 30% 次要色：文本 & 辅助信息 */
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+
+      /* 10% 强调色：品牌色 & 按钮 */
+      --accent: #38bdf8;
+      --accent-strong: #0ea5e9;
+      --accent-soft: rgba(56, 189, 248, 0.16);
+      --green: #4ade80;
+      --orange: #fb923c;
+      --pink: #f472b6;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at 0 0, rgba(56, 189, 248, 0.18), transparent 55%),
+        radial-gradient(circle at 100% 100%, rgba(236, 72, 153, 0.14), transparent 60%),
+        var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+    .page-header {
+      padding: 18px 32px 14px;
+      border-bottom: 1px solid rgba(15, 23, 42, 0.95);
+      backdrop-filter: blur(22px);
+      -webkit-backdrop-filter: blur(22px);
+      background: linear-gradient(to bottom, rgba(15, 23, 42, 0.96), rgba(15, 23, 42, 0.86));
+      box-shadow: 0 18px 45px rgba(15, 23, 42, 0.9);
+      position: sticky;
+      top: 0;
+      z-index: 20;
+    }
+    .page-header h1 {
+      font-size: 1.7rem;
+      margin: 0 0 4px;
+      letter-spacing: 0.05em;
+      font-weight: 700;
+    }
+    .page-header .subtitle {
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1.1fr) 320px;
+      gap: 0;
+      max-width: 1280px;
+      margin: 0 auto;
+      min-height: calc(100vh - 60px);
+    }
+    @media (max-width: 900px) {
+      .layout { grid-template-columns: 1fr; }
+    }
+
+    .report-area {
+      padding: 28px 26px 36px;
+      overflow: auto;
+    }
+    .report-area section {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      overflow: hidden;
+      /* 深色主阴影 + 轻微顶部环境光高光，模拟上方光源 */
+      box-shadow:
+        var(--shadow-soft),
+        0 -2px 12px rgba(148, 163, 184, 0.18);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+    }
+    .report-area h2 {
+      margin: 0;
+      padding: 12px 16px;
+      font-size: 1rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--accent);
+    }
+    .report-content {
+      font-size: 0.97rem;
+      padding: 18px 20px 20px;
+      line-height: 1.7;
+    }
+    .report-content h1 { font-size: 1.2rem; margin: 0 0 0.6em; color: var(--text); }
+    .report-content h2 { font-size: 1.05rem; margin: 1em 0 0.4em; color: var(--accent); }
+    .report-content h3 { font-size: 1rem; margin: 0.8em 0 0.3em; color: var(--text); }
+    .report-content hr { border: none; border-top: 1px solid var(--border); margin: 1em 0; }
+    .report-content p { margin: 0.4em 0; }
+    .report-content strong { font-weight: 700; color: var(--text); }
+    .report-content ul, .report-content ol { margin: 0.4em 0; padding-left: 1.5em; }
+    .loading, .empty { color: var(--muted); padding: 16px; }
+    .error { color: #f87171; padding: 16px; }
+
+    .sidebar {
+      border-left: 1px solid rgba(30, 64, 175, 0.45);
+      background: linear-gradient(to bottom, rgba(15, 23, 42, 0.96), rgba(15, 23, 42, 0.9));
+      padding: 18px 18px 26px;
+      overflow: auto;
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      box-shadow: -12px 0 40px rgba(15, 23, 42, 0.9);
+    }
+    @media (max-width: 900px) {
+      .sidebar { border-left: none; border-top: 1px solid var(--border); }
+    }
+    .sidebar section {
+      background: var(--panel-soft);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      margin-bottom: 18px;
+      overflow: hidden;
+      box-shadow:
+        0 16px 40px rgba(15, 23, 42, 0.92),
+        0 -2px 10px rgba(148, 163, 184, 0.16);
+      backdrop-filter: blur(22px);
+      -webkit-backdrop-filter: blur(22px);
+    }
+    .sidebar section:last-child { margin-bottom: 0; }
+    .sidebar h2 {
+      margin: 0;
+      padding: 10px 12px;
+      font-size: 0.9rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .sidebar h2 .sidebar-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 18px;
+      height: 18px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-strong);
+      font-size: 11px;
+      flex-shrink: 0;
+    }
+    .sidebar .section-body {
+      padding: 10px 12px;
+      max-height: 280px;
+      overflow: auto;
+    }
+    .sidebar .list { list-style: none; margin: 0; padding: 0; }
+    .sidebar .list li {
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(31, 41, 55, 0.85);
+    }
+    .sidebar .list li:last-child { border-bottom: none; }
+    .sidebar .list a { color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+    .sidebar .list a:hover { text-decoration: underline; }
+    .sidebar .meta { font-size: 0.7rem; color: var(--muted); margin-top: 2px; }
+    .sidebar .score { color: var(--green); font-weight: 600; }
+    .sidebar .bilibili .score { color: var(--pink); }
+
+    /* 滚动淡入动画 */
+    .reveal {
+      opacity: 0;
+      transform: translateY(10px);
+      transition: opacity 0.55s ease-out, transform 0.55s ease-out;
+    }
+    .reveal.is-visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+  <header class="page-header">
+    <h1>AI 情报日报</h1>
+    <p class="subtitle">数据来自 data/*.json</p>
+    <div id="file-protocol-warn" style="display:none; margin-top:8px; padding:10px; background:#2d1f0f; border:1px solid #d29922; border-radius:8px; color:#d29922; font-size:13px;">
+      ⚠ 当前为 file:// 打开，无法加载数据。请双击项目根目录的 <strong>启动网页.bat</strong>，或运行 <code>python -m http.server 8000</code> 后访问 <a href="http://localhost:8000/frontend/index.html" style="color:#58a6ff;">http://localhost:8000/frontend/index.html</a>
+    </div>
+  </header>
+
+  <div class="layout">
+    <main class="report-area" aria-label="每日报告">
+      <section>
+        <h2>每日报告</h2>
+        <div class="section-body">
+          <div id="report-loading" class="loading">加载中…</div>
+          <div id="report-content" class="report-content" style="display:none;"></div>
+          <div id="report-empty" class="empty" style="display:none;">暂无报告</div>
+          <div id="report-error" class="error" style="display:none;"></div>
+        </div>
+      </section>
+    </main>
+
+    <aside class="sidebar" aria-label="右侧栏">
+      <section class="bilibili" aria-label="B站精选">
+        <h2><span class="sidebar-icon" aria-hidden="true">◎</span>B站精选</h2>
+        <div class="section-body">
+          <div id="videos-loading" class="loading">加载中…</div>
+          <ul id="videos-list" class="list" style="display:none;"></ul>
+          <div id="videos-empty" class="empty" style="display:none;">暂无精选视频</div>
+          <div id="videos-error" class="error" style="display:none;"></div>
+        </div>
+      </section>
+      <section aria-label="今日更新">
+        <h2><span class="sidebar-icon" aria-hidden="true">●</span>今日更新</h2>
+        <div class="section-body">
+          <div id="updates-loading" class="loading">加载中…</div>
+          <ul id="updates-list" class="list" style="display:none;"></ul>
+          <div id="updates-empty" class="empty" style="display:none;">暂无今日更新</div>
+          <div id="updates-error" class="error" style="display:none;"></div>
+        </div>
+      </section>
+      <section aria-label="热度榜单">
+        <h2><span class="sidebar-icon" aria-hidden="true">▲</span>热度榜单</h2>
+        <div class="section-body">
+          <div id="trending-loading" class="loading">加载中…</div>
+          <ul id="trending-list" class="list" style="display:none;"></ul>
+          <div id="trending-empty" class="empty" style="display:none;">暂无热度数据</div>
+          <div id="trending-error" class="error" style="display:none;"></div>
+        </div>
+      </section>
+    </aside>
+  </div>
+
+  <script>
+    if (document.location.protocol === 'file:') {
+      document.getElementById('file-protocol-warn').style.display = 'block';
+    }
+    const DATA_BASE = '../data';
+    function escapeHtml(s) {
+      if (s == null) return '';
+      return String(s)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+    /** 将日报 Markdown 转为安全 HTML（# ** * --- 换行），避免裸符号观感差 */
+    function reportMarkdownToHtml(text) {
+      if (text == null) return '';
+      var s = String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+      s = s.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+      s = s.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+      s = s.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+      s = s.replace(/^\s*---\s*$/gm, '<hr/>');
+      s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+      s = s.replace(/\*([^*]+?)\*/g, '<em>$1</em>');
+      // 支持 Markdown 无序列表：- item 或 * item
+      s = s.replace(/(^|\n)((?:[-*] .+(?:\n|$))+)/g, function (_, prefix, block) {
+        const items = block
+          .trimEnd()
+          .split(/\n/)
+          .map(function (line) {
+            const m = line.match(/^[-*]\s+(.+)$/);
+            return m ? '<li>' + m[1] + '</li>' : '';
+          })
+          .join('');
+        return prefix + (items ? '<ul>' + items + '</ul>' : '');
+      });
+      var paras = s.split(/\n\n+/);
+      s = paras.map(function(p) {
+        p = p.replace(/\n/g, '<br/>').trim();
+        if (!p) return '';
+        if (/^<h[123]/.test(p) || /^<hr/.test(p) || /^<ul>/.test(p) || /^<ol>/.test(p)) return p;
+        return '<p>' + p + '</p>';
+      }).join('');
+      return s || '';
+    }
+
+    // 滚动淡入效果（轻微向上位移）
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.08,
+      rootMargin: '0px 0px -10% 0px',
+    });
+
+    function attachReveal(selector) {
+      document.querySelectorAll(selector).forEach((el) => {
+        el.classList.add('reveal');
+        revealObserver.observe(el);
+      });
+    }
+
+
+    async function loadJson(name) {
+      const res = await fetch(DATA_BASE + '/' + name, { cache: 'no-store' });
+      if (!res.ok) throw new Error(res.status + ' ' + res.statusText);
+      return res.json();
+    }
+
+    // 每日报告（居中）
+    (async function loadReport() {
+      const loading = document.getElementById('report-loading');
+      const content = document.getElementById('report-content');
+      const empty = document.getElementById('report-empty');
+      const errEl = document.getElementById('report-error');
+      try {
+        const data = await loadJson('reports.json');
+        loading.style.display = 'none';
+        const reports = (data && data.reports) ? data.reports : [];
+        const latest = reports.length ? reports[reports.length - 1] : null;
+        if (!latest || !latest.content) {
+          empty.style.display = 'block';
+          return;
+        }
+        content.style.display = 'block';
+        content.innerHTML = reportMarkdownToHtml(latest.content);
+        attachReveal('.report-area section');
+      } catch (e) {
+        loading.style.display = 'none';
+        errEl.style.display = 'block';
+        errEl.textContent = '加载失败：' + (e.message || e);
+      }
+    })();
+
+    // B站精选（videos.json）
+    (async function loadVideos() {
+      const loading = document.getElementById('videos-loading');
+      const list = document.getElementById('videos-list');
+      const empty = document.getElementById('videos-empty');
+      const errEl = document.getElementById('videos-error');
+      try {
+        const data = await loadJson('videos.json');
+        loading.style.display = 'none';
+        let videos = (data && data.videos) ? data.videos : [];
+        // 按时间顺序展示前五个（服务端已按时间排序并只存 display_count 条，此处取前 5 条）
+        videos = videos.slice(0, 5);
+        if (videos.length === 0) {
+          empty.style.display = 'block';
+          return;
+        }
+        list.style.display = 'block';
+        list.innerHTML = videos.map(v => `
+          <li>
+            <a href="${escapeHtml(v.url)}" target="_blank" rel="noreferrer">${escapeHtml(v.title)}</a>
+            <div class="meta">UP：${escapeHtml(v.source)}${v.published_at ? ' · ' + escapeHtml(String(v.published_at).slice(0, 10)) : ''}</div>
+          </li>
+        `).join('');
+        attachReveal('#videos-list li');
+      } catch (e) {
+        loading.style.display = 'none';
+        errEl.style.display = 'block';
+        errEl.textContent = '加载失败：' + (e.message || e);
+      }
+    })();
+
+    // 今日更新（updates.json）
+    (async function loadUpdates() {
+      const loading = document.getElementById('updates-loading');
+      const list = document.getElementById('updates-list');
+      const empty = document.getElementById('updates-empty');
+      const errEl = document.getElementById('updates-error');
+      try {
+        const data = await loadJson('updates.json');
+        loading.style.display = 'none';
+        const updates = (data && data.updates) ? data.updates : [];
+        if (updates.length === 0) {
+          empty.style.display = 'block';
+          return;
+        }
+        list.style.display = 'block';
+        list.innerHTML = updates.map(u => `
+          <li>
+            <a href="${escapeHtml(u.url)}" target="_blank" rel="noreferrer">${escapeHtml(u.title)}</a>
+            <div class="meta">来源：${escapeHtml(u.source)} · 得分：<span class="score">${escapeHtml(String(u.score != null ? u.score.toFixed(1) : '-'))}</span></div>
+          </li>
+        `).join('');
+        attachReveal('#updates-list li');
+      } catch (e) {
+        loading.style.display = 'none';
+        errEl.style.display = 'block';
+        errEl.textContent = '加载失败：' + (e.message || e);
+      }
+    })();
+
+    // 热度榜单（trending.json）
+    (async function loadTrending() {
+      const loading = document.getElementById('trending-loading');
+      const list = document.getElementById('trending-list');
+      const empty = document.getElementById('trending-empty');
+      const errEl = document.getElementById('trending-error');
+      try {
+        const data = await loadJson('trending.json');
+        loading.style.display = 'none';
+        const items = (data && data.items) ? data.items : [];
+        if (items.length === 0) {
+          empty.style.display = 'block';
+          return;
+        }
+        list.style.display = 'block';
+        list.innerHTML = items.map(it => `
+          <li>
+            <a href="${escapeHtml(it.url)}" target="_blank" rel="noreferrer">${escapeHtml(it.repo)}</a>
+            <div class="meta">今日 stars: ${escapeHtml(String(it.stars_today != null ? it.stars_today : 0))} · ${escapeHtml(it.language || '')}</div>
+          </li>
+        `).join('');
+        attachReveal('#trending-list li');
+      } catch (e) {
+        loading.style.display = 'none';
+        errEl.style.display = 'block';
+        errEl.textContent = '加载失败：' + (e.message || e);
+      }
+    })();
+  </script>
+</body>
+</html>

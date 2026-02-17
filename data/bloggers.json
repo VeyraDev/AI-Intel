@@ -1,0 +1,100 @@
+{
+  "bloggers": [
+    {
+      "id": "hiyouga",
+      "name": "hiyouga",
+      "source": "https://github.com/hiyouga.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "antirez",
+      "name": "antirez",
+      "source": "https://github.com/antirez.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "martinkl",
+      "name": "martinkl",
+      "source": "https://github.com/martinkl.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "jessfraz",
+      "name": "jessfraz",
+      "source": "https://github.com/jessfraz.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "jvns",
+      "name": "jvns",
+      "source": "https://github.com/jvns.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "thorstenball",
+      "name": "thorstenball",
+      "source": "https://github.com/thorstenball.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "rsc",
+      "name": "rsc",
+      "source": "https://github.com/rsc.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "munificent",
+      "name": "munificent",
+      "source": "https://github.com/munificent.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "andrewrk",
+      "name": "andrewrk",
+      "source": "https://github.com/andrewrk.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "jart",
+      "name": "jart",
+      "source": "https://github.com/jart.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": ""
+    },
+    {
+      "id": "hehonghui",
+      "name": "hehonghui",
+      "source": "https://github.com/hehonghui.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": "2026-02-17"
+    },
+    {
+      "id": "https://github.com/hehonghui/awesome-english-ebooks",
+      "name": "awesome-english-ebooks",
+      "source": "https://github.com/https://github.com/hehonghui/awesome-english-ebooks",
+      "active": true,
+      "mention_count": 1,
+      "last_seen": "2026-02-17"
+    }
+  ]
+}

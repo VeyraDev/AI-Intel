@@ -1,0 +1,113 @@
+# ===== Collector Settings =====
+
+collectors:
+  signal:
+    - videos
+  content:
+    - github_trending
+    - bloggers
+
+github:
+  trending_since: daily
+  base_url: https://github.com/trending
+  api_base: https://api.github.com
+  use_env_token: true
+  owner_strategy: owner_only   # owner_only | owner_plus_contributors
+  mention_threshold: 2         # 被提及多少次才加入推荐
+
+bloggers:
+  max_count: 100
+  inactive_days: 60
+
+videos:
+  platforms:
+    bilibili:
+      enabled: true
+      api_url: https://api.bilibili.com/x/space/wbi/arc/search
+      uids:
+        - 65564239
+        - 313573880
+        - 319759808
+        - 281120100
+        - 445519880
+
+  fetch_limit: 20
+  days_window: 7
+  top_n: 10
+  display_count: 5   # B站精选按时间顺序展示前 N 条（写入 videos.json）
+
+  github_extract:
+    enabled: true
+    regex: "https://github.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+"
+
+  # 视频评分权重（仅用于视频通道，与 updates 的 scoring 独立）
+  scoring:
+    keyword_weight: 1
+    github_ref_weight: 0.5   # 每包含一个 GitHub 链接加分
+
+video_filter:
+  keywords:
+    - AI
+    - Agent
+    - LLM
+    - 开源
+    - GitHub
+    - 推荐
+    - 深度学习
+  exclude_keywords:
+    - 抽奖
+    - 广告
+    - VLOG
+    - 抽送
+
+# ===== Processor Settings =====
+
+processors:
+  - deduplicate
+  - scoring
+  - filtering
+
+keywords:
+  - AI
+  - Agent
+  - LLM
+  - Open Source
+  - Rust
+  - Compiler
+
+scoring:
+  keyword_weight: 1
+  trending_weight: 2
+  recency_weight: 1
+
+limits:
+  top_n: 5
+  days_window: 7
+
+# ===== Generator Settings =====
+
+generators:
+  - daily_report
+
+report:
+  provider: deepseek   # moonshot | dashscope | deepseek | qianfan
+  model_name: deepseek-chat
+  api_base:
+    moonshot: https://api.moonshot.cn/v1
+    dashscope: https://dashscope.aliyuncs.com/compatible-mode/v1
+    qianfan: https://qianfan.baidubce.com/v2
+    deepseek: https://api.deepseek.com
+  temperature: 0.7
+  max_tokens: 800
+
+# ===== Storage Settings =====
+
+storage:
+  data_dir: ./data
+
+# ===== System Settings =====
+
+system:
+  mode: production   # production | debug（debug 下可 --stage --force 强制执行）
+  timezone: Asia/Shanghai
+  log_level: INFO

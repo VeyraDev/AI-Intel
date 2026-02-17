@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-17",
+  "items": [
+    {
+      "repo": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "stars_today": 1094,
+      "language": "C++"
+    },
+    {
+      "repo": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "stars_today": 546,
+      "language": "Rust"
+    },
+    {
+      "repo": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "stars_today": 700,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "steipete/gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "stars_today": 637,
+      "language": "Go"
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "stars_today": 3873,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "SynkraAI/aios-core",
+      "url": "https://github.com/SynkraAI/aios-core",
+      "stars_today": 205,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "letta-ai/letta-code",
+      "url": "https://github.com/letta-ai/letta-code",
+      "stars_today": 22,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars_today": 344,
+      "language": "Python"
+    },
+    {
+      "repo": "seerr-team/seerr",
+      "url": "https://github.com/seerr-team/seerr",
+      "stars_today": 182,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "hummingbot/hummingbot",
+      "url": "https://github.com/hummingbot/hummingbot",
+      "stars_today": 339,
+      "language": "Python"
+    }
+  ]
+}

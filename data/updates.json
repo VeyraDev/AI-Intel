@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-17",
+  "updates": [
+    {
+      "id": "009acb0e8e60d964277c1256aef16fd6a1e0e204a36a0b1333aacc0514b216cc",
+      "title": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-17",
+      "score": 29.642018068171296,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1094
+    },
+    {
+      "id": "0b5c4741d1c147be5fddf0c75c5c0f478ced75a3c3b71cf8751002122b8f3831",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-17",
+      "score": 29.642018068171296,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 3873
+    },
+    {
+      "id": "187bdd2483edf72579d4ab2f81b2541bded91910a80e855c9317a8c846aa66d6",
+      "title": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-17",
+      "score": 23.662018068171296,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 701
+    },
+    {
+      "id": "8acb20d9f16ccf84550f82baaf5054c3448b8c4258feeab973507b504818f256",
+      "title": "steipete/gogcli",
+      "url": "https://github.com/steipete/gogcli",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-17",
+      "score": 22.362018068171295,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 636
+    },
+    {
+      "id": "f9593f1f67353de2f728dd5c595da22f9155dfd8d38b1eef10f476519b7fafdb",
+      "title": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-17",
+      "score": 20.542018068171295,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 545
+    }
+  ]
+}
