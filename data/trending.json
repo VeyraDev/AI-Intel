@@ -1,65 +1,89 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-24",
   "items": [
     {
-      "repo": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "stars_today": 1094,
-      "language": "C++"
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars_today": 2454,
+      "language": ""
     },
     {
-      "repo": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars_today": 546,
-      "language": "Rust"
+      "repo": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "stars_today": 1451,
+      "language": "Python"
     },
     {
-      "repo": "rowboatlabs/rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "stars_today": 700,
+      "repo": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "stars_today": 470,
+      "language": "Python"
+    },
+    {
+      "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "stars_today": 178,
+      "language": "Python"
+    },
+    {
+      "repo": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "stars_today": 295,
+      "language": "HTML"
+    },
+    {
+      "repo": "CompVis/stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "stars_today": 36,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "stars_today": 467,
       "language": "TypeScript"
     },
     {
-      "repo": "steipete/gogcli",
-      "url": "https://github.com/steipete/gogcli",
-      "stars_today": 637,
-      "language": "Go"
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "stars_today": 3873,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "SynkraAI/aios-core",
-      "url": "https://github.com/SynkraAI/aios-core",
-      "stars_today": 205,
+      "repo": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "stars_today": 272,
       "language": "JavaScript"
     },
     {
-      "repo": "letta-ai/letta-code",
-      "url": "https://github.com/letta-ai/letta-code",
-      "stars_today": 22,
+      "repo": "stan-smith/FossFLOW",
+      "url": "https://github.com/stan-smith/FossFLOW",
+      "stars_today": 430,
       "language": "TypeScript"
     },
     {
-      "repo": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars_today": 344,
+      "repo": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "stars_today": 624,
       "language": "Python"
     },
     {
-      "repo": "seerr-team/seerr",
-      "url": "https://github.com/seerr-team/seerr",
-      "stars_today": 182,
+      "repo": "cloudflare/agents",
+      "url": "https://github.com/cloudflare/agents",
+      "stars_today": 318,
       "language": "TypeScript"
     },
     {
-      "repo": "hummingbot/hummingbot",
-      "url": "https://github.com/hummingbot/hummingbot",
-      "stars_today": 339,
+      "repo": "siteboon/claudecodeui",
+      "url": "https://github.com/siteboon/claudecodeui",
+      "stars_today": 62,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "stars_today": 163,
       "language": "Python"
+    },
+    {
+      "repo": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "stars_today": 142,
+      "language": "TypeScript"
     }
   ]
 }

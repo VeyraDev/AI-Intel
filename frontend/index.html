@@ -87,6 +87,9 @@
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
     }
+    .report-area .section-body {
+      position: relative;
+    }
     .report-area h2 {
       margin: 0;
       padding: 12px 16px;
@@ -98,6 +101,45 @@
       font-size: 0.97rem;
       padding: 18px 20px 20px;
       line-height: 1.7;
+    }
+    .report-summary {
+      max-height: 380px;
+      overflow: hidden;
+      position: relative;
+    }
+    .report-summary.has-more::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 80px;
+      background: linear-gradient(to bottom, rgba(15, 23, 42, 0), var(--panel));
+      pointer-events: none;
+    }
+    .report-toggle-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 20px 18px;
+      padding: 7px 14px;
+      border-radius: 999px;
+      border: 1px solid rgba(56, 189, 248, 0.55);
+      background: radial-gradient(circle at 0 0, rgba(56, 189, 248, 0.12), rgba(15, 23, 42, 0.96));
+      color: var(--accent-strong);
+      font-size: 0.8rem;
+      cursor: pointer;
+      transition: background 0.18s ease-out, transform 0.18s ease-out, box-shadow 0.18s ease-out;
+      box-shadow: 0 8px 24px rgba(15, 23, 42, 0.8);
+    }
+    .report-toggle-btn:hover {
+      background: radial-gradient(circle at 0 0, rgba(56, 189, 248, 0.2), rgba(15, 23, 42, 0.98));
+      transform: translateY(-1px);
+      box-shadow: 0 12px 32px rgba(15, 23, 42, 0.9);
+    }
+    .report-toggle-btn:active {
+      transform: translateY(0);
+      box-shadow: 0 6px 20px rgba(15, 23, 42, 0.85);
     }
     .report-content h1 { font-size: 1.2rem; margin: 0 0 0.6em; color: var(--text); }
     .report-content h2 { font-size: 1.05rem; margin: 1em 0 0.4em; color: var(--accent); }
@@ -175,6 +217,81 @@
     .sidebar .score { color: var(--green); font-weight: 600; }
     .sidebar .bilibili .score { color: var(--pink); }
 
+    /* 日报全文弹窗 */
+    .report-modal {
+      position: fixed;
+      inset: 0;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 40;
+    }
+    .report-modal.is-open {
+      display: flex;
+    }
+    .report-modal-backdrop {
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 10% 0, rgba(56, 189, 248, 0.16), transparent 55%),
+                  radial-gradient(circle at 90% 100%, rgba(236, 72, 153, 0.18), transparent 60%),
+                  rgba(15, 23, 42, 0.9);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+    }
+    .report-modal-dialog {
+      position: relative;
+      z-index: 1;
+      width: min(960px, 92vw);
+      max-height: 86vh;
+      border-radius: 20px;
+      background: radial-gradient(circle at 0 0, rgba(56, 189, 248, 0.14), transparent 55%),
+                  radial-gradient(circle at 100% 100%, rgba(236, 72, 153, 0.12), transparent 60%),
+                  rgba(15, 23, 42, 0.96);
+      border: 1px solid rgba(148, 163, 184, 0.38);
+      box-shadow:
+        0 26px 70px rgba(15, 23, 42, 0.95),
+        0 -3px 18px rgba(148, 163, 184, 0.18);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .report-modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 16px;
+      border-bottom: 1px solid rgba(148, 163, 184, 0.4);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .report-modal-close {
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      font-size: 1.1rem;
+      cursor: pointer;
+      padding: 4px 6px;
+      border-radius: 999px;
+      transition: background 0.15s ease-out, color 0.15s ease-out;
+    }
+    .report-modal-close:hover {
+      background: rgba(30, 64, 175, 0.6);
+      color: var(--text);
+    }
+    .report-modal-content {
+      padding: 16px 20px 20px;
+      overflow: auto;
+      font-size: 0.95rem;
+      line-height: 1.7;
+    }
+    .report-modal-content h1 { font-size: 1.25rem; margin: 0 0 0.8em; color: var(--text); }
+    .report-modal-content h2 { font-size: 1.05rem; margin: 1em 0 0.5em; color: var(--accent); }
+    .report-modal-content h3 { font-size: 1rem; margin: 0.8em 0 0.4em; color: var(--text); }
+    .report-modal-content hr { border: none; border-top: 1px solid var(--border); margin: 1em 0; }
+    .report-modal-content p { margin: 0.4em 0; }
+    .report-modal-content strong { font-weight: 700; color: var(--text); }
+    .report-modal-content ul, .report-modal-content ol { margin: 0.4em 0; padding-left: 1.5em; }
+
     /* 滚动淡入动画 */
     .reveal {
       opacity: 0;
@@ -202,7 +319,8 @@
         <h2>每日报告</h2>
         <div class="section-body">
           <div id="report-loading" class="loading">加载中…</div>
-          <div id="report-content" class="report-content" style="display:none;"></div>
+          <div id="report-summary" class="report-content report-summary" style="display:none;"></div>
+          <button id="report-more-btn" class="report-toggle-btn" style="display:none;">查看详情</button>
           <div id="report-empty" class="empty" style="display:none;">暂无报告</div>
           <div id="report-error" class="error" style="display:none;"></div>
         </div>
@@ -238,6 +356,18 @@
         </div>
       </section>
     </aside>
+  </div>
+
+  <!-- 日报全文弹窗 -->
+  <div id="report-modal" class="report-modal" aria-hidden="true">
+    <div class="report-modal-backdrop"></div>
+    <div class="report-modal-dialog" role="dialog" aria-modal="true" aria-label="每日报告全文">
+      <div class="report-modal-header">
+        <span>每日报告 · 全文</span>
+        <button id="report-modal-close" class="report-modal-close" aria-label="关闭">×</button>
+      </div>
+      <div id="report-modal-content" class="report-modal-content"></div>
+    </div>
   </div>
 
   <script>
@@ -320,9 +450,14 @@
     // 每日报告（居中）
     (async function loadReport() {
       const loading = document.getElementById('report-loading');
-      const content = document.getElementById('report-content');
+      const summaryEl = document.getElementById('report-summary');
+      const moreBtn = document.getElementById('report-more-btn');
       const empty = document.getElementById('report-empty');
       const errEl = document.getElementById('report-error');
+      const modal = document.getElementById('report-modal');
+      const modalContent = document.getElementById('report-modal-content');
+      const modalClose = document.getElementById('report-modal-close');
+      const modalBackdrop = modal.querySelector('.report-modal-backdrop');
       try {
         const data = await loadJson('reports.json');
         loading.style.display = 'none';
@@ -332,8 +467,29 @@
           empty.style.display = 'block';
           return;
         }
-        content.style.display = 'block';
-        content.innerHTML = reportMarkdownToHtml(latest.content);
+        const rawContent = String(latest.content || '');
+        const fullHtml = reportMarkdownToHtml(rawContent);
+
+        summaryEl.style.display = 'block';
+        summaryEl.innerHTML = fullHtml;
+
+        const isLong = rawContent.length > 800;
+        if (isLong) {
+          summaryEl.classList.add('has-more');
+          moreBtn.style.display = 'inline-flex';
+          const openModal = () => {
+            modalContent.innerHTML = fullHtml;
+            modal.classList.add('is-open');
+            modal.setAttribute('aria-hidden', 'false');
+          };
+          const closeModal = () => {
+            modal.classList.remove('is-open');
+            modal.setAttribute('aria-hidden', 'true');
+          };
+          moreBtn.onclick = openModal;
+          modalClose.onclick = closeModal;
+          modalBackdrop.onclick = closeModal;
+        }
         attachReveal('.report-area section');
       } catch (e) {
         loading.style.display = 'none';

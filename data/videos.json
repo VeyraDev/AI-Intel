@@ -1,39 +1,12 @@
 {
-  "date": "2026-02-17",
+  "date": "2026-02-24",
   "videos": [
     {
-      "id": "381a5ce0872ae33fed67fdd6f33cbbc496d01a7ec8701f48a3b6f4c356ed137d",
-      "title": "「Github一周热点104期」智谱GLM-5发布，打响春节AI大战模型第一枪",
-      "url": "https://www.bilibili.com/video/BV1e7ZJBREu8",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-15 09:00:00",
-      "score": 2.0,
-      "github_refs": []
-    },
-    {
-      "id": "979ad7e30df608121177e89a7a9ba1a994518b9506445b66c0c9d4c7efa9243f",
-      "title": "小白必看！教你用AI快速开发个人网站！",
-      "url": "https://www.bilibili.com/video/BV1VoZ7BnEJA",
-      "source": "我是阿众",
-      "published_at": "2026-02-14 19:00:23",
-      "score": 3.0,
-      "github_refs": []
-    },
-    {
-      "id": "b969e928e39667502572d2c9dd136e4293c9bbd4aebde2ed830082b3d2ecccf1",
-      "title": "男友拍照救星！openclaw+摩尔线程AIBOOK开发拍照POSE神器[实战分享]",
-      "url": "https://www.bilibili.com/video/BV1Qnc4z2EJV",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-12 12:00:00",
-      "score": 1.0,
-      "github_refs": []
-    },
-    {
-      "id": "f39106f5ec913c797e00e94ce00c460e990ede20a69447eca828880c49b6b912",
-      "title": "一杯奶茶难倒AI巨头？千问崩溃背后的AI时代技术变迁",
-      "url": "https://www.bilibili.com/video/BV1RTFDzSEjk",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-10 14:05:24",
+      "id": "f032023cfa88e84ce8a7866baaf87aa1c8d7c97fe5f01366461182b1929b887f",
+      "title": "那些GitHub上的奇怪项目，第八期",
+      "url": "https://www.bilibili.com/video/BV1qgcLzREu8",
+      "source": "果核次元",
+      "published_at": "2026-02-13 10:50:24",
       "score": 1.0,
       "github_refs": []
     },
@@ -43,6 +16,33 @@
       "url": "https://www.bilibili.com/video/BV1czFzzFEgv",
       "source": "TechTeam软件分享",
       "published_at": "2026-02-06 12:08:35",
+      "score": 2.0,
+      "github_refs": []
+    },
+    {
+      "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
+      "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
+      "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-01-26 15:39:47",
+      "score": 1.0,
+      "github_refs": []
+    },
+    {
+      "id": "15f4b4cb0d275e6e3ec0ece65403cd52f64394ae7c355f3b60d1b282242b78b0",
+      "title": "盘点4款99%的人用过都说无敌的GitHub开源软件!因为它连微信都敢搞!",
+      "url": "https://www.bilibili.com/video/BV1mrruB6EqS",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-01-10 11:25:00",
+      "score": 2.0,
+      "github_refs": []
+    },
+    {
+      "id": "80190b7ae7a6097afaaf436d5f33e753d8383d40085a121a3907d442203ab768",
+      "title": "盘点4款UP珍藏压箱底的GitHub开源项目!全是精华极品",
+      "url": "https://www.bilibili.com/video/BV1MNB4BEEab",
+      "source": "TechTeam软件分享",
+      "published_at": "2025-12-23 10:15:00",
       "score": 2.0,
       "github_refs": []
     }
