@@ -1,167 +1,107 @@
 {
   "updates": [
     {
-      "id": "520256a932f1d7271a4a3aad25857bcb720be77c4b06a7cd8c76e457f6ac2d50",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 2454
-    },
-    {
       "id": "99a611b7f09105ed4e7a76297de83dce14a79d3f1e5ed825249525e6bb39acc2",
       "title": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 1451
-    },
-    {
-      "id": "c196ed4b2211919813d231a113a1548000b95f21236344d87d2f80497cd984c6",
-      "title": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 470
+      "stars_today": 1269
     },
     {
       "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
       "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 178
+      "stars_today": 771
     },
     {
-      "id": "1643157b768c76e76ecc5855f9a23772fc5b4697369d72ccad6aec4ae82a2a43",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
+      "id": "c196ed4b2211919813d231a113a1548000b95f21236344d87d2f80497cd984c6",
+      "title": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 295
+      "stars_today": 517
     },
     {
-      "id": "803b9fa8552fe4d4d84337cf0833028681eb06d2c5d29943fbe2c4e9fadb8c62",
-      "title": "CompVis/stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
+      "id": "fbc021a1d0842b9cda0da9e4d3bf2c6743fb885a15bb25de1049974ba2e8a484",
+      "title": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 36
+      "stars_today": 231
     },
     {
-      "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "id": "520256a932f1d7271a4a3aad25857bcb720be77c4b06a7cd8c76e457f6ac2d50",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 467
+      "stars_today": 3612
     },
     {
-      "id": "fe5fc88a075141073100b76d7a150afbdaa74b7013e7383b202e630c94fea530",
-      "title": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
+      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 272
+      "stars_today": 1500
     },
     {
-      "id": "ee0f2cc33e4e81834555944b53e0140effa3cafc6dd9550d199e14d550cc8170",
-      "title": "stan-smith/FossFLOW",
-      "url": "https://github.com/stan-smith/FossFLOW",
+      "id": "5a2044ec833a3be37c67b37d680a3ac86cf780897f001042221cb9645d9c1065",
+      "title": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 430
+      "stars_today": 118
     },
     {
-      "id": "55c5e35b9bbd92d15c88e3a7d0d8a7800ee1a3c0f0ad444c77ed2d5b62b143aa",
-      "title": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
+      "id": "27f7d39d2140dd826dda49a37e63c41b52a40588933cdea74b1c57241fb90a99",
+      "title": "GVCLab/PersonaLive",
+      "url": "https://github.com/GVCLab/PersonaLive",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 624
+      "stars_today": 75
     },
     {
-      "id": "82e2c5469a3f6847b1da3e2b7ef59d3f74733a212e0836b6647aa0394e74d3ed",
-      "title": "cloudflare/agents",
-      "url": "https://github.com/cloudflare/agents",
+      "id": "b5a94d8d443193f18ce6a8327e52e9887f01733353e2d3742e23b3ed96093b76",
+      "title": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 318
-    },
-    {
-      "id": "0fec62714b872802d1b0cc7b5dd96bca2fbd7d596371759b197b8d911d922877",
-      "title": "siteboon/claudecodeui",
-      "url": "https://github.com/siteboon/claudecodeui",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 62
-    },
-    {
-      "id": "d9e005072ae243932d22eb9f84e02714d8c41af61bfea12a347ed93c9fd92577",
-      "title": "NevaMind-AI/memU",
-      "url": "https://github.com/NevaMind-AI/memU",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 163
-    },
-    {
-      "id": "669231e2bbcff448381e37937a0d13fa3f3408dd45c29d0b641a1e25f9245c45",
-      "title": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
+      "published_at": "2026-02-25",
       "score": 0.0,
       "tags": [
         "trending"
@@ -169,92 +109,116 @@
       "stars_today": 142
     },
     {
-      "id": "7ed6cdbf55630fd162f6e26fe525352a86704283553f035be0877eca6ad50283",
-      "title": "hiyouga closed an issue in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/issues/10207",
+      "id": "55c5e35b9bbd92d15c88e3a7d0d8a7800ee1a3c0f0ad444c77ed2d5b62b143aa",
+      "title": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-25",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 678
+    },
+    {
+      "id": "1ba6d19f7e65bd5a2f31a59ac9e7e4d368b9c3fbb31b560691e36b9e2655e145",
+      "title": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-25",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 7
+    },
+    {
+      "id": "c7fed6ba915636bdd0cd8d423f14f1df46f6ebc6aa1f3e5daa712e1989c1d62a",
+      "title": "hiyouga pushed EasyR1",
+      "url": "https://github.com/hiyouga/EasyR1/compare/35cb6f7991...3e4a8799b3",
       "source": "hiyouga",
-      "published_at": "2026-02-23 19:14:59 -0800",
+      "published_at": "2026-02-24 11:51:45 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "b26161400d8608f30b119daf02d2da70de6a727d91c9c9de3f1e66917158136c",
-      "title": "hiyouga commented on an issue in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/issues/10207#issuecomment-3948662028",
+      "id": "b4a3f01bb54e402d59e83c826bfac098583a7ca52f0a52f69ce32da536a4c72f",
+      "title": "hiyouga deleted",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/463f705544...0000000000",
       "source": "hiyouga",
-      "published_at": "2026-02-23 19:14:50 -0800",
+      "published_at": "2026-02-24 12:49:28 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7ed6cdbf55630fd162f6e26fe525352a86704283553f035be0877eca6ad50283",
-      "title": "hiyouga labeled an issue in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/issues/10207",
+      "id": "2c1409af7253779c728163d8fcdd6513885c3c85d6255825264ca0a16b5310d7",
+      "title": "hiyouga pushed AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/98d92a0351...70ed946894",
       "source": "hiyouga",
-      "published_at": "2026-02-23 19:14:41 -0800",
+      "published_at": "2026-02-24 12:49:26 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7ed6cdbf55630fd162f6e26fe525352a86704283553f035be0877eca6ad50283",
-      "title": "hiyouga unlabeled an issue in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/issues/10207",
+      "id": "34810b7c8632291ba5d3ec221dc0e5dcfe727a79c2c69fbb7455d75ef6d64c3d",
+      "title": "hiyouga pushed AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/03c378fb55...463f705544",
       "source": "hiyouga",
-      "published_at": "2026-02-23 19:14:41 -0800",
+      "published_at": "2026-02-24 12:31:23 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7ed6cdbf55630fd162f6e26fe525352a86704283553f035be0877eca6ad50283",
-      "title": "hiyouga unlabeled an issue in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/issues/10207",
-      "source": "hiyouga",
-      "published_at": "2026-02-23 19:14:41 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "a12db03568a0fb9b797524416480a97693401b1e0618387ab0213da7a2f964ed",
+      "id": "bf52008f1ee3c1edf3412ee6e818a6e0d9c49a7ed9e0006a45a7c512b27d4fb4",
       "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/a0f3ad0cee...50599c719b",
+      "url": "https://github.com/hiyouga/LlamaFactory/compare/50599c719b...aab9b400bb",
       "source": "hiyouga",
-      "published_at": "2026-02-24 03:14:21 UTC",
+      "published_at": "2026-02-24 11:54:38 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "644043e718addb57af07e4a616fe4db7a9a8f2306ff1038a2c6fd90622e5103e",
-      "title": "hiyouga closed a pull request in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/pull/10209",
+      "id": "a10f456715404d6d265cd054234d8b576711eabc30e24d350b7a9c003389e8b8",
+      "title": "hiyouga commented on an issue in LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/issues/10193#issuecomment-3951206043",
       "source": "hiyouga",
-      "published_at": "2026-02-23 09:53:37 -0800",
+      "published_at": "2026-02-24 03:53:55 -0800",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "6031eefaaf9d9e17ecc2713ef1472f285ccef14001b491fe212c6f731fab1ccf",
-      "title": "hiyouga commented on pull request hiyouga/LlamaFactory#10210",
-      "url": "https://github.com/hiyouga/LlamaFactory/pull/10210#discussion_r2844210153",
+      "id": "7cbc88420dd0262c31d1d536b73b91f2b68bcbd56f850c8f15249b70ed7b8b1e",
+      "title": "hiyouga closed an issue in EasyR1",
+      "url": "https://github.com/hiyouga/EasyR1/issues/652",
       "source": "hiyouga",
-      "published_at": "2026-02-24 02:55:34 UTC",
+      "published_at": "2026-02-24 03:51:45 -0800",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "a12edffa7025bb0c2db76c0cbe762fc308c69f4b24192333d1e9462524b6277c",
-      "title": "hiyouga commented on pull request hiyouga/LlamaFactory#10210",
-      "url": "https://github.com/hiyouga/LlamaFactory/pull/10210#discussion_r2844209340",
+      "id": "a230367d58bd7d5ec60f5bc438c89db85bf936cd39cbbfee678eaac1fefe2450",
+      "title": "hiyouga pushed EasyR1",
+      "url": "https://github.com/MING-ZCH/EasyR1/compare/c282d1fc26...410a1698f4",
       "source": "hiyouga",
-      "published_at": "2026-02-24 02:55:13 UTC",
+      "published_at": "2026-02-24 11:51:25 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "5662e370f624ecce35a30944b15d44cb525f353eb0c228130be0b00875b45e78",
-      "title": "hiyouga closed a pull request in LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/pull/10206",
+      "id": "9c7df4a30b26a16d3be216980a1dc41b2a272870aa0897d3d0e75c3f4d1471e2",
+      "title": "hiyouga deleted",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/8d1eb165d6...0000000000",
       "source": "hiyouga",
-      "published_at": "2026-02-21 16:11:57 -0800",
+      "published_at": "2026-02-24 11:24:25 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "bca37eefc34c9d107824b74371bc618eaef98156f55545a77034ed6d88d8c6e1",
+      "title": "hiyouga pushed AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/d13be840e0...98d92a0351",
+      "source": "hiyouga",
+      "published_at": "2026-02-24 11:24:23 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -412,18 +376,18 @@
       "tags": []
     },
     {
-      "id": "0a588978db4abafa322e35084b488f241a44f07e95f855ed2abf99b74717484b",
-      "title": "jessfraz pushed kittycad.rs",
-      "url": "https://github.com/KittyCAD/kittycad.rs/compare/d966f852aa...1cac8a6391",
+      "id": "3bb1d4cb8e6e2ebfb223b073a4917e4088b4b552bf35fbb614aa315039239a5a",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/kittycad.rs/compare/89c8e3a8f0...0000000000",
       "source": "jessfraz",
       "published_at": "2026-02-24 02:13:42 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "3bb1d4cb8e6e2ebfb223b073a4917e4088b4b552bf35fbb614aa315039239a5a",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.rs/compare/89c8e3a8f0...0000000000",
+      "id": "0a588978db4abafa322e35084b488f241a44f07e95f855ed2abf99b74717484b",
+      "title": "jessfraz pushed kittycad.rs",
+      "url": "https://github.com/KittyCAD/kittycad.rs/compare/d966f852aa...1cac8a6391",
       "source": "jessfraz",
       "published_at": "2026-02-24 02:13:42 UTC",
       "score": 0.0,
@@ -538,6 +502,33 @@
       "tags": []
     },
     {
+      "id": "f347a72a972625c536c7191215f72a9b956c72064fa618c7a76a122d1821af7f",
+      "title": "rsc opened an issue in ivy",
+      "url": "https://github.com/robpike/ivy/issues/262",
+      "source": "rsc",
+      "published_at": "2026-02-24 07:27:33 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "36cf0d17a8259610f202808db8bd8afc2823929246bd71607e53172ef39d9fec",
+      "title": "rsc opened an issue in ivy",
+      "url": "https://github.com/robpike/ivy/issues/261",
+      "source": "rsc",
+      "published_at": "2026-02-24 04:52:36 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "d0f58e996380ef2c86694da8a5f6f3bb92cc93b1ae34b74b63e75f954df14971",
+      "title": "rsc opened an issue in ivy",
+      "url": "https://github.com/robpike/ivy/issues/260",
+      "source": "rsc",
+      "published_at": "2026-02-24 04:46:36 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "8d4b2386195d7d7cd1421a49466149667d67921aca0d9782a9994187a2389dd9",
       "title": "rsc pushed fpfmt",
       "url": "https://github.com/rsc/fpfmt/compare/0a37c4b3ed...1b6605f7a0",
@@ -597,24 +588,6 @@
       "url": "https://github.com/rsc/rf/pull/54",
       "source": "rsc",
       "published_at": "2026-01-28 20:24:25 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "f5769870013221bb0cf565c2923762f700a1a1c84a5785731347b4115015330f",
-      "title": "rsc contributed to rsc/rf",
-      "url": "https://github.com/rsc/rf/pull/54",
-      "source": "rsc",
-      "published_at": "2026-01-26 11:21:15 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "77d3e5f954c2047de69b87dba3761cc6f10cd53a40714544af168f8c244cb8bd",
-      "title": "rsc pushed rf",
-      "url": "https://github.com/rsc/rf/compare/cc8efa1df9...bc4ed0b575",
-      "source": "rsc",
-      "published_at": "2026-01-29 04:23:47 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -849,15 +822,6 @@
       "url": "https://github.com/jart/cosmopolitan/compare/9ba2b50805...cc5f7dedad",
       "source": "jart",
       "published_at": "2026-01-25 02:22:31 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "88a8dca1e2b0f1d2c9b1c272a9825a0805f78a261835fd417e48e93b2ad917d8",
-      "title": "jart commented on an issue in graal",
-      "url": "https://github.com/oracle/graal/issues/8350#issuecomment-3793522977",
-      "source": "jart",
-      "published_at": "2026-01-23 18:23:55 -0800",
       "score": 0.0,
       "tags": []
     },

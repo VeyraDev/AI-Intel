@@ -1,89 +1,71 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "items": [
-    {
-      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars_today": 2454,
-      "language": ""
-    },
     {
       "repo": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
-      "stars_today": 1451,
-      "language": "Python"
-    },
-    {
-      "repo": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "stars_today": 470,
+      "stars_today": 1269,
       "language": "Python"
     },
     {
       "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "stars_today": 178,
+      "stars_today": 771,
       "language": "Python"
     },
     {
-      "repo": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "stars_today": 295,
-      "language": "HTML"
+      "repo": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "stars_today": 517,
+      "language": "Python"
     },
     {
-      "repo": "CompVis/stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
-      "stars_today": 36,
-      "language": "Jupyter Notebook"
+      "repo": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "stars_today": 231,
+      "language": "C++"
     },
     {
-      "repo": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "stars_today": 467,
-      "language": "TypeScript"
+      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "stars_today": 3612,
+      "language": ""
     },
     {
-      "repo": "Stremio/stremio-web",
-      "url": "https://github.com/Stremio/stremio-web",
-      "stars_today": 272,
-      "language": "JavaScript"
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1500,
+      "language": "Shell"
     },
     {
-      "repo": "stan-smith/FossFLOW",
-      "url": "https://github.com/stan-smith/FossFLOW",
-      "stars_today": 430,
-      "language": "TypeScript"
+      "repo": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
+      "stars_today": 118,
+      "language": "Rust"
+    },
+    {
+      "repo": "GVCLab/PersonaLive",
+      "url": "https://github.com/GVCLab/PersonaLive",
+      "stars_today": 75,
+      "language": "Python"
+    },
+    {
+      "repo": "HunxByts/GhostTrack",
+      "url": "https://github.com/HunxByts/GhostTrack",
+      "stars_today": 142,
+      "language": "Python"
     },
     {
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "stars_today": 624,
+      "stars_today": 678,
       "language": "Python"
     },
     {
-      "repo": "cloudflare/agents",
-      "url": "https://github.com/cloudflare/agents",
-      "stars_today": 318,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "siteboon/claudecodeui",
-      "url": "https://github.com/siteboon/claudecodeui",
-      "stars_today": 62,
-      "language": "JavaScript"
-    },
-    {
-      "repo": "NevaMind-AI/memU",
-      "url": "https://github.com/NevaMind-AI/memU",
-      "stars_today": 163,
-      "language": "Python"
-    },
-    {
-      "repo": "clash-verge-rev/clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "stars_today": 142,
-      "language": "TypeScript"
+      "repo": "openemr/openemr",
+      "url": "https://github.com/openemr/openemr",
+      "stars_today": 7,
+      "language": "PHP"
     }
   ]
 }

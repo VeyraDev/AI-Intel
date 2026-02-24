@@ -1,65 +1,65 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "updates": [
-    {
-      "id": "520256a932f1d7271a4a3aad25857bcb720be77c4b06a7cd8c76e457f6ac2d50",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 24.489462911574073,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 2454
-    },
     {
       "id": "99a611b7f09105ed4e7a76297de83dce14a79d3f1e5ed825249525e6bb39acc2",
       "title": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 24.489462911574073,
+      "published_at": "2026-02-25",
+      "score": 29.873830357291666,
       "tags": [
         "trending"
       ],
-      "stars_today": 1451
+      "stars_today": 1269
+    },
+    {
+      "id": "520256a932f1d7271a4a3aad25857bcb720be77c4b06a7cd8c76e457f6ac2d50",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-25",
+      "score": 29.873830357291666,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 3612
+    },
+    {
+      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-25",
+      "score": 29.873830357291666,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1500
+    },
+    {
+      "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
+      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-25",
+      "score": 26.293830357291668,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 771
     },
     {
       "id": "55c5e35b9bbd92d15c88e3a7d0d8a7800ee1a3c0f0ad444c77ed2d5b62b143aa",
       "title": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 17.969462911574077,
+      "published_at": "2026-02-25",
+      "score": 24.43383035729167,
       "tags": [
         "trending"
       ],
-      "stars_today": 624
-    },
-    {
-      "id": "c196ed4b2211919813d231a113a1548000b95f21236344d87d2f80497cd984c6",
-      "title": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 13.889462911574075,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 470
-    },
-    {
-      "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-24",
-      "score": 13.829462911574074,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 467
+      "stars_today": 678
     }
   ]
 }
