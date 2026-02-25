@@ -4,67 +4,73 @@
     {
       "repo": "huggingface/skills",
       "url": "https://github.com/huggingface/skills",
-      "stars_today": 1269,
+      "stars_today": 1206,
       "language": "Python"
     },
     {
       "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "stars_today": 771,
+      "stars_today": 722,
       "language": "Python"
     },
     {
       "repo": "OpenBB-finance/OpenBB",
       "url": "https://github.com/OpenBB-finance/OpenBB",
-      "stars_today": 517,
+      "stars_today": 504,
       "language": "Python"
     },
     {
       "repo": "LadybirdBrowser/ladybird",
       "url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars_today": 231,
+      "stars_today": 236,
       "language": "C++"
     },
     {
       "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars_today": 3612,
+      "stars_today": 3804,
       "language": ""
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 1500,
+      "stars_today": 1195,
       "language": "Shell"
     },
     {
       "repo": "ruvnet/ruvector",
       "url": "https://github.com/ruvnet/ruvector",
-      "stars_today": 118,
+      "stars_today": 41,
       "language": "Rust"
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "stars_today": 1970,
+      "language": "Python"
     },
     {
       "repo": "GVCLab/PersonaLive",
       "url": "https://github.com/GVCLab/PersonaLive",
-      "stars_today": 75,
+      "stars_today": 73,
       "language": "Python"
     },
     {
       "repo": "HunxByts/GhostTrack",
       "url": "https://github.com/HunxByts/GhostTrack",
-      "stars_today": 142,
+      "stars_today": 145,
       "language": "Python"
     },
     {
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
-      "stars_today": 678,
+      "stars_today": 714,
       "language": "Python"
     },
     {
       "repo": "openemr/openemr",
       "url": "https://github.com/openemr/openemr",
-      "stars_today": 7,
+      "stars_today": 13,
       "language": "PHP"
     }
   ]
