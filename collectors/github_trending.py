@@ -28,6 +28,9 @@ class GitHubTrendingCollector(ContentCollector):
         self.config = config
         self.storage = storage
         self.base_url = (config.get("github") or {}).get("base_url", "https://github.com/trending")
+        github_cfg = config.get("github") or {}
+        # 保留 Trending 历史的天数，用于后续趋势分析
+        self.history_days = int(github_cfg.get("history_days", 30))
 
     def collect(self, context: dict) -> None:
         if not requests or not BeautifulSoup:
@@ -95,5 +98,28 @@ class GitHubTrendingCollector(ContentCollector):
             )
 
         trending = Trending(date=today, items=items)
+        # 当日快照（供前端 & 当日 scoring 使用）
         self.storage.write_json("trending.json", trending.to_dict())
+
+        # 追加写入历史记录 trending_history.json（用于多日趋势分析）
+        if items:
+            existing = self.storage.read_json("trending_history.json")
+            if not existing or not isinstance(existing, dict):
+                existing = {"history": []}
+            history = existing.get("history") or []
+            if not isinstance(history, list):
+                history = []
+
+            # 将今天的快照插入最前面，如已有同日期记录则先过滤掉旧的
+            new_entry = {
+                "date": today,
+                "items": [ti.__dict__ for ti in items],
+            }
+            filtered = [h for h in history if isinstance(h, dict) and h.get("date") != today]
+            filtered.insert(0, new_entry)
+            if self.history_days > 0:
+                filtered = filtered[: self.history_days]
+            existing["history"] = filtered
+            self.storage.write_json("trending_history.json", existing)
+
         logger.info("GitHub trending: saved %d items for %s", len(items), today)

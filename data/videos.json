@@ -2,11 +2,51 @@
   "date": "2026-02-27",
   "videos": [
     {
-      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
-      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
-      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-26 18:00:00",
+      "id": "e734b3db8611c5200c719e38f6f3ade7084e8948a17666c8151fdf508fca8b94",
+      "title": "简直MAC救星!错过要拍大腿的!盘点3款MacOS必装的GitHub开源神器!",
+      "url": "https://www.bilibili.com/video/BV1wqfYBVEkC",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-02-26 11:30:00",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "979ad7e30df608121177e89a7a9ba1a994518b9506445b66c0c9d4c7efa9243f",
+      "title": "小白必看！教你用AI快速开发个人网站！",
+      "url": "https://www.bilibili.com/video/BV1VoZ7BnEJA",
+      "source": "我是阿众",
+      "published_at": "2026-02-14 19:00:23",
+      "score": 3.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c3dfd0b8a9fe2a5cf5b09cc821dcaa19b0569377baf3b3a33d1c706d1cdd73bc",
+      "title": "盘点4款好用到爆炸的GitHub开源软件!简直电脑装机必备!",
+      "url": "https://www.bilibili.com/video/BV1czFzzFEgv",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-02-06 12:08:35",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "3c26937de1370c1c88f37a161f1cef782932eb2eb97c28208a240cdfb2c4b562",
+      "title": "盘点全网最热门Agent Skills，手把手教你使用！",
+      "url": "https://www.bilibili.com/video/BV1iL6kBCEVA",
+      "source": "我是阿众",
+      "published_at": "2026-01-31 12:00:00",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
+      "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
+      "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-01-26 15:39:47",
       "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"
@@ -21,6 +61,86 @@
       "github_refs": [
         "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
       ],
+      "platform": "bilibili"
+    },
+    {
+      "id": "f032023cfa88e84ce8a7866baaf87aa1c8d7c97fe5f01366461182b1929b887f",
+      "title": "那些GitHub上的奇怪项目，第八期",
+      "url": "https://www.bilibili.com/video/BV1qgcLzREu8",
+      "source": "果核次元",
+      "published_at": "2026-02-13 10:50:24",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "aba3b5fadd6f15fb277aa2494a9e7aec687f747744c198cd950a54c641401778",
+      "title": "开源项目出一个火一个，大幅提升AI开发者能力的一系列项目，质量太高了！",
+      "url": "https://www.bilibili.com/video/BV1wHffBJEKM",
+      "source": "神秘的鱼仔",
+      "published_at": "2026-02-05 18:00:00",
+      "score": 3.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "e93fb8bf9f0c7de3c9804bb8b1926eeaea8aaa7cbdcc5052b602fca2f684855f",
+      "title": "美团也加入开源大模型的竞争了？LongCat模型实际效果究竟有啥不一样",
+      "url": "https://www.bilibili.com/video/BV1G3FNznE3U",
+      "source": "神秘的鱼仔",
+      "published_at": "2026-02-02 18:00:06",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "15f4b4cb0d275e6e3ec0ece65403cd52f64394ae7c355f3b60d1b282242b78b0",
+      "title": "盘点4款99%的人用过都说无敌的GitHub开源软件!因为它连微信都敢搞!",
+      "url": "https://www.bilibili.com/video/BV1mrruB6EqS",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-01-10 11:25:00",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "3d7880ca579ba203931b023df91395febaf270870dc41487029cf998944cc03c",
+      "title": "手把手教你在TRAE中创建和使用Skills，小白一看就懂！",
+      "url": "https://www.bilibili.com/video/BV1ZTzpBWEhF",
+      "source": "我是阿众",
+      "published_at": "2026-01-22 16:35:26",
+      "score": 3.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c1363482f5974a03b7a681d25c2ff6dc010bb27f6cebb482473f8b1eb0825292",
+      "title": "耗时1个月，我开发了一个AI资源搜索网站！完全免费！",
+      "url": "https://www.bilibili.com/video/BV13VrhBgEKb",
+      "source": "我是阿众",
+      "published_at": "2026-01-12 17:32:27",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "33a9056a0834c45b5c5c8fd07c588c1a6f32284781e19b2b26eb0f61a605271b",
+      "title": "惊了！现在用AI赚钱的人这么多了吗？",
+      "url": "https://www.bilibili.com/video/BV1ReqnBgE3N",
+      "source": "我是阿众",
+      "published_at": "2025-12-18 16:18:09",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
+      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
+      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-26 18:00:00",
+      "score": 1.0,
+      "github_refs": [],
       "platform": "bilibili"
     },
     {
@@ -54,42 +174,12 @@
       "platform": "bilibili"
     },
     {
-      "id": "e734b3db8611c5200c719e38f6f3ade7084e8948a17666c8151fdf508fca8b94",
-      "title": "简直MAC救星!错过要拍大腿的!盘点3款MacOS必装的GitHub开源神器!",
-      "url": "https://www.bilibili.com/video/BV1wqfYBVEkC",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-02-26 11:30:00",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "c3dfd0b8a9fe2a5cf5b09cc821dcaa19b0569377baf3b3a33d1c706d1cdd73bc",
-      "title": "盘点4款好用到爆炸的GitHub开源软件!简直电脑装机必备!",
-      "url": "https://www.bilibili.com/video/BV1czFzzFEgv",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-02-06 12:08:35",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
-      "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
-      "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-01-26 15:39:47",
+      "id": "f39106f5ec913c797e00e94ce00c460e990ede20a69447eca828880c49b6b912",
+      "title": "一杯奶茶难倒AI巨头？千问崩溃背后的AI时代技术变迁",
+      "url": "https://www.bilibili.com/video/BV1RTFDzSEjk",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-10 14:05:24",
       "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "15f4b4cb0d275e6e3ec0ece65403cd52f64394ae7c355f3b60d1b282242b78b0",
-      "title": "盘点4款99%的人用过都说无敌的GitHub开源软件!因为它连微信都敢搞!",
-      "url": "https://www.bilibili.com/video/BV1mrruB6EqS",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-01-10 11:25:00",
-      "score": 2.0,
       "github_refs": [],
       "platform": "bilibili"
     },
@@ -100,56 +190,6 @@
       "source": "TechTeam软件分享",
       "published_at": "2025-12-23 10:15:00",
       "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "979ad7e30df608121177e89a7a9ba1a994518b9506445b66c0c9d4c7efa9243f",
-      "title": "小白必看！教你用AI快速开发个人网站！",
-      "url": "https://www.bilibili.com/video/BV1VoZ7BnEJA",
-      "source": "我是阿众",
-      "published_at": "2026-02-14 19:00:23",
-      "score": 3.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "3c26937de1370c1c88f37a161f1cef782932eb2eb97c28208a240cdfb2c4b562",
-      "title": "盘点全网最热门Agent Skills，手把手教你使用！",
-      "url": "https://www.bilibili.com/video/BV1iL6kBCEVA",
-      "source": "我是阿众",
-      "published_at": "2026-01-31 12:00:00",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "3d7880ca579ba203931b023df91395febaf270870dc41487029cf998944cc03c",
-      "title": "手把手教你在TRAE中创建和使用Skills，小白一看就懂！",
-      "url": "https://www.bilibili.com/video/BV1ZTzpBWEhF",
-      "source": "我是阿众",
-      "published_at": "2026-01-22 16:35:26",
-      "score": 3.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "c1363482f5974a03b7a681d25c2ff6dc010bb27f6cebb482473f8b1eb0825292",
-      "title": "耗时1个月，我开发了一个AI资源搜索网站！完全免费！",
-      "url": "https://www.bilibili.com/video/BV13VrhBgEKb",
-      "source": "我是阿众",
-      "published_at": "2026-01-12 17:32:27",
-      "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "33a9056a0834c45b5c5c8fd07c588c1a6f32284781e19b2b26eb0f61a605271b",
-      "title": "惊了！现在用AI赚钱的人这么多了吗？",
-      "url": "https://www.bilibili.com/video/BV1ReqnBgE3N",
-      "source": "我是阿众",
-      "published_at": "2025-12-18 16:18:09",
-      "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"
     }

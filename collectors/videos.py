@@ -11,6 +11,9 @@ import os
 from typing import Any
 
 from collectors.base import SignalCollector
+from collectors import twitter_collector
+from collectors import twitter_scraper
+from collectors import twitter_twikit
 from models.video import Video
 from storage.json_store import JSONStore
 from utils.hashing import generate_id
@@ -42,7 +45,8 @@ class VideosCollector(SignalCollector):
         keywords_lower = set((k or "").strip().lower() for k in keywords)
         exclude = set((k or "").strip().lower() for k in video_filter.get("exclude_keywords") or [])
         fetch_limit = videos_cfg.get("fetch_limit", 20)
-        display_count = int(videos_cfg.get("display_count", 5))  # 写入 videos.json 的条数，按时间前 N
+        display_count = int(videos_cfg.get("display_count", 5))  # 前端主展示条数（按时间前 N）
+        max_history = int(videos_cfg.get("max_history", 50))     # videos.json 中最多保留多少条历史记录
         gh_extract = videos_cfg.get("github_extract") or {}
         gh_regex = gh_extract.get("regex", r"https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+")
         scoring = (videos_cfg.get("scoring") or {})
@@ -50,18 +54,46 @@ class VideosCollector(SignalCollector):
         github_ref_weight = float(scoring.get("github_ref_weight", 0.5))
 
         mentions: dict[str, int] = {}
-        all_videos: list[Video] = []   # 通过关键词过滤的
-        raw_videos: list[Video] = []   # 仅通过排除词，用作基础数据（无关键词匹配时）
+        all_videos: list[Video] = []   # 通过关键词过滤的（B站）
+        raw_videos: list[Video] = []   # 仅通过排除词，用作基础数据（无关键词匹配时，B站）
+
+        # 1) 采集各平台视频信号
+        twitter_items: list[dict[str, Any]] = []
 
         for platform_name, platform_cfg in platforms.items():
-            if not (platform_cfg.get("enabled") and platform_cfg.get("api_url")):
+            # 统一先看 enabled，具体平台再各自校验配置
+            if not platform_cfg.get("enabled"):
                 continue
             if platform_name == "bilibili":
+                if not platform_cfg.get("api_url"):
+                    logger.warning("Bilibili 平台未配置 api_url，跳过 B站视频采集")
+                    continue
                 self._collect_bilibili(
                     platform_cfg, keywords_lower, exclude, fetch_limit,
                     gh_regex, keyword_weight, github_ref_weight,
                     mentions, all_videos, raw_videos,
                 )
+            elif platform_name == "twitter":
+                # Twitter 视频推文采集可选择官方 API、网页爬虫或 twikit 模式
+                twitter_cfg = (self.config.get("twitter") or {})
+                mode = str(twitter_cfg.get("mode") or "api").lower()
+                try:
+                    if mode == "scrape":
+                        twitter_items = twitter_scraper.collect(self.config) or []
+                    elif mode == "twikit":
+                        twitter_items = twitter_twikit.collect(self.config) or []
+                    else:
+                        twitter_items = twitter_collector.collect(self.config) or []
+                except Exception as e:
+                    logger.warning("Twitter 视频采集失败（mode=%s）: %s", mode, e)
+                    twitter_items = []
+
+        # 2) 将 Twitter 中的 GitHub 引用并入 mentions，用于 bloggers.json 更新和 GitHub owner 提取
+        for item in twitter_items:
+            for ref in item.get("github_refs") or []:
+                if not ref:
+                    continue
+                mentions[ref] = mentions.get(ref, 0) + 1
 
         if mentions:
             # 从 GitHub 项目链接提取 owner 并加入 bloggers
@@ -71,27 +103,68 @@ class VideosCollector(SignalCollector):
             # 更新 bloggers.json（项目提及计数）
             self._update_bloggers_json(mentions)
 
-        # 按时间排序（published_at 降序，新的在前），取前 display_count 条；无日期置后
-        def sort_key(v: Video) -> tuple:
+        # 3) 合并 B站 与 Twitter 视频，统一写入 videos.json
+        # B站：按时间排序（published_at 降序，新的在前），取前 display_count 条；无日期置后
+        def sort_key_video(v: Video) -> tuple:
             # (0, date) 有日期时排前面，(1, "") 无日期时排后面；reverse 后新的在前
             return (0, v.published_at) if v.published_at else (1, "")
 
-        to_save = sorted(all_videos, key=sort_key, reverse=True)[:display_count]
-        if not to_save and raw_videos:
-            to_save = sorted(raw_videos, key=sort_key, reverse=True)[:display_count]
-            logger.info("Videos collector: 无关键词匹配，使用 %d 条基础数据（按时间前 %d）", len(to_save), display_count)
+        bili_selected: list[Video] = sorted(all_videos, key=sort_key_video, reverse=True)[:display_count]
+        if not bili_selected and raw_videos:
+            bili_selected = sorted(raw_videos, key=sort_key_video, reverse=True)[:display_count]
+            logger.info("Videos collector: 无关键词匹配，使用 %d 条基础数据（按时间前 %d）", len(bili_selected), display_count)
 
+        # 将 B站 Video 对象转为 dict，并标记平台为 bilibili
+        bili_dicts: list[dict[str, Any]] = []
+        for v in bili_selected:
+            d = v.to_dict()
+            d["platform"] = d.get("platform") or "bilibili"
+            bili_dicts.append(d)
+
+        # Twitter 项目已按统一 schema 返回，直接并入
+        merged: list[dict[str, Any]] = bili_dicts + list(twitter_items or [])
+
+        # 统一按 published_at 降序排序（缺失日期的排后）
+        def sort_key_any(item: dict[str, Any]) -> tuple:
+            published = str(item.get("published_at") or "")
+            return (0, published) if published else (1, "")
+
+        merged_sorted = sorted(merged, key=sort_key_any, reverse=True)
+
+        # 4) 与历史数据合并，而不是完全重写
         tz = get_timezone(self.config)
         today = format_date(get_now(tz))
-        # 每次 collect 执行时整体覆盖写入，不追加
+
+        existing = self.storage.read_json("videos.json")
+        if not existing or not isinstance(existing, dict):
+            existing = {"date": today, "videos": []}
+        existing_list = existing.get("videos") or []
+        if not isinstance(existing_list, list):
+            existing_list = []
+
+        # 新数据在前，历史在后，按 id 去重，限制总条数 max_history
+        combined = list(merged_sorted) + list(existing_list)
+        seen_ids: set[str] = set()
+        history: list[dict[str, Any]] = []
+        for item in combined:
+            if not isinstance(item, dict):
+                continue
+            vid = str(item.get("id") or "")
+            if not vid or vid in seen_ids:
+                continue
+            seen_ids.add(vid)
+            history.append(item)
+            if len(history) >= max_history:
+                break
+
         self.storage.write_json("videos.json", {
             "date": today,
-            "videos": [v.to_dict() for v in to_save],
+            "videos": history,
         })
         logger.info(
-            "Videos collector: bloggers %d mentions, videos.json %d items（按时间前 %d）%s",
-            len(mentions), len(to_save), display_count,
-            "（基础数据）" if not all_videos and to_save else "",
+            "Videos collector: bloggers %d mentions, videos.json 本次新增 %d 条，合计保留 %d 条（历史上限 %d）%s",
+            len(mentions), len(merged_sorted), len(history), max_history,
+            "（基础数据，仅 B站）" if not all_videos and bili_selected else "",
         )
 
     def _collect_bilibili(

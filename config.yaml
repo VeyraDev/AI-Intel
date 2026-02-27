@@ -6,6 +6,7 @@ collectors:
   content:
     - github_trending
     - bloggers
+    - research_feeds
 
 github:
   trending_since: daily
@@ -14,10 +15,67 @@ github:
   use_env_token: true
   owner_strategy: owner_only   # owner_only | owner_plus_contributors
   mention_threshold: 2         # 被提及多少次才加入推荐
+  history_days: 30             # GitHub Trending 历史保留天数（写入 trending_history.json）
 
 bloggers:
   max_count: 100
   inactive_days: 60
+
+research_feeds:
+  arxiv:
+    enabled: true
+    # Windows 下可能遇到 export.arxiv.org HTTPS 证书链缺失，默认用 HTTP 更稳
+    base_rss_url: http://export.arxiv.org/rss
+    # 多分类覆盖 + 单分类收敛（每类条数更少）：
+    categories:
+      - cs.AI
+      - cs.LG
+      - cs.CL
+      - stat.ML
+      - cs.IR
+      - cs.CV
+    max_entries_per_category: 12
+    scan_entries_per_category: 48
+    max_total_entries: 60
+    days_window: 1
+    summary_max_len: 800
+  blogs:
+    enabled: true
+    max_entries_per_feed: 8
+    scan_entries_per_feed: 40
+    max_total_entries: 40
+    days_window: 3
+    summary_max_len: 800
+    feeds:
+      - name: OpenAI
+        url: https://openai.com/news/rss.xml
+        tags: ["LLM", "research"]
+      - name: Anthropic
+        url: https://anthropic.com/news/feed_anthropic.xml
+        tags: ["safety", "research"]
+      - name: DeepMind
+        url: https://www.deepmind.com/blog/rss.xml
+        tags: ["research"]
+
+twitter:
+  # mode: api | scrape | twikit
+  # - api: 调用官方 X API（需要付费计划与 TWITTER_BEARER_TOKEN）
+  # - scrape: 通过 Nitter 等第三方网页实例爬取公开时间线
+  # - twikit: 使用 twikit + 网页登录方式采集（需在 .env 配置 TWIKIT_* 环境变量）
+  mode: twikit
+  api_base: https://api.twitter.com
+  # 要监控的 Twitter/X 账号（handle），例如 karpathy、OpenAI，支持写成 @karpathy 形式
+  accounts:
+    - karpathy
+
+  fetch_limit: 10      # 对应原先 max_tweets_per_account
+  days_window: 3
+  # 网页爬虫模式使用的基地址列表，会按顺序依次尝试，避免单个实例限流
+  scraper_bases:
+    - https://xcancel.com
+    - https://nitter.poast.org
+    - https://nitter.aishiteiru.moe
+    - https://nitter.aosus.link
 
 videos:
   platforms:
@@ -30,11 +88,28 @@ videos:
         - 319759808
         - 281120100
         - 445519880
+    twitter:
+      enabled: true
+      api_base: https://api.twitter.com
+      # 要监控的 Twitter/X 账号（handle），例如 karpathy、OpenAI，支持写成 @karpathy 形式
+      accounts:
+        - karpathy
+        - jeremyphoward
+        - simonw
+        - drjimfan
+        - _akhaliq
+        - anthropicai
+        - openai
+        - deepmind
+        - meta_ai
+      max_tweets_per_account: 10
+      days_window: 3
 
   fetch_limit: 20
   days_window: 7
   top_n: 10
   display_count: 5   # B站精选按时间顺序展示前 N 条（写入 videos.json）
+  max_history: 50    # videos.json 中最多保留多少条视频记录（新在前，自动去重）
 
   github_extract:
     enabled: true
@@ -66,6 +141,7 @@ processors:
   - deduplicate
   - scoring
   - filtering
+  - signal_normalizer
 
 keywords:
   - AI
@@ -81,7 +157,7 @@ scoring:
   recency_weight: 1
 
 limits:
-  top_n: 5
+  top_n: 12
   days_window: 7
 
 # ===== Generator Settings =====
@@ -98,7 +174,7 @@ report:
     qianfan: https://qianfan.baidubce.com/v2
     deepseek: https://api.deepseek.com
   temperature: 0.7
-  max_tokens: 4000
+  max_tokens: 3500
 
 # ===== Storage Settings =====
 

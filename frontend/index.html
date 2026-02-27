@@ -147,6 +147,17 @@
     .report-content hr { border: none; border-top: 1px solid var(--border); margin: 1em 0; }
     .report-content p { margin: 0.4em 0; }
     .report-content strong { font-weight: 700; color: var(--text); }
+    .report-content a,
+    .report-modal-content a {
+      color: #7dd3fc;           /* 柔和蓝青色，降低饱和度和对比 */
+      text-decoration: none;
+      border-bottom: 1px dashed rgba(125, 211, 252, 0.6);
+    }
+    .report-content a:hover,
+    .report-modal-content a:hover {
+      color: #e0f2fe;
+      border-bottom-color: rgba(224, 242, 254, 0.9);
+    }
     .report-content ul, .report-content ol { margin: 0.4em 0; padding-left: 1.5em; }
     .loading, .empty { color: var(--muted); padding: 16px; }
     .error { color: #f87171; padding: 16px; }
@@ -329,7 +340,7 @@
 
     <aside class="sidebar" aria-label="右侧栏">
       <section class="bilibili" aria-label="B站精选">
-        <h2><span class="sidebar-icon" aria-hidden="true">◎</span>B站精选</h2>
+        <h2><span class="sidebar-icon" aria-hidden="true">◎</span>视频精选</h2>
         <div class="section-body">
           <div id="videos-loading" class="loading">加载中…</div>
           <ul id="videos-list" class="list" style="display:none;"></ul>
@@ -384,7 +395,7 @@
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#39;');
     }
-    /** 将日报 Markdown 转为安全 HTML（# ** * --- 换行），避免裸符号观感差 */
+    /** 将日报 Markdown 转为安全 HTML（# ** * 链接 --- 换行），避免裸符号观感差 */
     function reportMarkdownToHtml(text) {
       if (text == null) return '';
       var s = String(text)
@@ -392,6 +403,8 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
+      // Markdown 链接：[标题](https://example.com)
+      s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noreferrer">$1</a>');
       s = s.replace(/^### (.+)$/gm, '<h3>$1</h3>');
       s = s.replace(/^## (.+)$/gm, '<h2>$1</h2>');
       s = s.replace(/^# (.+)$/gm, '<h1>$1</h1>');
@@ -498,7 +511,7 @@
       }
     })();
 
-    // B站精选（videos.json）
+    // 视频精选（videos.json，包含 B站 / Twitter 等）
     (async function loadVideos() {
       const loading = document.getElementById('videos-loading');
       const list = document.getElementById('videos-list');
@@ -518,7 +531,17 @@
         list.innerHTML = videos.map(v => `
           <li>
             <a href="${escapeHtml(v.url)}" target="_blank" rel="noreferrer">${escapeHtml(v.title)}</a>
-            <div class="meta">UP：${escapeHtml(v.source)}${v.published_at ? ' · ' + escapeHtml(String(v.published_at).slice(0, 10)) : ''}</div>
+            <div class="meta">
+              来源：${
+                v.platform
+                  ? (v.platform === 'twitter' ? 'Twitter' : (v.platform === 'bilibili' ? 'B站' : escapeHtml(String(v.platform))))
+                  : (String(v.url || '').indexOf('bilibili.com') >= 0 ? 'B站' : '')
+              } ${
+                v.source ? '· ' + escapeHtml(v.source) : ''
+              }${
+                v.published_at ? ' · ' + escapeHtml(String(v.published_at).slice(0, 10)) : ''
+              }
+            </div>
           </li>
         `).join('');
         attachReveal('#videos-list li');

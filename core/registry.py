@@ -7,11 +7,13 @@ from typing import Any, Type
 from collectors.base import BaseCollector, SignalCollector, ContentCollector
 from collectors.github_trending import GitHubTrendingCollector
 from collectors.bloggers import BloggersCollector
+from collectors.research_feeds import ResearchFeedsCollector
 from collectors.videos import VideosCollector
 from processor.base import BaseProcessor
 from processor.deduplicate import DeduplicateProcessor
 from processor.scoring import ScoringProcessor
 from processor.filtering import FilteringProcessor
+from processor.signal_normalizer import SignalNormalizerProcessor
 from generator.base import BaseGenerator
 from generator.daily_report import DailyReportGenerator
 from storage.json_store import JSONStore
@@ -22,12 +24,15 @@ logger = logging.getLogger("ai_intel")
 COLLECTORS: dict[str, Type[BaseCollector]] = {
     "github_trending": GitHubTrendingCollector,
     "bloggers": BloggersCollector,
+    "research_feeds": ResearchFeedsCollector,
     "videos": VideosCollector,
 }
 PROCESSORS: dict[str, Type[BaseProcessor]] = {
     "deduplicate": DeduplicateProcessor,
     "scoring": ScoringProcessor,
     "filtering": FilteringProcessor,
+    # 可选：将 updates 映射为统一的 Signal 列表，写入 context["signals"]
+    "signal_normalizer": SignalNormalizerProcessor,
 }
 GENERATORS: dict[str, Type[BaseGenerator]] = {
     "daily_report": DailyReportGenerator,

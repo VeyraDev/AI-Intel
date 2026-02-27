@@ -4,64 +4,100 @@
       "date": "2026-02-27",
       "items": [
         {
-          "repo": "clockworklabs/SpacetimeDB",
-          "url": "https://github.com/clockworklabs/SpacetimeDB",
-          "stars_today": 441,
-          "language": "Rust"
-        },
-        {
-          "repo": "obra/superpowers",
-          "url": "https://github.com/obra/superpowers",
-          "stars_today": 1532,
-          "language": "Shell"
-        },
-        {
-          "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-          "stars_today": 922,
+          "repo": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "stars_today": 362,
           "language": "Python"
         },
         {
           "repo": "bytedance/deer-flow",
           "url": "https://github.com/bytedance/deer-flow",
-          "stars_today": 617,
+          "stars_today": 692,
           "language": "TypeScript"
-        },
-        {
-          "repo": "huggingface/skills",
-          "url": "https://github.com/huggingface/skills",
-          "stars_today": 715,
-          "language": "Python"
-        },
-        {
-          "repo": "farion1231/cc-switch",
-          "url": "https://github.com/farion1231/cc-switch",
-          "stars_today": 418,
-          "language": "Rust"
-        },
-        {
-          "repo": "D4Vinci/Scrapling",
-          "url": "https://github.com/D4Vinci/Scrapling",
-          "stars_today": 2902,
-          "language": "Python"
-        },
-        {
-          "repo": "ruvnet/claude-flow",
-          "url": "https://github.com/ruvnet/claude-flow",
-          "stars_today": 215,
-          "language": "TypeScript"
-        },
-        {
-          "repo": "ruvnet/ruvector",
-          "url": "https://github.com/ruvnet/ruvector",
-          "stars_today": 436,
-          "language": "Rust"
         },
         {
           "repo": "moonshine-ai/moonshine",
           "url": "https://github.com/moonshine-ai/moonshine",
-          "stars_today": 245,
+          "stars_today": 587,
           "language": "C"
+        },
+        {
+          "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "stars_today": 836,
+          "language": "Python"
+        },
+        {
+          "repo": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "stars_today": 1549,
+          "language": "Shell"
+        },
+        {
+          "repo": "ruvnet/claude-flow",
+          "url": "https://github.com/ruvnet/claude-flow",
+          "stars_today": 545,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "stars_today": 312,
+          "language": "Python"
+        },
+        {
+          "repo": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "stars_today": 1350,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "stars_today": 229,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "stars_today": 479,
+          "language": "Shell"
+        },
+        {
+          "repo": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "stars_today": 411,
+          "language": "Rust"
+        },
+        {
+          "repo": "Wei-Shaw/claude-relay-service",
+          "url": "https://github.com/Wei-Shaw/claude-relay-service",
+          "stars_today": 56,
+          "language": "JavaScript"
+        },
+        {
+          "repo": "tukaani-project/xz",
+          "url": "https://github.com/tukaani-project/xz",
+          "stars_today": 119,
+          "language": "C"
+        },
+        {
+          "repo": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "stars_today": 1127,
+          "language": "Python"
+        },
+        {
+          "repo": "steipete/CodexBar",
+          "url": "https://github.com/steipete/CodexBar",
+          "stars_today": 377,
+          "language": "Swift"
+        },
+        {
+          "repo": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "stars_today": 107,
+          "language": "Python"
         }
       ]
     },

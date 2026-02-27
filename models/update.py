@@ -12,6 +12,8 @@ class Update:
     published_at: str = ""
     score: float = 0.0
     tags: list[str] = field(default_factory=list)
+    # Optional: content snippet (abstract / RSS summary) to help daily report analysis
+    summary: str = ""
     # Optional for trending: stars_today
     stars_today: int | None = None
 
@@ -24,6 +26,7 @@ class Update:
             "published_at": self.published_at,
             "score": self.score,
             "tags": self.tags,
+            **({"summary": self.summary} if self.summary else {}),
             **({"stars_today": self.stars_today} if self.stars_today is not None else {}),
         }
 
@@ -37,5 +40,6 @@ class Update:
             published_at=d.get("published_at", ""),
             score=float(d.get("score", 0)),
             tags=list(d.get("tags") or []),
+            summary=d.get("summary", "") or "",
             stars_today=d.get("stars_today"),
         )
