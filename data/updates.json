@@ -1,65 +1,65 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-27",
   "updates": [
-    {
-      "id": "99a611b7f09105ed4e7a76297de83dce14a79d3f1e5ed825249525e6bb39acc2",
-      "title": "huggingface/skills",
-      "url": "https://github.com/huggingface/skills",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-25",
-      "score": 29.873830357291666,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 1269
-    },
-    {
-      "id": "520256a932f1d7271a4a3aad25857bcb720be77c4b06a7cd8c76e457f6ac2d50",
-      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-25",
-      "score": 29.873830357291666,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 3612
-    },
     {
       "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "published_at": "2026-02-25",
-      "score": 29.873830357291666,
+      "published_at": "2026-02-27",
+      "score": 26.031445503472224,
       "tags": [
         "trending"
       ],
-      "stars_today": 1500
+      "stars_today": 1532
+    },
+    {
+      "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-27",
+      "score": 26.031445503472224,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 2902
     },
     {
       "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
       "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
       "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
       "source": "GitHub Trending",
-      "published_at": "2026-02-25",
-      "score": 26.293830357291668,
+      "published_at": "2026-02-27",
+      "score": 25.471445503472225,
       "tags": [
         "trending"
       ],
-      "stars_today": 771
+      "stars_today": 922
     },
     {
-      "id": "55c5e35b9bbd92d15c88e3a7d0d8a7800ee1a3c0f0ad444c77ed2d5b62b143aa",
-      "title": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
+      "id": "99a611b7f09105ed4e7a76297de83dce14a79d3f1e5ed825249525e6bb39acc2",
+      "title": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
       "source": "GitHub Trending",
-      "published_at": "2026-02-25",
-      "score": 24.43383035729167,
+      "published_at": "2026-02-27",
+      "score": 20.331445503472224,
       "tags": [
         "trending"
       ],
-      "stars_today": 678
+      "stars_today": 715
+    },
+    {
+      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-27",
+      "score": 18.371445503472223,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 617
     }
   ]
 }

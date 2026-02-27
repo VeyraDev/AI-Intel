@@ -1,0 +1,170 @@
+{
+  "history": [
+    {
+      "date": "2026-02-27",
+      "items": [
+        {
+          "repo": "clockworklabs/SpacetimeDB",
+          "url": "https://github.com/clockworklabs/SpacetimeDB",
+          "stars_today": 441,
+          "language": "Rust"
+        },
+        {
+          "repo": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "stars_today": 1532,
+          "language": "Shell"
+        },
+        {
+          "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "stars_today": 922,
+          "language": "Python"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stars_today": 617,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "stars_today": 715,
+          "language": "Python"
+        },
+        {
+          "repo": "farion1231/cc-switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "stars_today": 418,
+          "language": "Rust"
+        },
+        {
+          "repo": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "stars_today": 2902,
+          "language": "Python"
+        },
+        {
+          "repo": "ruvnet/claude-flow",
+          "url": "https://github.com/ruvnet/claude-flow",
+          "stars_today": 215,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "stars_today": 436,
+          "language": "Rust"
+        },
+        {
+          "repo": "moonshine-ai/moonshine",
+          "url": "https://github.com/moonshine-ai/moonshine",
+          "stars_today": 245,
+          "language": "C"
+        }
+      ]
+    },
+    {
+      "date": "2026-02-26",
+      "items": [
+        {
+          "repo": "D4Vinci/Scrapling",
+          "url": "https://github.com/D4Vinci/Scrapling",
+          "stars_today": 1656,
+          "language": "Python"
+        },
+        {
+          "repo": "huggingface/skills",
+          "url": "https://github.com/huggingface/skills",
+          "stars_today": 1538,
+          "language": "Python"
+        },
+        {
+          "repo": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "stars_today": 894,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "stars_today": 1250,
+          "language": "Shell"
+        },
+        {
+          "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+          "stars_today": 1042,
+          "language": "Python"
+        },
+        {
+          "repo": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "stars_today": 222,
+          "language": "Python"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stars_today": 59,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "stars_today": 378,
+          "language": "Python"
+        },
+        {
+          "repo": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "stars_today": 187,
+          "language": "Python"
+        },
+        {
+          "repo": "ruvnet/ruvector",
+          "url": "https://github.com/ruvnet/ruvector",
+          "stars_today": 437,
+          "language": "Rust"
+        },
+        {
+          "repo": "NVIDIA/Megatron-LM",
+          "url": "https://github.com/NVIDIA/Megatron-LM",
+          "stars_today": 10,
+          "language": "Python"
+        },
+        {
+          "repo": "shareAI-lab/learn-claude-code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "stars_today": 175,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
+          "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+          "stars_today": 1241,
+          "language": ""
+        },
+        {
+          "repo": "katanemo/plano",
+          "url": "https://github.com/katanemo/plano",
+          "stars_today": 205,
+          "language": "Rust"
+        },
+        {
+          "repo": "liyupi/ai-guide",
+          "url": "https://github.com/liyupi/ai-guide",
+          "stars_today": 182,
+          "language": "JavaScript"
+        },
+        {
+          "repo": "siteboon/claudecodeui",
+          "url": "https://github.com/siteboon/claudecodeui",
+          "stars_today": 73,
+          "language": "TypeScript"
+        }
+      ]
+    }
+  ]
+}

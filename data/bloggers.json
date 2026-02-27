@@ -93,8 +93,24 @@
       "name": "awesome-english-ebooks",
       "source": "https://github.com/https://github.com/hehonghui/awesome-english-ebooks",
       "active": true,
+      "mention_count": 3,
+      "last_seen": "2026-02-26"
+    },
+    {
+      "id": "x1xhlol",
+      "name": "x1xhlol",
+      "source": "https://github.com/x1xhlol.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": "2026-02-26"
+    },
+    {
+      "id": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "name": "system-prompts-and-models-of-ai-tools",
+      "source": "https://github.com/https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "active": true,
       "mention_count": 2,
-      "last_seen": "2026-02-25"
+      "last_seen": "2026-02-26"
     }
   ]
 }

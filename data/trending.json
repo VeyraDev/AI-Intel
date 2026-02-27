@@ -1,77 +1,65 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-27",
   "items": [
     {
-      "repo": "huggingface/skills",
-      "url": "https://github.com/huggingface/skills",
-      "stars_today": 1206,
-      "language": "Python"
-    },
-    {
-      "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "stars_today": 722,
-      "language": "Python"
-    },
-    {
-      "repo": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "stars_today": 504,
-      "language": "Python"
-    },
-    {
-      "repo": "LadybirdBrowser/ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "stars_today": 236,
-      "language": "C++"
-    },
-    {
-      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "stars_today": 3804,
-      "language": ""
+      "repo": "clockworklabs/SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "stars_today": 441,
+      "language": "Rust"
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "stars_today": 1195,
+      "stars_today": 1532,
       "language": "Shell"
     },
     {
-      "repo": "ruvnet/ruvector",
-      "url": "https://github.com/ruvnet/ruvector",
-      "stars_today": 41,
+      "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "stars_today": 922,
+      "language": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars_today": 617,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "stars_today": 715,
+      "language": "Python"
+    },
+    {
+      "repo": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "stars_today": 418,
       "language": "Rust"
     },
     {
       "repo": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
-      "stars_today": 1970,
+      "stars_today": 2902,
       "language": "Python"
     },
     {
-      "repo": "GVCLab/PersonaLive",
-      "url": "https://github.com/GVCLab/PersonaLive",
-      "stars_today": 73,
-      "language": "Python"
+      "repo": "ruvnet/claude-flow",
+      "url": "https://github.com/ruvnet/claude-flow",
+      "stars_today": 215,
+      "language": "TypeScript"
     },
     {
-      "repo": "HunxByts/GhostTrack",
-      "url": "https://github.com/HunxByts/GhostTrack",
-      "stars_today": 145,
-      "language": "Python"
+      "repo": "ruvnet/ruvector",
+      "url": "https://github.com/ruvnet/ruvector",
+      "stars_today": 436,
+      "language": "Rust"
     },
     {
-      "repo": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "stars_today": 714,
-      "language": "Python"
-    },
-    {
-      "repo": "openemr/openemr",
-      "url": "https://github.com/openemr/openemr",
-      "stars_today": 13,
-      "language": "PHP"
+      "repo": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "stars_today": 245,
+      "language": "C"
     }
   ]
 }
