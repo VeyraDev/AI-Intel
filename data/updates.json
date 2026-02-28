@@ -2,85 +2,117 @@
   "date": "2026-02-28",
   "updates": [
     {
-      "id": "9cb35e6bcbe0bc4402490532dfe6c78d0d83bc15477788e307cfe9886c89aa9e",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/959c798cb0...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:38 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-28",
+      "score": 25.59716945,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1546
     },
     {
-      "id": "e3bb7ad099149879cee6700bb12ad499a2d0d5685eabba57c60938e8775a46ec",
-      "title": "jessfraz pushed kittycad.ts",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/f7adc35ae6...e62feb1151",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:36 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-28",
+      "score": 25.59716945,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1385
     },
     {
-      "id": "e416b75b8c185424393bf5b5c45d7596fcaa831736a56208053f912fd2322c2b",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/b3d910a0f8...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:29 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-28",
+      "score": 25.59716945,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1135
     },
     {
-      "id": "77dbb0311eae27eb1097a96623658efae2e16cfee00c543c37c4564c057dfbd7",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/documentation/compare/075b8f6be7...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:29 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
+      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "source": "GitHub Trending",
+      "published_at": "2026-02-28",
+      "score": 22.657169449999998,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 803
     },
     {
-      "id": "1cb2e1ef661ba8d624d5c16d37a9f2d9b1053f18ca3f009a93ec377886540248",
-      "title": "jessfraz pushed kittycad.ts",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/fd80d478df...f7adc35ae6",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:27 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "8c5697d6be74115a4ccb59a32dbe301a6000123745bb488139d7069b69484572",
+      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
+      "url": "https://arxiv.org/abs/2602.22302",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-02-27T13:00:00+08:00",
+      "score": 3.013836116666666,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2602.22302v1 Announce Type: new Abstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract principles to autonomous AI agents. An ABC contract C = (P, I, G, R) specifies Preconditions, Invariants, Governance policies, and Recovery mechanisms as first-class, runtime-enforceable components. We define (p, delta, k)-satisfaction -- a probabilistic notion of contract compliance that accounts for…"
     },
     {
-      "id": "333aa2f21d2b3cb38c27d9ca78f25460658c97de71ae3e68658e7433e3f67aeb",
-      "title": "jessfraz pushed documentation",
-      "url": "https://github.com/KittyCAD/documentation/compare/a3dfd26e93...7f6729a33a",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:27 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "e5cc746952f9cc70cf41386fe2b3594fb45b8bd6e9beb2c57db0535438286975",
+      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
+      "url": "https://arxiv.org/abs/2602.22401",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-02-27T13:00:00+08:00",
+      "score": 3.013836116666666,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2602.22401v1 Announce Type: new Abstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept of vibe researching -- the AI-era parallel to ``vibe coding'' (Karpathy, 2025) -- and uses scholar-skill, a 21-skill plugin for Claude Code covering the full research pipeline from idea to submission, as an illustrative case. I develop a cognitive task framework that classifies research activities a…"
     },
     {
-      "id": "433e7c403801b0693e7f8d7eaa5a1410d8486f39981602b6dcc101f3b82bce55",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/9e4b03625a...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:06 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "f8dcc59f88a1ec98e11d842211b25b884458fe04a04620f091c06bd310d4577a",
+      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
+      "url": "https://arxiv.org/abs/2602.22425",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-02-27T13:00:00+08:00",
+      "score": 3.013836116666666,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2602.22425v1 Announce Type: new Abstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains. Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatically design/implement state-of-the-art (SoTA) cache replacement policies (architecting new mechanisms/logic, not only changing parameters), broadly within the confines of an established cache replacement policy design competition. In two days without human intervention, ArchAgent generated a policy achie…"
     },
     {
-      "id": "e2ce94b1fb4a75e0fc00286401b28d88bf8eb742e1e95d47da88e685e112188c",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/8b318c9d8f...5ae1048ff1",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:05 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "33321add1add9e1db7b45b4784c302385f7c2fc40501256879da5661e180fa52",
+      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
+      "url": "https://arxiv.org/abs/2602.22442",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-02-27T13:00:00+08:00",
+      "score": 3.013836116666666,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2602.22442v1 Announce Type: new Abstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediate decision quality. To address this limitation, we propose an Evaluation Agent (EA) that performs decision-centric assessment of AutoML agents without interfering with their execution. The EA is designed as an observer that evaluates intermediate decisions along four dimensions: decision validity, re…"
     },
     {
-      "id": "94e6a9bfead08b6bfd74d115ca912d089d8d25d2b6109d9ccf00ca0198ccba56",
-      "title": "rsc pushed fpfmt",
-      "url": "https://github.com/rsc/fpfmt/compare/1b6605f7a0...ec108cbb39",
-      "source": "rsc",
-      "published_at": "2026-02-27 14:51:39 UTC",
-      "score": 0.0,
-      "tags": []
+      "id": "5a87d9f3b7661bd7e4a729914df4f91c2762fc66a84838ee8849707ba64ae4fa",
+      "title": "Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs",
+      "url": "https://arxiv.org/abs/2602.22481",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-02-27T13:00:00+08:00",
+      "score": 3.013836116666666,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2602.22481v1 Announce Type: new Abstract: The way LLM-based entities conceive of the relationship between AI and humans is an important topic for both cultural and safety reasons. When we examine this topic, what matters is not only the model itself but also the personas we simulate on that model. This can be well illustrated by the Sydney persona, which aroused a strong response among the general public precisely because of its unorthodox relationship with people. This persona originally arose rather by accident on Microsoft's Bing Search platform; however, the texts it created spread into the training data of subsequent models, as did other secondary information that spread memetically around this persona. Newer models are therefore able to simulate it. This paper presents a corpus…"
     }
   ]
 }

@@ -160,6 +160,10 @@ scoring:
 limits:
   top_n: 12
   days_window: 7
+  # 数据来源保底占比（12 条中）：arxiv/RSS 5，GitHub 4，视频 3。启用后 filtering 按此配额选 updates，日报再并入 quota_video 条视频
+  quota_arxiv_rss: 5
+  quota_github: 4
+  quota_video: 3
 
 # ===== Generator Settings =====
 

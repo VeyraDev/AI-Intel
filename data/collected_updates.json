@@ -10,7 +10,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 362
+      "stars_today": 478
     },
     {
       "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
@@ -22,7 +22,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 692
+      "stars_today": 696
     },
     {
       "id": "7547f04e59e3dac6a8e07c1d57ac73d028d9c70495eec1634f74c9b603e059f7",
@@ -34,7 +34,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 587
+      "stars_today": 593
     },
     {
       "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
@@ -46,7 +46,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 836
+      "stars_today": 803
     },
     {
       "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
@@ -58,19 +58,19 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 1549
+      "stars_today": 1546
     },
     {
-      "id": "6ad1e16cbe12358205a5c4ffc99e9fd27be59a49eafdeef070ce248ad9f2b8cc",
-      "title": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
+      "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "published_at": "2026-02-28",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 545
+      "stars_today": 531
     },
     {
       "id": "ee7e0e584b2626a327b173616b2c3ee13175affa6c818aff2164baed66b0b72f",
@@ -82,7 +82,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 312
+      "stars_today": 324
     },
     {
       "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
@@ -94,7 +94,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 1327
+      "stars_today": 1385
     },
     {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
@@ -106,7 +106,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 229
+      "stars_today": 199
     },
     {
       "id": "13d96f6971fff698ebc53296b5f40ff14d755c304dc9f7e1b703b58e032f85a9",
@@ -118,7 +118,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 515
+      "stars_today": 494
     },
     {
       "id": "5a2044ec833a3be37c67b37d680a3ac86cf780897f001042221cb9645d9c1065",
@@ -130,7 +130,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 411
+      "stars_today": 410
     },
     {
       "id": "6e149c068f16c883b2128325c30ecbe304d60e662b75f962535c4ccf56c72629",
@@ -142,7 +142,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 74
+      "stars_today": 53
     },
     {
       "id": "d1da0d4c0e8e0349c39b46668ce71f6e93d2fe110e65c0918e93a6b828cee993",
@@ -154,7 +154,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 119
+      "stars_today": 85
     },
     {
       "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
@@ -166,7 +166,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 1127
+      "stars_today": 1135
     },
     {
       "id": "d42fad4e939c91ccd409ba1b127bd24d8e5965436cd89a41d2746a375b31c8c1",
@@ -178,7 +178,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 221
+      "stars_today": 243
     },
     {
       "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
@@ -190,7 +190,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 107
+      "stars_today": 105
     },
     {
       "id": "82b9b3949bb9cc0e34830c1a7bdd909e5248ffba0570f2e42b1766a1a528d8e7",
@@ -382,6 +382,60 @@
       "tags": []
     },
     {
+      "id": "ddef81cb8a6e78ceee26f3988df278a3a9bab1fe64c81f0490888fcba550a0c5",
+      "title": "jessfraz pushed global-nix",
+      "url": "https://github.com/jessfraz/global-nix/compare/0e36ff9297...ff91713fc2",
+      "source": "jessfraz",
+      "published_at": "2026-02-28 01:16:05 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7a7a0a12cddf5373fcf7c01ef84ccce5d2475b0d9a5df8855daa586e66161770",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/documentation/compare/fd84b3378c...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-28 01:10:45 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7393ffeff4cb6438c31bed4b3203713ea0e7d15ba84051e92ca39fc81665c70f",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/5d17b2dce1...bc8007a4fc",
+      "source": "jessfraz",
+      "published_at": "2026-02-28 01:10:43 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "c46eed067334ca9f217ecbce3c8682d663d25d008c434c11221d3a55cfbe5962",
+      "title": "jessfraz pushed global-nix",
+      "url": "https://github.com/jessfraz/global-nix/compare/4c241e8980...0e36ff9297",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 23:16:47 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e967277ddefadb9a0beff77eba289ebd1d42df814f99c3ef0ff1f9140046306d",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/documentation/compare/3232e84394...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 19:11:05 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "0db3655dd65a440e5042e843a569dcd083218467927f9632cd68dc92f5840b99",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/7f6729a33a...5d17b2dce1",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 19:11:03 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "9cb35e6bcbe0bc4402490532dfe6c78d0d83bc15477788e307cfe9886c89aa9e",
       "title": "jessfraz deleted",
       "url": "https://github.com/KittyCAD/kittycad.ts/compare/959c798cb0...0000000000",
@@ -414,60 +468,6 @@
       "url": "https://github.com/KittyCAD/documentation/compare/075b8f6be7...0000000000",
       "source": "jessfraz",
       "published_at": "2026-02-27 16:01:29 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "1cb2e1ef661ba8d624d5c16d37a9f2d9b1053f18ca3f009a93ec377886540248",
-      "title": "jessfraz pushed kittycad.ts",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/fd80d478df...f7adc35ae6",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:27 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "333aa2f21d2b3cb38c27d9ca78f25460658c97de71ae3e68658e7433e3f67aeb",
-      "title": "jessfraz pushed documentation",
-      "url": "https://github.com/KittyCAD/documentation/compare/a3dfd26e93...7f6729a33a",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:27 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "433e7c403801b0693e7f8d7eaa5a1410d8486f39981602b6dcc101f3b82bce55",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/9e4b03625a...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:06 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "e2ce94b1fb4a75e0fc00286401b28d88bf8eb742e1e95d47da88e685e112188c",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/8b318c9d8f...5ae1048ff1",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:05 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "6a4baf9986b10514cf56abcbd522593c00f503ccab84859862ef488bd080c252",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.py/compare/98aea70853...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-26 17:37:49 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "f5c295f513350bd9e3085e5326814dd2c84cf0c4e8415436431d95bc3597c450",
-      "title": "jessfraz pushed kittycad.py",
-      "url": "https://github.com/KittyCAD/kittycad.py/compare/5ccf3e79d9...a779cde71d",
-      "source": "jessfraz",
-      "published_at": "2026-02-26 17:37:49 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -859,6 +859,15 @@
       "tags": []
     },
     {
+      "id": "7e027bcab20aee33eb114cd51ae954e0889a94b20daddf4f2cec4b92c8b4e2aa",
+      "title": "hehonghui pushed awesome-english-ebooks",
+      "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/8945ca0886...ece324874c",
+      "source": "hehonghui",
+      "published_at": "2026-02-27 21:45:49 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "43d55c9e902de59612466f47597b29c162fa09230e59e6f853460cd9c3d39b30",
       "title": "hehonghui pushed awesome-english-ebooks",
       "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/9904010207...8945ca0886",
@@ -936,15 +945,6 @@
       "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/1a644b306c...cd15e83b74",
       "source": "hehonghui",
       "published_at": "2026-01-30 21:47:20 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "0df1d53c97158be2c1a3959c8ebaa8806be1579eba89cb73f4167d980edb33a4",
-      "title": "hehonghui pushed awesome-english-ebooks",
-      "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/bb97c7f341...1a644b306c",
-      "source": "hehonghui",
-      "published_at": "2026-01-29 21:22:56 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -1039,9 +1039,9 @@
       "tags": []
     },
     {
-      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
+      "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
       "source": "OpenAI",
       "published_at": "2026-02-27T13:30:00+08:00",
       "score": 0.0,
@@ -1051,7 +1051,7 @@
         "LLM",
         "research"
       ],
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
     },
     {
       "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
@@ -1069,21 +1069,6 @@
       "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     },
     {
-      "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
-    },
-    {
       "id": "751ba7518e2eeb3abc690f54b8e45a324418424f60f9fbd96e3e8944cb215356",
       "title": "Scaling AI for everyone",
       "url": "https://openai.com/index/scaling-ai-for-everyone",
@@ -1097,6 +1082,21 @@
         "research"
       ],
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
+    },
+    {
+      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T13:30:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "blog",
+        "research",
+        "LLM",
+        "research"
+      ],
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
     },
     {
       "id": "e3deb58a6284e2be57ed600810621ee3836cf3daec07b8d08b172ef871f11d4d",
@@ -1879,6 +1879,21 @@
       "summary": "arXiv:2602.22226v1 Announce Type: new Abstract: In the realm of online advertising, automated bidding has become a pivotal tool, enabling advertisers to efficiently capture impression opportunities in real-time. Recently, generative auto-bidding has shown significant promise, offering innovative solutions for effective ad optimization. However, existing offline-trained generative policies lack the near-term foresight required for dynamic markets and usually depend on simulators or external experts for post-training improvement. To overcome these critical limitations, we propose Self-Evolved Generative Bidding (SEGB), a framework that plans proactively and refines itself entirely offline. SEGB first synthesizes plausible short-horizon future states to guide each bid, providing the agent wit…"
     },
     {
+      "id": "d007418d5d42a873e64047244f5c34e4c403f6a4dd8cb049d9f3c320323b294b",
+      "title": "An update on our mental health-related work",
+      "url": "https://openai.com/index/update-on-mental-health-related-work",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T08:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "blog",
+        "research",
+        "LLM",
+        "research"
+      ],
+      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
+    },
+    {
       "id": "868f38f0e662a4de254540b2de3913423aec10049bfd9c3463e41649a24f7351",
       "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
       "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
@@ -1921,21 +1936,6 @@
         "research"
       ],
       "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
-    },
-    {
-      "id": "3de706e93b5d204937971a079de729b0e596d31fe4eafb611853a05feb0c32d4",
-      "title": "Disrupting malicious uses of AI | February 2026",
-      "url": "https://openai.com/index/disrupting-malicious-ai-uses",
-      "source": "OpenAI",
-      "published_at": "2026-02-25T08:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense."
     }
   ]
 }

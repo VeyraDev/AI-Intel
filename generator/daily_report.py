@@ -32,6 +32,7 @@ class DailyReportGenerator(BaseGenerator):
         self.max_tokens = int(report_cfg.get("max_tokens", 800))
         limits = config.get("limits") or {}
         self.top_n = int(limits.get("top_n", 5))
+        self.quota_video = limits.get("quota_video")  # 若配置则用，否则默认 5
 
     def generate(self, context: dict) -> None:
         # 1) 先拿经过 processors 处理后的 updates（去重/评分/过滤后）
@@ -45,8 +46,9 @@ class DailyReportGenerator(BaseGenerator):
         base_signals = build_signals_from_context({"updates": updates}) or []
         base_signals = list(base_signals)[: self.top_n]
 
-        # 3) 从 videos.json 读取最近的 5 条视频，转为 Signal 并合并
-        video_signals = self._load_video_signals(max_count=5)
+        # 3) 从 videos.json 读取视频，条数按 config limits.quota_video（默认 5）
+        video_max = int(self.quota_video) if self.quota_video is not None else 5
+        video_signals = self._load_video_signals(max_count=video_max)
 
         combined: List[Signal] = []
         seen_ids: set[str] = set()
