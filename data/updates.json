@@ -2,146 +2,85 @@
   "date": "2026-02-28",
   "updates": [
     {
-      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 20.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 1549
-    },
-    {
-      "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 20.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 1350
-    },
-    {
-      "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 20.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 1127
-    },
-    {
-      "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
-      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 17.72,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 836
-    },
-    {
-      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 13.84,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 692
-    },
-    {
-      "id": "7547f04e59e3dac6a8e07c1d57ac73d028d9c70495eec1634f74c9b603e059f7",
-      "title": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 11.74,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 587
-    },
-    {
-      "id": "6ad1e16cbe12358205a5c4ffc99e9fd27be59a49eafdeef070ce248ad9f2b8cc",
-      "title": "ruvnet/claude-flow",
-      "url": "https://github.com/ruvnet/claude-flow",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 10.9,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 545
-    },
-    {
-      "id": "13d96f6971fff698ebc53296b5f40ff14d755c304dc9f7e1b703b58e032f85a9",
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 9.58,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 479
-    },
-    {
-      "id": "5325fbd9ce3cf95416ccab0008298bd37988ef0d40ad095311a302673e761efb",
-      "title": "rsc opened an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/265",
-      "source": "rsc",
-      "published_at": "2026-02-27 05:28:37 -0800",
-      "score": 8.880016941782408,
+      "id": "9cb35e6bcbe0bc4402490532dfe6c78d0d83bc15477788e307cfe9886c89aa9e",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/959c798cb0...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:38 UTC",
+      "score": 0.0,
       "tags": []
     },
     {
-      "id": "5a2044ec833a3be37c67b37d680a3ac86cf780897f001042221cb9645d9c1065",
-      "title": "ruvnet/ruvector",
-      "url": "https://github.com/ruvnet/ruvector",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 8.22,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 411
+      "id": "e3bb7ad099149879cee6700bb12ad499a2d0d5685eabba57c60938e8775a46ec",
+      "title": "jessfraz pushed kittycad.ts",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/f7adc35ae6...e62feb1151",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:36 UTC",
+      "score": 0.0,
+      "tags": []
     },
     {
-      "id": "d42fad4e939c91ccd409ba1b127bd24d8e5965436cd89a41d2746a375b31c8c1",
-      "title": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-27",
-      "score": 7.54,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 377
+      "id": "e416b75b8c185424393bf5b5c45d7596fcaa831736a56208053f912fd2322c2b",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/b3d910a0f8...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:29 UTC",
+      "score": 0.0,
+      "tags": []
     },
     {
-      "id": "8c5697d6be74115a4ccb59a32dbe301a6000123745bb488139d7069b69484572",
-      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2602.22302",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 7.347956756597222,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22302v1 Announce Type: new Abstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract principles to autonomous AI agents. An ABC contract C = (P, I, G, R) specifies Preconditions, Invariants, Governance policies, and Recovery mechanisms as first-class, runtime-enforceable components. We define (p, delta, k)-satisfaction -- a probabilistic notion of contract compliance that accounts for…"
+      "id": "77dbb0311eae27eb1097a96623658efae2e16cfee00c543c37c4564c057dfbd7",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/documentation/compare/075b8f6be7...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:29 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "1cb2e1ef661ba8d624d5c16d37a9f2d9b1053f18ca3f009a93ec377886540248",
+      "title": "jessfraz pushed kittycad.ts",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/fd80d478df...f7adc35ae6",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:27 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "333aa2f21d2b3cb38c27d9ca78f25460658c97de71ae3e68658e7433e3f67aeb",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/a3dfd26e93...7f6729a33a",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:27 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "433e7c403801b0693e7f8d7eaa5a1410d8486f39981602b6dcc101f3b82bce55",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/cli/compare/9e4b03625a...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:06 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e2ce94b1fb4a75e0fc00286401b28d88bf8eb742e1e95d47da88e685e112188c",
+      "title": "jessfraz pushed cli",
+      "url": "https://github.com/KittyCAD/cli/compare/8b318c9d8f...5ae1048ff1",
+      "source": "jessfraz",
+      "published_at": "2026-02-27 16:01:05 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "94e6a9bfead08b6bfd74d115ca912d089d8d25d2b6109d9ccf00ca0198ccba56",
+      "title": "rsc pushed fpfmt",
+      "url": "https://github.com/rsc/fpfmt/compare/1b6605f7a0...ec108cbb39",
+      "source": "rsc",
+      "published_at": "2026-02-27 14:51:39 UTC",
+      "score": 0.0,
+      "tags": []
     }
   ]
 }

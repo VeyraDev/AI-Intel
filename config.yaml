@@ -142,6 +142,7 @@ processors:
   - scoring
   - filtering
   - signal_normalizer
+  - trend_analyzer
 
 keywords:
   - AI

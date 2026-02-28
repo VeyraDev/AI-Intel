@@ -13,6 +13,8 @@ logger = logging.getLogger("ai_intel")
 # 429/503 时重试：次数与基础等待秒数
 LLM_RETRY_COUNT = 3
 LLM_RETRY_BASE_SECONDS = 5
+# 日报生成长文本，适当延长超时（秒）
+LLM_REQUEST_TIMEOUT = 180
 
 ENV_KEYS = {
     "moonshot": "MOONSHOT_API_KEY",
@@ -63,7 +65,7 @@ def chat_completion(
     last_error: Exception | None = None
     for attempt in range(LLM_RETRY_COUNT + 1):
         try:
-            r = requests.post(url, json=payload, headers=headers, timeout=60)
+            r = requests.post(url, json=payload, headers=headers, timeout=LLM_REQUEST_TIMEOUT)
             if r.status_code in (429, 503):
                 if attempt < LLM_RETRY_COUNT:
                     wait_sec = LLM_RETRY_BASE_SECONDS * (2 ** attempt)
@@ -89,6 +91,15 @@ def chat_completion(
                 time.sleep(wait_sec)
                 continue
             logger.exception("LLM request failed: %s", e)
+            return ""
+        except requests.exceptions.Timeout as e:
+            last_error = e
+            if attempt < LLM_RETRY_COUNT:
+                wait_sec = LLM_RETRY_BASE_SECONDS * (2 ** attempt)
+                logger.warning("LLM request timeout, retry in %ds (%d/%d)", wait_sec, attempt + 1, LLM_RETRY_COUNT)
+                time.sleep(wait_sec)
+                continue
+            logger.exception("LLM request failed (timeout after %ds): %s", LLM_REQUEST_TIMEOUT, e)
             return ""
         except Exception as e:
             last_error = e

@@ -14,6 +14,7 @@ from processor.deduplicate import DeduplicateProcessor
 from processor.scoring import ScoringProcessor
 from processor.filtering import FilteringProcessor
 from processor.signal_normalizer import SignalNormalizerProcessor
+from processor.trend_analyzer import TrendAnalyzerProcessor
 from generator.base import BaseGenerator
 from generator.daily_report import DailyReportGenerator
 from storage.json_store import JSONStore
@@ -33,6 +34,8 @@ PROCESSORS: dict[str, Type[BaseProcessor]] = {
     "filtering": FilteringProcessor,
     # 可选：将 updates 映射为统一的 Signal 列表，写入 context["signals"]
     "signal_normalizer": SignalNormalizerProcessor,
+    # 可选：基于 trending_history.json 生成简单趋势统计，写入 context["trend_stats"]
+    "trend_analyzer": TrendAnalyzerProcessor,
 }
 GENERATORS: dict[str, Type[BaseGenerator]] = {
     "daily_report": DailyReportGenerator,
@@ -111,6 +114,8 @@ def build_pipeline_from_config(config_path: str) -> "Pipeline":
             continue
         if name == "deduplicate":
             processors.append(cls(config, state_store))
+        elif name == "trend_analyzer":
+            processors.append(cls(config, store))
         else:
             processors.append(cls(config))
 

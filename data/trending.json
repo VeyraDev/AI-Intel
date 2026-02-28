@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "items": [
     {
       "repo": "ruvnet/wifi-densepose",
@@ -46,7 +46,7 @@
     {
       "repo": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "stars_today": 1350,
+      "stars_today": 1327,
       "language": "TypeScript"
     },
     {
@@ -58,7 +58,7 @@
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 479,
+      "stars_today": 515,
       "language": "Shell"
     },
     {
@@ -70,7 +70,7 @@
     {
       "repo": "Wei-Shaw/claude-relay-service",
       "url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "stars_today": 56,
+      "stars_today": 74,
       "language": "JavaScript"
     },
     {
@@ -88,7 +88,7 @@
     {
       "repo": "steipete/CodexBar",
       "url": "https://github.com/steipete/CodexBar",
-      "stars_today": 377,
+      "stars_today": 221,
       "language": "Swift"
     },
     {

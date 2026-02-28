@@ -62,8 +62,13 @@ class DailyReportGenerator(BaseGenerator):
             self._append_report("", "今日无更新数据（无有效信号）。")
             return
 
-        # 4) 使用新版基于 Signal 的结构化 Prompt
-        prompt = self.prompt_builder.build_daily_from_signals(combined, trend_stats=None, context=None)
+        # 4) 使用新版基于 Signal 的结构化 Prompt，并尝试带上 trend_stats、今日日期
+        trend_stats = context.get("trend_stats") or None
+        tz = get_timezone(self.config)
+        today_str = format_date(get_now(tz))
+        ctx = dict(context or {})
+        ctx["today"] = today_str
+        prompt = self.prompt_builder.build_daily_from_signals(combined, trend_stats=trend_stats, context=ctx)
         api_key = get_api_key(self.provider)
         content = chat_completion(
             self.provider,
@@ -75,8 +80,10 @@ class DailyReportGenerator(BaseGenerator):
             self.max_tokens,
         )
         if not content:
-            # LLM 未返回内容（如 429 限流），视为阶段失败，抛出异常以便 Scheduler 不更新 last_success
-            raise RuntimeError("日报生成失败：LLM 未返回内容（可能限流或未配置 API Key）")
+            # LLM 未返回内容（超时、限流或未配置 API Key），视为阶段失败
+            raise RuntimeError(
+                "日报生成失败：LLM 未返回内容（可能原因：网络超时、API 限流或未配置 API Key；若为超时可稍后重试）。"
+            )
         self._append_report(content, "")
 
     def _append_report(self, content: str, fallback: str) -> None:
