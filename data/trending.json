@@ -1,101 +1,101 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "items": [
-    {
-      "repo": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars_today": 478,
-      "language": "Python"
-    },
-    {
-      "repo": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "stars_today": 696,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "stars_today": 593,
-      "language": "C"
-    },
-    {
-      "repo": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "stars_today": 803,
-      "language": "Python"
-    },
-    {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 1546,
-      "language": "Shell"
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "stars_today": 531,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "stars_today": 324,
-      "language": "Python"
-    },
-    {
-      "repo": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "stars_today": 1385,
-      "language": "TypeScript"
-    },
     {
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 199,
+      "stars_today": 1088,
       "language": "TypeScript"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 494,
+      "stars_today": 705,
       "language": "Shell"
-    },
-    {
-      "repo": "ruvnet/ruvector",
-      "url": "https://github.com/ruvnet/ruvector",
-      "stars_today": 410,
-      "language": "Rust"
-    },
-    {
-      "repo": "Wei-Shaw/claude-relay-service",
-      "url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "stars_today": 53,
-      "language": "JavaScript"
     },
     {
       "repo": "tukaani-project/xz",
       "url": "https://github.com/tukaani-project/xz",
-      "stars_today": 85,
+      "stars_today": 107,
       "language": "C"
     },
     {
-      "repo": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "stars_today": 1135,
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 605,
       "language": "Python"
     },
     {
-      "repo": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "stars_today": 243,
-      "language": "Swift"
+      "repo": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "stars_today": 938,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars_today": 891,
+      "language": "Python"
+    },
+    {
+      "repo": "Wei-Shaw/claude-relay-service",
+      "url": "https://github.com/Wei-Shaw/claude-relay-service",
+      "stars_today": 171,
+      "language": "JavaScript"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 183,
+      "language": "Python"
+    },
+    {
+      "repo": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "stars_today": 156,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "stars_today": 494,
+      "language": "C"
+    },
+    {
+      "repo": "PaddlePaddle/Paddle",
+      "url": "https://github.com/PaddlePaddle/Paddle",
+      "stars_today": 11,
+      "language": "C++"
+    },
+    {
+      "repo": "datagouv/datagouv-mcp",
+      "url": "https://github.com/datagouv/datagouv-mcp",
+      "stars_today": 122,
+      "language": "Python"
+    },
+    {
+      "repo": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "stars_today": 104,
+      "language": "Go"
+    },
+    {
+      "repo": "X-PLUG/MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "stars_today": 33,
+      "language": "Python"
     },
     {
       "repo": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
-      "stars_today": 105,
+      "stars_today": 350,
       "language": "Python"
+    },
+    {
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1314,
+      "language": "Shell"
     }
   ]
 }

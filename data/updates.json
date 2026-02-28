@@ -1,61 +1,61 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "updates": [
+    {
+      "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-01",
+      "score": 29.749549659375,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1088
+    },
     {
       "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "published_at": "2026-02-28",
-      "score": 25.59716945,
+      "published_at": "2026-03-01",
+      "score": 29.749549659375,
       "tags": [
         "trending"
       ],
-      "stars_today": 1546
+      "stars_today": 1314
     },
     {
-      "id": "3c90af76cbde03631070bf5eec1567bb3c41a846769b58754a9edb0c9525d137",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
-      "published_at": "2026-02-28",
-      "score": 25.59716945,
+      "published_at": "2026-03-01",
+      "score": 28.509549659375,
       "tags": [
         "trending"
       ],
-      "stars_today": 1385
+      "stars_today": 938
     },
     {
-      "id": "df11630e65be505cc9baca77e9dc98cf13a05cbcc44466ffa557eda1573deb91",
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
+      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
       "source": "GitHub Trending",
-      "published_at": "2026-02-28",
-      "score": 25.59716945,
+      "published_at": "2026-03-01",
+      "score": 27.569549659375,
       "tags": [
         "trending"
       ],
-      "stars_today": 1135
-    },
-    {
-      "id": "adb1f28c55dd4cae8ebb6b557601daf3b83446eb6978e005d80a827cabe569e1",
-      "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
-      "source": "GitHub Trending",
-      "published_at": "2026-02-28",
-      "score": 22.657169449999998,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 803
+      "stars_today": 891
     },
     {
       "id": "8c5697d6be74115a4ccb59a32dbe301a6000123745bb488139d7069b69484572",
       "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
       "url": "https://arxiv.org/abs/2602.22302",
       "source": "arXiv cs.AI",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 3.013836116666666,
+      "published_at": "2026-02-28T13:00:00+08:00",
+      "score": 7.166216326041667,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -67,8 +67,8 @@
       "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
       "url": "https://arxiv.org/abs/2602.22401",
       "source": "arXiv cs.AI",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 3.013836116666666,
+      "published_at": "2026-02-28T13:00:00+08:00",
+      "score": 7.166216326041667,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -80,8 +80,8 @@
       "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
       "url": "https://arxiv.org/abs/2602.22425",
       "source": "arXiv cs.AI",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 3.013836116666666,
+      "published_at": "2026-02-28T13:00:00+08:00",
+      "score": 7.166216326041667,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -93,8 +93,8 @@
       "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
       "url": "https://arxiv.org/abs/2602.22442",
       "source": "arXiv cs.AI",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 3.013836116666666,
+      "published_at": "2026-02-28T13:00:00+08:00",
+      "score": 7.166216326041667,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -106,8 +106,8 @@
       "title": "Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs",
       "url": "https://arxiv.org/abs/2602.22481",
       "source": "arXiv cs.CL",
-      "published_at": "2026-02-27T13:00:00+08:00",
-      "score": 3.013836116666666,
+      "published_at": "2026-02-28T13:00:00+08:00",
+      "score": 7.166216326041667,
       "tags": [
         "arxiv",
         "cs.CL"

@@ -1,6 +1,58 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "videos": [
+    {
+      "id": "9f5f868a523fd71d02f3f74086163100d2c1781f05f79df984fc40e630383197",
+      "title": "爆改优秀开源项目，国产大模型已经有这个能力了啊！",
+      "url": "https://www.bilibili.com/video/BV1DKAhz8Evu",
+      "source": "神秘的鱼仔",
+      "published_at": "2026-02-28 17:35:00",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "93ce0c05115f6100dcb707eac022581ab9d2f450c8dd3d928d6e523861615385",
+      "title": "「Github一周热点105期」Rust 版openclaw，本地语音克隆工具，Qwen3.5， AI 渗透测试系统和精美源码图片生成工具",
+      "url": "https://www.bilibili.com/video/BV1FsAbz6EjX",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-28 10:23:31",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
+      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
+      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-26 18:00:00",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "4aea19724136e77cc7198b1138d14a5697c9c68886064ca6fa50d9b3859ec91e",
+      "title": "主流AI编程工具背后的提示词，竟然被这一个项目开源了",
+      "url": "https://www.bilibili.com/video/BV1kpfSBoEfG",
+      "source": "神秘的鱼仔",
+      "published_at": "2026-02-25 18:00:00",
+      "score": 3.5,
+      "github_refs": [
+        "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+      ],
+      "platform": "bilibili"
+    },
+    {
+      "id": "1442be4f32a67d109a16a7c98b258e732580d1182a20819148c4e8e6e4b9de0b",
+      "title": "“源神”的新年贺礼！深度实测Qwen3.5，原生多模态表现如何",
+      "url": "https://www.bilibili.com/video/BV1izZRBtET1",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-19 11:43:31",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
     {
       "id": "e734b3db8611c5200c719e38f6f3ade7084e8948a17666c8151fdf508fca8b94",
       "title": "简直MAC救星!错过要拍大腿的!盘点3款MacOS必装的GitHub开源神器!",
@@ -49,18 +101,6 @@
       "published_at": "2026-01-26 15:39:47",
       "score": 1.0,
       "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "4aea19724136e77cc7198b1138d14a5697c9c68886064ca6fa50d9b3859ec91e",
-      "title": "主流AI编程工具背后的提示词，竟然被这一个项目开源了",
-      "url": "https://www.bilibili.com/video/BV1kpfSBoEfG",
-      "source": "神秘的鱼仔",
-      "published_at": "2026-02-25 18:00:00",
-      "score": 3.5,
-      "github_refs": [
-        "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
-      ],
       "platform": "bilibili"
     },
     {
@@ -129,26 +169,6 @@
       "url": "https://www.bilibili.com/video/BV1ReqnBgE3N",
       "source": "我是阿众",
       "published_at": "2025-12-18 16:18:09",
-      "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
-      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
-      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-26 18:00:00",
-      "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "1442be4f32a67d109a16a7c98b258e732580d1182a20819148c4e8e6e4b9de0b",
-      "title": "“源神”的新年贺礼！深度实测Qwen3.5，原生多模态表现如何",
-      "url": "https://www.bilibili.com/video/BV1izZRBtET1",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-19 11:43:31",
       "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"
