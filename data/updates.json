@@ -2,16 +2,28 @@
   "date": "2026-03-01",
   "updates": [
     {
+      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
+      "title": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-01",
+      "score": 22.687046680208333,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 2152
+    },
+    {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending",
       "published_at": "2026-03-01",
-      "score": 29.749549659375,
+      "score": 22.687046680208333,
       "tags": [
         "trending"
       ],
-      "stars_today": 1088
+      "stars_today": 1065
     },
     {
       "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
@@ -19,11 +31,11 @@
       "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
       "published_at": "2026-03-01",
-      "score": 29.749549659375,
+      "score": 22.687046680208333,
       "tags": [
         "trending"
       ],
-      "stars_today": 1314
+      "stars_today": 1323
     },
     {
       "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
@@ -31,88 +43,86 @@
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "published_at": "2026-03-01",
-      "score": 28.509549659375,
+      "score": 21.24704668020833,
       "tags": [
         "trending"
       ],
-      "stars_today": 938
+      "stars_today": 928
     },
     {
-      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 27.569549659375,
+      "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source": "OpenAI",
+      "published_at": "2026-02-28T20:30:00+08:00",
+      "score": 1.2287133468750004,
       "tags": [
-        "trending"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "stars_today": 891
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
     },
     {
-      "id": "8c5697d6be74115a4ccb59a32dbe301a6000123745bb488139d7069b69484572",
-      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2602.22302",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 7.166216326041667,
+      "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T13:30:00+08:00",
+      "score": 1.0,
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "summary": "arXiv:2602.22302v1 Announce Type: new Abstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract principles to autonomous AI agents. An ABC contract C = (P, I, G, R) specifies Preconditions, Invariants, Governance policies, and Recovery mechanisms as first-class, runtime-enforceable components. We define (p, delta, k)-satisfaction -- a probabilistic notion of contract compliance that accounts for…"
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
     },
     {
-      "id": "e5cc746952f9cc70cf41386fe2b3594fb45b8bd6e9beb2c57db0535438286975",
-      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
-      "url": "https://arxiv.org/abs/2602.22401",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 7.166216326041667,
+      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T13:30:00+08:00",
+      "score": 1.0,
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "summary": "arXiv:2602.22401v1 Announce Type: new Abstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept of vibe researching -- the AI-era parallel to ``vibe coding'' (Karpathy, 2025) -- and uses scholar-skill, a 21-skill plugin for Claude Code covering the full research pipeline from idea to submission, as an illustrative case. I develop a cognitive task framework that classifies research activities a…"
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
     },
     {
-      "id": "f8dcc59f88a1ec98e11d842211b25b884458fe04a04620f091c06bd310d4577a",
-      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
-      "url": "https://arxiv.org/abs/2602.22425",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 7.166216326041667,
+      "id": "751ba7518e2eeb3abc690f54b8e45a324418424f60f9fbd96e3e8944cb215356",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T13:30:00+08:00",
+      "score": 1.0,
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "summary": "arXiv:2602.22425v1 Announce Type: new Abstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains. Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatically design/implement state-of-the-art (SoTA) cache replacement policies (architecting new mechanisms/logic, not only changing parameters), broadly within the confines of an established cache replacement policy design competition. In two days without human intervention, ArchAgent generated a policy achie…"
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
     },
     {
-      "id": "33321add1add9e1db7b45b4784c302385f7c2fc40501256879da5661e180fa52",
-      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
-      "url": "https://arxiv.org/abs/2602.22442",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 7.166216326041667,
+      "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "source": "OpenAI",
+      "published_at": "2026-02-27T13:30:00+08:00",
+      "score": 1.0,
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "summary": "arXiv:2602.22442v1 Announce Type: new Abstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediate decision quality. To address this limitation, we propose an Evaluation Agent (EA) that performs decision-centric assessment of AutoML agents without interfering with their execution. The EA is designed as an observer that evaluates intermediate decisions along four dimensions: decision validity, re…"
-    },
-    {
-      "id": "5a87d9f3b7661bd7e4a729914df4f91c2762fc66a84838ee8849707ba64ae4fa",
-      "title": "Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs",
-      "url": "https://arxiv.org/abs/2602.22481",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 7.166216326041667,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22481v1 Announce Type: new Abstract: The way LLM-based entities conceive of the relationship between AI and humans is an important topic for both cultural and safety reasons. When we examine this topic, what matters is not only the model itself but also the personas we simulate on that model. This can be well illustrated by the Sydney persona, which aroused a strong response among the general public precisely because of its unorthodox relationship with people. This persona originally arose rather by accident on Microsoft's Bing Search platform; however, the texts it created spread into the training data of subsequent models, as did other secondary information that spread memetically around this persona. Newer models are therefore able to simulate it. This paper presents a corpus…"
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     }
   ]
 }

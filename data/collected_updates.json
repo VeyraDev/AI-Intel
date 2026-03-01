@@ -1,6 +1,18 @@
 {
   "updates": [
     {
+      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
+      "title": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-01",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 2152
+    },
+    {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
@@ -10,7 +22,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 1088
+      "stars_today": 1065
     },
     {
       "id": "13d96f6971fff698ebc53296b5f40ff14d755c304dc9f7e1b703b58e032f85a9",
@@ -22,7 +34,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 705
+      "stars_today": 699
     },
     {
       "id": "d1da0d4c0e8e0349c39b46668ce71f6e93d2fe110e65c0918e93a6b828cee993",
@@ -46,7 +58,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 605
+      "stars_today": 635
     },
     {
       "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
@@ -58,7 +70,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 938
+      "stars_today": 928
     },
     {
       "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
@@ -70,7 +82,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 891
+      "stars_today": 899
     },
     {
       "id": "6e149c068f16c883b2128325c30ecbe304d60e662b75f962535c4ccf56c72629",
@@ -94,7 +106,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 183
+      "stars_today": 182
     },
     {
       "id": "476695a4bb39f6258df6cb3d1a7a4011b73d1d0df453572a32f1401b5b7faa95",
@@ -106,7 +118,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 156
+      "stars_today": 181
     },
     {
       "id": "7547f04e59e3dac6a8e07c1d57ac73d028d9c70495eec1634f74c9b603e059f7",
@@ -118,7 +130,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 494
+      "stars_today": 496
     },
     {
       "id": "93157aa3b5fc5cf2d3fad233b93d08aa09f2923513ca769abd295fffe63b4120",
@@ -130,7 +142,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 11
+      "stars_today": 10
     },
     {
       "id": "90a001d8ddb5932274df7e13d85e13c6d0a11fd30af7ac93cd8594f27ba1ca18",
@@ -142,7 +154,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 122
+      "stars_today": 115
     },
     {
       "id": "91526b8597b5b63d2c29b0e0ddd75b98a501934723e5dfa80c02791eb0326a48",
@@ -154,7 +166,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 104
+      "stars_today": 98
     },
     {
       "id": "daf0e8717926edf2e266fcf150f82c72249694b7c08049d789fba86f2b315c99",
@@ -166,7 +178,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 33
+      "stars_today": 45
     },
     {
       "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
@@ -178,7 +190,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 350
+      "stars_today": 349
     },
     {
       "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
@@ -190,7 +202,7 @@
       "tags": [
         "trending"
       ],
-      "stars_today": 1314
+      "stars_today": 1323
     },
     {
       "id": "bf90990ffd36e2a8eb8f002ef793cdb0f499cf55ba9207579752b8cf6c1fd1f8",
@@ -382,6 +394,24 @@
       "tags": []
     },
     {
+      "id": "e753cb8d96f0694ee9575d3f22e8f07b07b2c5005de22f5fa08a35ac18480ac5",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/cli/compare/424b4b0dfe...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-03-01 04:26:46 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "922359228cb2bd44a288febaf67b168d763b903f17d75f64e544ff1a2d51c7ce",
+      "title": "jessfraz pushed cli",
+      "url": "https://github.com/KittyCAD/cli/compare/acb96ec78f...52eeeeafda",
+      "source": "jessfraz",
+      "published_at": "2026-03-01 04:26:45 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "ddef81cb8a6e78ceee26f3988df278a3a9bab1fe64c81f0490888fcba550a0c5",
       "title": "jessfraz pushed global-nix",
       "url": "https://github.com/jessfraz/global-nix/compare/0e36ff9297...ff91713fc2",
@@ -450,24 +480,6 @@
       "url": "https://github.com/KittyCAD/kittycad.ts/compare/f7adc35ae6...e62feb1151",
       "source": "jessfraz",
       "published_at": "2026-02-27 16:01:36 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "e416b75b8c185424393bf5b5c45d7596fcaa831736a56208053f912fd2322c2b",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/b3d910a0f8...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:29 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "77dbb0311eae27eb1097a96623658efae2e16cfee00c543c37c4564c057dfbd7",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/documentation/compare/075b8f6be7...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:29 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -562,6 +574,42 @@
       "tags": []
     },
     {
+      "id": "d909f91d2736cc46d1c2f76270543009887794ee0f91fb59b57e288868d5648f",
+      "title": "rsc contributed to robpike/ivy",
+      "url": "https://github.com/robpike/ivy/pull/267",
+      "source": "rsc",
+      "published_at": "2026-02-28 18:49:51 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "dd2a90603db188c98f26735a77740d76ebd4446313ff90d8b954c9b164e4e85a",
+      "title": "rsc commented on an issue in ivy",
+      "url": "https://github.com/robpike/ivy/issues/263#issuecomment-3977925877",
+      "source": "rsc",
+      "published_at": "2026-02-28 13:31:14 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "d909f91d2736cc46d1c2f76270543009887794ee0f91fb59b57e288868d5648f",
+      "title": "rsc contributed to robpike/ivy",
+      "url": "https://github.com/robpike/ivy/pull/267",
+      "source": "rsc",
+      "published_at": "2026-02-28 12:58:48 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "07dc9699e0aba2850c9f13a21021dc4b370f00a1d4f73fbbfa2e980ec9087170",
+      "title": "rsc created a branch",
+      "url": "https://github.com/rsc/ivy/compare/0000000000...c275c787e2",
+      "source": "rsc",
+      "published_at": "2026-02-28 20:58:31 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "e92fab469565c84499517c64ca2196af80181d5c484ba684c2669bbd47dac000",
       "title": "rsc commented on an issue in ivy",
       "url": "https://github.com/robpike/ivy/issues/266#issuecomment-3977166208",
@@ -612,42 +660,6 @@
       "url": "https://github.com/9fans/plan9port/compare/cb7001c8d2...6654cad3c5",
       "source": "rsc",
       "published_at": "2026-02-26 14:49:37 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "63acf08af837a2497b595d3e8ec2f6f8e0f2ddc1d40d5349e3c198252bb180f6",
-      "title": "rsc commented on an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/264#issuecomment-3960521527",
-      "source": "rsc",
-      "published_at": "2026-02-25 08:36:15 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "c68909aab49361d6938f12f194c7d0a174079f74cb1be3e01630bbdd0f77591c",
-      "title": "rsc opened an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/264",
-      "source": "rsc",
-      "published_at": "2026-02-24 17:38:00 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "94a4db511c94005e73ab52ff364edb2762ccafce69622c4a5d83c5f952734565",
-      "title": "rsc commented on an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/261#issuecomment-3954921560",
-      "source": "rsc",
-      "published_at": "2026-02-24 13:48:40 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "38e2f76721435eaac0bbc9c2e498101b657d6b98ef0aeec5eb7c564be6ad6a14",
-      "title": "rsc opened an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/263",
-      "source": "rsc",
-      "published_at": "2026-02-24 12:06:11 -0800",
       "score": 0.0,
       "tags": []
     },
@@ -742,6 +754,33 @@
       "tags": []
     },
     {
+      "id": "db443a186bf69d5ad6666841513f5414cc46b8370c05d0afa3fd329f3baefb54",
+      "title": "andrewrk pushed cpython",
+      "url": "https://github.com/allyourcodebase/cpython/compare/6f721cba24...0db98839c9",
+      "source": "andrewrk",
+      "published_at": "2026-03-01 04:23:52 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "1ead1fb5a9ec61f2c068b9a195cd219eb05423bc3c59b5964e8d9326ed0499f0",
+      "title": "andrewrk deleted",
+      "url": "https://github.com/allyourcodebase/cpython/compare/6f721cba24...0000000000",
+      "source": "andrewrk",
+      "published_at": "2026-03-01 03:49:12 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "a9a2c4dc31349fb1fa96e39abb6fb4f177e4e32824833b33742ab0f438b394c2",
+      "title": "andrewrk pushed StaticHttpFileServer",
+      "url": "https://github.com/andrewrk/StaticHttpFileServer/compare/eb0854fe2d...2f06c4346f",
+      "source": "andrewrk",
+      "published_at": "2026-03-01 01:26:13 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "ff34381c709295a41895cafc3cbbbce12027337b31eac5ab1cfccd5f2e150477",
       "title": "andrewrk pushed www.ziglang.org",
       "url": "https://github.com/ziglang/www.ziglang.org/compare/c98968cf59...eded822904",
@@ -801,33 +840,6 @@
       "url": "https://github.com/ziglang/zig/issues/25281#issuecomment-3961487930",
       "source": "andrewrk",
       "published_at": "2026-02-25 11:24:15 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "9f0d853f72cabdbf0b6de7bc4ada2bfd089e49ffa1d6f8743abc2f3b8e59368a",
-      "title": "andrewrk commented on an issue in nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs/issues/490000#issuecomment-3938067642",
-      "source": "andrewrk",
-      "published_at": "2026-02-20 19:27:50 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "289f9e4f036c664b65e03550ca55ef101b529c703e2cbc9b80806a90c60c198b",
-      "title": "andrewrk closed an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/21660",
-      "source": "andrewrk",
-      "published_at": "2026-02-20 17:50:31 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "78ec09e5fc07af6a6212fc84fcd721e56ff28231675c8cbf8b3ab60f90acef72",
-      "title": "andrewrk commented on an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/21660#issuecomment-3937901072",
-      "source": "andrewrk",
-      "published_at": "2026-02-20 17:50:29 -0800",
       "score": 0.0,
       "tags": []
     },
@@ -971,7 +983,7 @@
       "title": "x1xhlol pushed shield",
       "url": "https://github.com/ZeroLeaks/shield/compare/9abb2de05d...39cd8deae7",
       "source": "x1xhlol",
-      "published_at": "2026-02-26 01:37:47 +0800",
+      "published_at": "2026-02-25 17:37:47 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -980,7 +992,7 @@
       "title": "x1xhlol created a branch",
       "url": "https://github.com/ZeroLeaks/shield/compare/0000000000...9abb2de05d",
       "source": "x1xhlol",
-      "published_at": "2026-02-26 01:09:27 +0800",
+      "published_at": "2026-02-25 17:09:27 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -1007,7 +1019,7 @@
       "title": "x1xhlol pushed zeroleaks",
       "url": "https://github.com/ZeroLeaks/zeroleaks/compare/947531c01e...ca8e580205",
       "source": "x1xhlol",
-      "published_at": "2026-02-22 01:19:20 +0800",
+      "published_at": "2026-02-21 17:19:20 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -1039,316 +1051,19 @@
       "tags": []
     },
     {
-      "id": "e3deb58a6284e2be57ed600810621ee3836cf3daec07b8d08b172ef871f11d4d",
-      "title": "Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation",
-      "url": "https://arxiv.org/abs/2602.22215",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
+      "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source": "OpenAI",
+      "published_at": "2026-02-28T20:30:00+08:00",
       "score": 0.0,
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "blog",
+        "research",
+        "LLM",
+        "research"
       ],
-      "summary": "arXiv:2602.22215v1 Announce Type: new Abstract: Large Language Models (LLMs) demonstrate potential in the field of scientific idea generation. However, the generated results often lack controllable academic context and traceable inspiration pathways. To bridge this gap, this paper proposes a scientific idea generation system called GYWI, which combines author knowledge graphs with retrieval-augmented generation (RAG) to form an external knowledge base to provide controllable context and trace of inspiration path for LLMs to generate new scientific ideas. We first propose an author-centered knowledge graph construction method and inspiration source sampling algorithms to construct external knowledge base. Then, we propose a hybrid retrieval mechanism that is composed of both RAG and GraphRA…"
-    },
-    {
-      "id": "3c12c2354cb32fd227fb7176c92c3c53c76a76b8906290bd798fe999ce0b7305",
-      "title": "FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation",
-      "url": "https://arxiv.org/abs/2602.22273",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22273v1 Announce Type: new Abstract: We introduce FIRE, a comprehensive benchmark designed to evaluate both the theoretical financial knowledge of LLMs and their ability to handle practical business scenarios. For theoretical assessment, we curate a diverse set of examination questions drawn from widely recognized financial qualification exams, enabling evaluation of LLMs deep understanding and application of financial knowledge. In addition, to assess the practical value of LLMs in real-world financial tasks, we propose a systematic evaluation matrix that categorizes complex financial domains and ensures coverage of essential subdomains and business activities. Based on this evaluation matrix, we collect 3,000 financial scenario questions, consisting of closed-form decision que…"
-    },
-    {
-      "id": "782169dde12054b632883bc314237428a2b44ac4f866559d348a7db5103f3dae",
-      "title": "Multi-Level Causal Embeddings",
-      "url": "https://arxiv.org/abs/2602.22287",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22287v1 Announce Type: new Abstract: Abstractions of causal models allow for the coarsening of models such that relations of cause and effect are preserved. Whereas abstractions focus on the relation between two models, in this paper we study a framework for causal embeddings which enable multiple detailed models to be mapped into sub-systems of a coarser causal model. We define causal embeddings as a generalization of abstraction, and present a generalized notion of consistency. By defining a multi-resolution marginal problem, we showcase the relevance of causal embeddings for both the statistical marginal problem and the causal marginal problem; furthermore, we illustrate its practical use in merging datasets coming from models with different representations."
-    },
-    {
-      "id": "8c5697d6be74115a4ccb59a32dbe301a6000123745bb488139d7069b69484572",
-      "title": "Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents",
-      "url": "https://arxiv.org/abs/2602.22302",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22302v1 Announce Type: new Abstract: Traditional software relies on contracts -- APIs, type systems, assertions -- to specify and enforce correct behavior. AI agents, by contrast, operate on prompts and natural language instructions with no formal behavioral specification. This gap is the root cause of drift, governance failures, and frequent project failures in agentic AI deployments. We introduce Agent Behavioral Contracts (ABC), a formal framework that brings Design-by-Contract principles to autonomous AI agents. An ABC contract C = (P, I, G, R) specifies Preconditions, Invariants, Governance policies, and Recovery mechanisms as first-class, runtime-enforceable components. We define (p, delta, k)-satisfaction -- a probabilistic notion of contract compliance that accounts for…"
-    },
-    {
-      "id": "e5cc746952f9cc70cf41386fe2b3594fb45b8bd6e9beb2c57db0535438286975",
-      "title": "Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?",
-      "url": "https://arxiv.org/abs/2602.22401",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22401v1 Announce Type: new Abstract: AI agents -- systems that execute multi-step reasoning workflows with persistent state, tool access, and specialist skills -- represent a qualitative shift from prior automation technologies in social science. Unlike chatbots that respond to isolated queries, AI agents can now read files, run code, query databases, search the web, and invoke domain-specific skills to execute entire research pipelines autonomously. This paper introduces the concept of vibe researching -- the AI-era parallel to ``vibe coding'' (Karpathy, 2025) -- and uses scholar-skill, a 21-skill plugin for Claude Code covering the full research pipeline from idea to submission, as an illustrative case. I develop a cognitive task framework that classifies research activities a…"
-    },
-    {
-      "id": "57453a6557df78460663351af62999db823f503d94ba19243c7e2468cb68abe2",
-      "title": "Towards Autonomous Memory Agents",
-      "url": "https://arxiv.org/abs/2602.22406",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22406v1 Announce Type: new Abstract: Recent memory agents improve LLMs by extracting experiences and conversation history into an external storage. This enables low-overhead context assembly and online memory update without expensive LLM training. However, existing solutions remain passive and reactive; memory growth is bounded by information that happens to be available, while memory agents seldom seek external inputs in uncertainties. We propose autonomous memory agents that actively acquire, validate, and curate knowledge at a minimum cost. U-Mem materializes this idea via (i) a cost-aware knowledge-extraction cascade that escalates from cheap self/teacher signals to tool-verified research and, only when needed, expert feedback, and (ii) semantic-aware Thompson sampling to ba…"
-    },
-    {
-      "id": "da2e9bf9ad3db25624ccba6c5032992ad11d3997541a156901eb8de7e3cc4d48",
-      "title": "Exploring Human Behavior During Abstract Rule Inference and Problem Solving with the Cognitive Abstraction and Reasoning Corpus",
-      "url": "https://arxiv.org/abs/2602.22408",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22408v1 Announce Type: new Abstract: Humans exhibit remarkable flexibility in abstract reasoning, and can rapidly learn and apply rules from sparse examples. To investigate the cognitive strategies underlying this ability, we introduce the Cognitive Abstraction and Reasoning Corpus (CogARC), a diverse human-adapted subset of the Abstraction and Reasoning Corpus (ARC) which was originally developed to benchmark abstract reasoning in artificial intelligence. Across two experiments, CogARC was administered to a total of 260 human participants who freely generated solutions to 75 abstract visual reasoning problems. Success required inferring input-output rules from a small number of examples to transform the test input into one correct test output. Participants' behavior was recorde…"
-    },
-    {
-      "id": "38b88788527f509ed3d54abbd85925995ff1d2de0c5609b3c57d75cce2be2747",
-      "title": "Epistemic Filtering and Collective Hallucination: A Jury Theorem for Confidence-Calibrated Agents",
-      "url": "https://arxiv.org/abs/2602.22413",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22413v1 Announce Type: new Abstract: We investigate the collective accuracy of heterogeneous agents who learn to estimate their own reliability over time and selectively abstain from voting. While classical epistemic voting results, such as the \\textit{Condorcet Jury Theorem} (CJT), assume fixed participation, real-world aggregation often benefits from allowing agents to say ``I don't know.'' We propose a probabilistic framework where agents engage in a \\textit{calibration} phase, updating beliefs about their own fixed competence, before facing a final confidence gate that determines whether to vote or abstain. We derive a non-asymptotic lower bound on the group's success probability and prove that this \\textit{selective participation} generalizes the asymptotic guarantees of th…"
-    },
-    {
-      "id": "f8dcc59f88a1ec98e11d842211b25b884458fe04a04620f091c06bd310d4577a",
-      "title": "ArchAgent: Agentic AI-driven Computer Architecture Discovery",
-      "url": "https://arxiv.org/abs/2602.22425",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22425v1 Announce Type: new Abstract: Agile hardware design flows are a critically needed force multiplier to meet the exploding demand for compute. Recently, agentic generative AI systems have demonstrated significant advances in algorithm design, improving code efficiency, and enabling discovery across scientific domains. Bridging these worlds, we present ArchAgent, an automated computer architecture discovery system built on AlphaEvolve. We show ArchAgent's ability to automatically design/implement state-of-the-art (SoTA) cache replacement policies (architecting new mechanisms/logic, not only changing parameters), broadly within the confines of an established cache replacement policy design competition. In two days without human intervention, ArchAgent generated a policy achie…"
-    },
-    {
-      "id": "e32e6f1389ebc307a8730aff8f755762f3da485a12143a6172d16a91ccffe384",
-      "title": "How Do Latent Reasoning Methods Perform Under Weak and Strong Supervision?",
-      "url": "https://arxiv.org/abs/2602.22441",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22441v1 Announce Type: new Abstract: Latent reasoning has been recently proposed as a reasoning paradigm and performs multi-step reasoning through generating steps in the latent space instead of the textual space. This paradigm enables reasoning beyond discrete language tokens by performing multi-step computation in continuous latent spaces. Although there have been numerous studies focusing on improving the performance of latent reasoning, its internal mechanisms remain not fully investigated. In this work, we conduct a comprehensive analysis of latent reasoning methods to better understand the role and behavior of latent representation in the process. We identify two key issues across latent reasoning methods with different levels of supervision. First, we observe pervasive sh…"
-    },
-    {
-      "id": "33321add1add9e1db7b45b4784c302385f7c2fc40501256879da5661e180fa52",
-      "title": "A Framework for Assessing AI Agent Decisions and Outcomes in AutoML Pipelines",
-      "url": "https://arxiv.org/abs/2602.22442",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22442v1 Announce Type: new Abstract: Agent-based AutoML systems rely on large language models to make complex, multi-stage decisions across data processing, model selection, and evaluation. However, existing evaluation practices remain outcome-centric, focusing primarily on final task performance. Through a review of prior work, we find that none of the surveyed agentic AutoML systems report structured, decision-level evaluation metrics intended for post-hoc assessment of intermediate decision quality. To address this limitation, we propose an Evaluation Agent (EA) that performs decision-centric assessment of AutoML agents without interfering with their execution. The EA is designed as an observer that evaluates intermediate decisions along four dimensions: decision validity, re…"
-    },
-    {
-      "id": "b0defee32f5ed5f8e03c22244ecb9e9377bea73fa535876cb247d22f167868cf",
-      "title": "CWM: Contrastive World Models for Action Feasibility Learning in Embodied Agent Pipelines",
-      "url": "https://arxiv.org/abs/2602.22452",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2602.22452v1 Announce Type: new Abstract: A reliable action feasibility scorer is a critical bottleneck in embodied agent pipelines: before any planning or reasoning occurs, the agent must identify which candidate actions are physically executable in the current state. Existing approaches use supervised fine-tuning (SFT) to train action scorers, but SFT treats each candidate independently and does not explicitly teach the model to discriminate between actions that are physically correct and those that are subtly wrong. We propose the Contrastive World Model (CWM), which fine-tunes a large language model (LLM) as an action scorer using an InfoNCE contrastive objective with hard-mined negative examples. The key idea is to push valid actions away from invalid ones in scoring space, with…"
-    },
-    {
-      "id": "913c10a2528d75c19802e28249b675e00d5269eab46d3a1944e51b1b53a0e3b1",
-      "title": "Decoder-based Sense Knowledge Distillation",
-      "url": "https://arxiv.org/abs/2602.22351",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22351v1 Announce Type: new Abstract: Large language models (LLMs) learn contextual embeddings that capture rich semantic information, yet they often overlook structured lexical knowledge such as word senses and relationships. Prior work has shown that incorporating sense dictionaries can improve knowledge distillation for encoder models, but their application to decoder as generative models remains challenging. In this paper, we introduce Decoder-based Sense Knowledge Distillation (DSKD), a framework that integrates lexical resources into the training of decoder-style LLMs without requiring dictionary lookup at inference time. Extensive experiments on diverse benchmarks demonstrate that DSKD significantly enhances knowledge distillation performance for decoders, enabling generat…"
-    },
-    {
-      "id": "cee6639a97c523334266565aa427b1a95f7d5e7115be6bd1506a28bfd9350ad5",
-      "title": "Scaling In, Not Up? Testing Thick Citation Context Analysis with GPT-5 and Fragile Prompts",
-      "url": "https://arxiv.org/abs/2602.22359",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22359v1 Announce Type: new Abstract: This paper tests whether large language models (LLMs) can support interpretative citation context analysis (CCA) by scaling in thick, text-grounded readings of a single hard case rather than scaling up typological labels. It foregrounds prompt-sensitivity analysis as a methodological issue by varying prompt scaffolding and framing in a balanced 2x3 design. Using footnote 6 in Chubin and Moitra (1975) and Gilbert's (1977) reconstruction as a probe, I implement a two-stage GPT-5 pipeline: a citation-text-only surface classification and expectation pass, followed by cross-document interpretative reconstruction using the citing and cited full texts. Across 90 reconstructions, the model produces 450 distinct hypotheses. Close reading and inductive…"
-    },
-    {
-      "id": "2797731e40a18f36dcce1c82382c8f869aac4913dcc4555a8739faeb232f8593",
-      "title": "Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework",
-      "url": "https://arxiv.org/abs/2602.22391",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22391v1 Announce Type: new Abstract: Internet memes have become a dominant form of expression on social media, including within the Bengali-speaking community. While often humorous, memes can also be exploited to spread offensive, harmful, and inflammatory content targeting individuals and groups. Detecting this type of content is excep- tionally challenging due to its satirical, subtle, and culturally specific nature. This problem is magnified for low-resource lan- guages like Bengali, as existing research predominantly focuses on high-resource languages. To address this critical research gap, we introduce Bn-HIB (Bangla Hate Inflammatory Benign), a novel dataset containing 3,247 manually annotated Bengali memes categorized as Benign, Hate, or Inflammatory. Significantly, Bn- H…"
-    },
-    {
-      "id": "01fb091cc3ed81f31c5c9e5d0bf94fa15b9057d92b67378ae26eb873433e77a9",
-      "title": "SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context",
-      "url": "https://arxiv.org/abs/2602.22404",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22404v1 Announce Type: new Abstract: Stereotype repositories are critical to assess generative AI model safety, but currently lack adequate global coverage. It is imperative to prioritize targeted expansion, strategically addressing existing deficits, over merely increasing data volume. This work introduces a multilingual stereotype resource covering four sub-Saharan African countries that are severely underrepresented in NLP resources: Ghana, Kenya, Nigeria, and South Africa. By utilizing socioculturally-situated, community-engaged methods, including telephonic surveys moderated in native languages, we establish a reproducible methodology that is sensitive to the region's complex linguistic diversity and traditional orality. By deliberately balancing the sample across diverse e…"
-    },
-    {
-      "id": "d7e5ec7bf27d9cae41eda73f514fa747d3d931bcaece4cf1765f0860a5e0d134",
-      "title": "Causality $\\neq$ Invariance: Function and Concept Vectors in LLMs",
-      "url": "https://arxiv.org/abs/2602.22424",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22424v1 Announce Type: new Abstract: Do large language models (LLMs) represent concepts abstractly, i.e., independent of input format? We revisit Function Vectors (FVs), compact representations of in-context learning (ICL) tasks that causally drive task performance. Across multiple LLMs, we show that FVs are not fully invariant: FVs are nearly orthogonal when extracted from different input formats (e.g., open-ended vs. multiple-choice), even if both target the same concept. We identify Concept Vectors (CVs), which carry more stable concept representations. Like FVs, CVs are composed of attention head outputs; however, unlike FVs, the constituent heads are selected using Representational Similarity Analysis (RSA) based on whether they encode concepts consistently across input for…"
-    },
-    {
-      "id": "f53fb8341ae4ec3e50a46514f49904010c46f54c1cc43fa2cfa0a58efee75ea5",
-      "title": "A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection",
-      "url": "https://arxiv.org/abs/2602.22449",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22449v1 Announce Type: new Abstract: Cyberbullying has become a serious and growing concern in todays virtual world. When left unnoticed, it can have adverse consequences for social and mental health. Researchers have explored various types of cyberbullying, but most approaches use single-label classification, assuming that each comment contains only one type of abuse. In reality, a single comment may include overlapping forms such as threats, hate speech, and harassment. Therefore, multilabel detection is both realistic and essential. However, multilabel cyberbullying detection has received limited attention, especially in low-resource languages like Bangla, where robust pre-trained models are scarce. Developing a generalized model with moderate accuracy remains challenging. Tr…"
-    },
-    {
-      "id": "e08d10ae11b2133f04066c51fee1dac55025372b4405a6e670057a155149ae2a",
-      "title": "Bridging Latent Reasoning and Target-Language Generation via Retrieval-Transition Heads",
-      "url": "https://arxiv.org/abs/2602.22453",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22453v1 Announce Type: new Abstract: Recent work has identified a subset of attention heads in Transformer as retrieval heads, which are responsible for retrieving information from the context. In this work, we first investigate retrieval heads in multilingual contexts. In multilingual language models, we find that retrieval heads are often shared across multiple languages. Expanding the study to cross-lingual setting, we identify Retrieval-Transition heads(RTH), which govern the transition to specific target-language output. Our experiments reveal that RTHs are distinct from retrieval heads and more vital for Chain-of-Thought reasoning in multilingual LLMs. Across four multilingual benchmarks (MMLU-ProX, MGSM, MLQA, and XQuaD) and two model families (Qwen-2.5 and Llama-3.1), we…"
-    },
-    {
-      "id": "2dd3a5975196a21431bd556ac5cc868985319c6fcbf97125951e2c6790013111",
-      "title": "Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models",
-      "url": "https://arxiv.org/abs/2602.22475",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22475v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in culturally sensitive real-world tasks. However, existing cultural alignment approaches fail to align LLMs' broad cultural values with the specific goals of downstream tasks and suffer from cross-culture interference. We propose CultureManager, a novel pipeline for task-specific cultural alignment. CultureManager synthesizes task-aware cultural data in line with target task formats, grounded in culturally relevant web search results. To prevent conflicts between cultural norms, it manages multi-culture knowledge learned in separate adapters with a culture router that selects the appropriate one to apply. Experiments across ten national cultures and culture-sensitive tasks show consisten…"
-    },
-    {
-      "id": "5a87d9f3b7661bd7e4a729914df4f91c2762fc66a84838ee8849707ba64ae4fa",
-      "title": "Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs",
-      "url": "https://arxiv.org/abs/2602.22481",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22481v1 Announce Type: new Abstract: The way LLM-based entities conceive of the relationship between AI and humans is an important topic for both cultural and safety reasons. When we examine this topic, what matters is not only the model itself but also the personas we simulate on that model. This can be well illustrated by the Sydney persona, which aroused a strong response among the general public precisely because of its unorthodox relationship with people. This persona originally arose rather by accident on Microsoft's Bing Search platform; however, the texts it created spread into the training data of subsequent models, as did other secondary information that spread memetically around this persona. Newer models are therefore able to simulate it. This paper presents a corpus…"
-    },
-    {
-      "id": "3dfa50602cbe1b5b4291804c3088fda3c48c2b61ad726cdcdd8729a1ec57e08c",
-      "title": "Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models",
-      "url": "https://arxiv.org/abs/2602.22483",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22483v1 Announce Type: new Abstract: Errors in medical text can cause delays or even result in incorrect treatment for patients. Recently, language models have shown promise in their ability to automatically detect errors in medical text, an ability that has the opportunity to significantly benefit healthcare systems. In this paper, we explore the importance of prompt optimisation for small and large language models when applied to the task of error detection. We perform rigorous experiments and analysis across frontier language models and open-source language models. We show that automatic prompt optimisation with Genetic-Pareto (GEPA) improves error detection over the baseline accuracy performance from 0.669 to 0.785 with GPT-5 and 0.578 to 0.690 with Qwen3-32B, approaching th…"
-    },
-    {
-      "id": "255bfa45c79ef63984a107f229f149a159ee6b9b1ba52170e3245077a04eaa3a",
-      "title": "Efficient Dialect-Aware Modeling and Conditioning for Low-Resource Taiwanese Hakka Speech Processing",
-      "url": "https://arxiv.org/abs/2602.22522",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22522v1 Announce Type: new Abstract: Taiwanese Hakka is a low-resource, endangered language that poses significant challenges for automatic speech recognition (ASR), including high dialectal variability and the presence of two distinct writing systems (Hanzi and Pinyin). Traditional ASR models often encounter difficulties in this context, as they tend to conflate essential linguistic content with dialect-specific variations across both phonological and lexical dimensions. To address these challenges, we propose a unified framework grounded in the Recurrent Neural Network Transducers (RNN-T). Central to our approach is the introduction of dialect-aware modeling strategies designed to disentangle dialectal \"style\" from linguistic \"content\", which enhances the model's capacity to l…"
-    },
-    {
-      "id": "c0d67addfebb1132ccd47e45bee87ce38e6ffffa79ea3b40f2f188db83ab82f4",
-      "title": "Iterative Prompt Refinement for Dyslexia-Friendly Text Summarization Using GPT-4o",
-      "url": "https://arxiv.org/abs/2602.22524",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-02-28T13:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ],
-      "summary": "arXiv:2602.22524v1 Announce Type: new Abstract: Dyslexia affects approximately 10% of the global population and presents persistent challenges in reading fluency and text comprehension. While existing assistive technologies address visual presentation, linguistic complexity remains a substantial barrier to equitable access. This paper presents an empirical study on dyslexia-friendly text summarization using an iterative prompt-based refinement pipeline built on GPT-4o. We evaluate the pipeline on approximately 2,000 news article samples, applying a readability target of Flesch Reading Ease >= 90. Results show that the majority of summaries meet the readability threshold within four attempts, with many succeeding on the first try. A composite score combining readability and semantic fidelit…"
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
     },
     {
       "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
@@ -1366,9 +1081,9 @@
       "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
     },
     {
-      "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
       "source": "OpenAI",
       "published_at": "2026-02-27T13:30:00+08:00",
       "score": 0.0,
@@ -1378,7 +1093,7 @@
         "LLM",
         "research"
       ],
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
     },
     {
       "id": "751ba7518e2eeb3abc690f54b8e45a324418424f60f9fbd96e3e8944cb215356",
@@ -1396,9 +1111,9 @@
       "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
     },
     {
-      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
+      "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
       "source": "OpenAI",
       "published_at": "2026-02-27T13:30:00+08:00",
       "score": 0.0,
@@ -1408,7 +1123,7 @@
         "LLM",
         "research"
       ],
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     },
     {
       "id": "d007418d5d42a873e64047244f5c34e4c403f6a4dd8cb049d9f3c320323b294b",
@@ -1426,20 +1141,6 @@
       "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
     },
     {
-      "id": "868f38f0e662a4de254540b2de3913423aec10049bfd9c3463e41649a24f7351",
-      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
-      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
-      "source": "DeepMind",
-      "published_at": "2026-02-27T00:01:50+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "research"
-      ],
-      "summary": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
-    },
-    {
       "id": "1fbf47b882799d7ce896b4315090ef0310a519fdcd1af61d186c2011de37602b",
       "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
       "url": "https://openai.com/index/pacific-northwest-national-laboratory",
@@ -1453,21 +1154,6 @@
         "research"
       ],
       "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews."
-    },
-    {
-      "id": "82561d64c368650992f14354b537ddf703c1a9de053e1891835dc629ee65d600",
-      "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
-      "url": "https://openai.com/index/figma-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-26T14:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
     }
   ]
 }
