@@ -1,68 +1,53 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "updates": [
     {
       "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
       "title": "ruvnet/wifi-densepose",
       "url": "https://github.com/ruvnet/wifi-densepose",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 22.687046680208333,
+      "published_at": "2026-03-02",
+      "score": 26.23878086886574,
       "tags": [
         "trending"
       ],
-      "stars_today": 2152
+      "stars_today": 4539
     },
     {
-      "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
-      "title": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
+      "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
+      "title": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 22.687046680208333,
+      "published_at": "2026-03-02",
+      "score": 26.23878086886574,
       "tags": [
         "trending"
       ],
-      "stars_today": 1065
+      "stars_today": 1179
     },
     {
-      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
+      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 22.687046680208333,
+      "published_at": "2026-03-02",
+      "score": 22.33878086886574,
       "tags": [
         "trending"
       ],
-      "stars_today": 1323
+      "stars_today": 805
     },
     {
       "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 21.24704668020833,
+      "published_at": "2026-03-02",
+      "score": 21.55878086886574,
       "tags": [
         "trending"
       ],
-      "stars_today": 928
-    },
-    {
-      "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
-      "title": "Our agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "source": "OpenAI",
-      "published_at": "2026-02-28T20:30:00+08:00",
-      "score": 1.2287133468750004,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
+      "stars_today": 766
     },
     {
       "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
@@ -123,6 +108,21 @@
         "research"
       ],
       "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
+    },
+    {
+      "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
+      "title": "Our agreement with the Department of War",
+      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "source": "OpenAI",
+      "published_at": "2026-02-28T20:30:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "blog",
+        "research",
+        "LLM",
+        "research"
+      ],
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
     }
   ]
 }

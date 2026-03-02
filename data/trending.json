@@ -1,107 +1,83 @@
 {
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "items": [
-    {
-      "repo": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "stars_today": 2152,
-      "language": "Rust"
-    },
     {
       "repo": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 1065,
+      "stars_today": 736,
       "language": "TypeScript"
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "stars_today": 699,
-      "language": "Shell"
-    },
-    {
-      "repo": "tukaani-project/xz",
-      "url": "https://github.com/tukaani-project/xz",
-      "stars_today": 107,
-      "language": "C"
-    },
-    {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars_today": 635,
-      "language": "Python"
+      "repo": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
+      "stars_today": 4539,
+      "language": "Rust"
     },
     {
       "repo": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
-      "stars_today": 928,
+      "stars_today": 766,
       "language": "TypeScript"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "stars_today": 805,
+      "language": "Python"
     },
     {
       "repo": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "stars_today": 899,
-      "language": "Python"
-    },
-    {
-      "repo": "Wei-Shaw/claude-relay-service",
-      "url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "stars_today": 171,
-      "language": "JavaScript"
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "stars_today": 182,
-      "language": "Python"
-    },
-    {
-      "repo": "superset-sh/superset",
-      "url": "https://github.com/superset-sh/superset",
-      "stars_today": 181,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "stars_today": 496,
-      "language": "C"
-    },
-    {
-      "repo": "PaddlePaddle/Paddle",
-      "url": "https://github.com/PaddlePaddle/Paddle",
-      "stars_today": 10,
-      "language": "C++"
-    },
-    {
-      "repo": "datagouv/datagouv-mcp",
-      "url": "https://github.com/datagouv/datagouv-mcp",
-      "stars_today": 115,
-      "language": "Python"
-    },
-    {
-      "repo": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "stars_today": 98,
-      "language": "Go"
-    },
-    {
-      "repo": "X-PLUG/MobileAgent",
-      "url": "https://github.com/X-PLUG/MobileAgent",
-      "stars_today": 45,
+      "stars_today": 355,
       "language": "Python"
     },
     {
       "repo": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
-      "stars_today": 349,
+      "stars_today": 1179,
       "language": "Python"
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "stars_today": 1323,
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars_today": 471,
+      "language": "Python"
+    },
+    {
+      "repo": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "stars_today": 189,
+      "language": "Python"
+    },
+    {
+      "repo": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "stars_today": 59,
       "language": "Shell"
+    },
+    {
+      "repo": "X-PLUG/MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "stars_today": 190,
+      "language": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars_today": 147,
+      "language": "Python"
+    },
+    {
+      "repo": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "stars_today": 389,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "stars_today": 323,
+      "language": "Python"
     }
   ]
 }

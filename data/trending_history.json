@@ -1,6 +1,89 @@
 {
   "history": [
     {
+      "date": "2026-03-02",
+      "items": [
+        {
+          "repo": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "stars_today": 736,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "ruvnet/wifi-densepose",
+          "url": "https://github.com/ruvnet/wifi-densepose",
+          "stars_today": 4539,
+          "language": "Rust"
+        },
+        {
+          "repo": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "stars_today": 766,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "stars_today": 805,
+          "language": "Python"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stars_today": 355,
+          "language": "Python"
+        },
+        {
+          "repo": "alibaba/OpenSandbox",
+          "url": "https://github.com/alibaba/OpenSandbox",
+          "stars_today": 1179,
+          "language": "Python"
+        },
+        {
+          "repo": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "stars_today": 471,
+          "language": "Python"
+        },
+        {
+          "repo": "K-Dense-AI/claude-scientific-skills",
+          "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+          "stars_today": 189,
+          "language": "Python"
+        },
+        {
+          "repo": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "stars_today": 59,
+          "language": "Shell"
+        },
+        {
+          "repo": "X-PLUG/MobileAgent",
+          "url": "https://github.com/X-PLUG/MobileAgent",
+          "stars_today": 190,
+          "language": "Python"
+        },
+        {
+          "repo": "datawhalechina/hello-agents",
+          "url": "https://github.com/datawhalechina/hello-agents",
+          "stars_today": 147,
+          "language": "Python"
+        },
+        {
+          "repo": "superset-sh/superset",
+          "url": "https://github.com/superset-sh/superset",
+          "stars_today": 389,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "NevaMind-AI/memU",
+          "url": "https://github.com/NevaMind-AI/memU",
+          "stars_today": 323,
+          "language": "Python"
+        }
+      ]
+    },
+    {
       "date": "2026-03-01",
       "items": [
         {

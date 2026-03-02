@@ -1,208 +1,160 @@
 {
   "updates": [
     {
-      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
-      "title": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 2152
-    },
-    {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 1065
+      "stars_today": 736
     },
     {
-      "id": "13d96f6971fff698ebc53296b5f40ff14d755c304dc9f7e1b703b58e032f85a9",
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
+      "title": "ruvnet/wifi-densepose",
+      "url": "https://github.com/ruvnet/wifi-densepose",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 699
-    },
-    {
-      "id": "d1da0d4c0e8e0349c39b46668ce71f6e93d2fe110e65c0918e93a6b828cee993",
-      "title": "tukaani-project/xz",
-      "url": "https://github.com/tukaani-project/xz",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 107
-    },
-    {
-      "id": "fae31da6c227cfdebdce06bd613e3a45a6c86691d33e1e1f0796cc3d118c870d",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 635
+      "stars_today": 4539
     },
     {
       "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 928
+      "stars_today": 766
+    },
+    {
+      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 805
     },
     {
       "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
       "title": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 899
-    },
-    {
-      "id": "6e149c068f16c883b2128325c30ecbe304d60e662b75f962535c4ccf56c72629",
-      "title": "Wei-Shaw/claude-relay-service",
-      "url": "https://github.com/Wei-Shaw/claude-relay-service",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 171
-    },
-    {
-      "id": "ec2b8bd43eefd65f9cb1366e04d6d7239d69726ae6ef27da804d5b01341f9890",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 182
-    },
-    {
-      "id": "476695a4bb39f6258df6cb3d1a7a4011b73d1d0df453572a32f1401b5b7faa95",
-      "title": "superset-sh/superset",
-      "url": "https://github.com/superset-sh/superset",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 181
-    },
-    {
-      "id": "7547f04e59e3dac6a8e07c1d57ac73d028d9c70495eec1634f74c9b603e059f7",
-      "title": "moonshine-ai/moonshine",
-      "url": "https://github.com/moonshine-ai/moonshine",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 496
-    },
-    {
-      "id": "93157aa3b5fc5cf2d3fad233b93d08aa09f2923513ca769abd295fffe63b4120",
-      "title": "PaddlePaddle/Paddle",
-      "url": "https://github.com/PaddlePaddle/Paddle",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 10
-    },
-    {
-      "id": "90a001d8ddb5932274df7e13d85e13c6d0a11fd30af7ac93cd8594f27ba1ca18",
-      "title": "datagouv/datagouv-mcp",
-      "url": "https://github.com/datagouv/datagouv-mcp",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 115
-    },
-    {
-      "id": "91526b8597b5b63d2c29b0e0ddd75b98a501934723e5dfa80c02791eb0326a48",
-      "title": "Wei-Shaw/sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 98
-    },
-    {
-      "id": "daf0e8717926edf2e266fcf150f82c72249694b7c08049d789fba86f2b315c99",
-      "title": "X-PLUG/MobileAgent",
-      "url": "https://github.com/X-PLUG/MobileAgent",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-01",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 45
+      "stars_today": 355
     },
     {
       "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
       "title": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 349
+      "stars_today": 1179
     },
     {
-      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
+      "id": "fae31da6c227cfdebdce06bd613e3a45a6c86691d33e1e1f0796cc3d118c870d",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "source": "GitHub Trending",
-      "published_at": "2026-03-01",
+      "published_at": "2026-03-02",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 1323
+      "stars_today": 471
+    },
+    {
+      "id": "61513ee889bd5c223d32ff855d6bc55832887eb304dfa33982fd9d38c438e863",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 189
+    },
+    {
+      "id": "295e4594f9c5a234dc451bf787213c1d542417cdd8ec6634c25d17ba145bdf54",
+      "title": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 59
+    },
+    {
+      "id": "daf0e8717926edf2e266fcf150f82c72249694b7c08049d789fba86f2b315c99",
+      "title": "X-PLUG/MobileAgent",
+      "url": "https://github.com/X-PLUG/MobileAgent",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 190
+    },
+    {
+      "id": "ee7e0e584b2626a327b173616b2c3ee13175affa6c818aff2164baed66b0b72f",
+      "title": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 147
+    },
+    {
+      "id": "476695a4bb39f6258df6cb3d1a7a4011b73d1d0df453572a32f1401b5b7faa95",
+      "title": "superset-sh/superset",
+      "url": "https://github.com/superset-sh/superset",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 389
+    },
+    {
+      "id": "d9e005072ae243932d22eb9f84e02714d8c41af61bfea12a347ed93c9fd92577",
+      "title": "NevaMind-AI/memU",
+      "url": "https://github.com/NevaMind-AI/memU",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-02",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 323
     },
     {
       "id": "bf90990ffd36e2a8eb8f002ef793cdb0f499cf55ba9207579752b8cf6c1fd1f8",
@@ -871,6 +823,15 @@
       "tags": []
     },
     {
+      "id": "2f4cabee6b47917a810e1fa6a5a22c073dcb9eff357eadf9e7239a344489bf88",
+      "title": "hehonghui pushed awesome-english-ebooks",
+      "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/ece324874c...d74152bad3",
+      "source": "hehonghui",
+      "published_at": "2026-03-01 23:15:50 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "7e027bcab20aee33eb114cd51ae954e0889a94b20daddf4f2cec4b92c8b4e2aa",
       "title": "hehonghui pushed awesome-english-ebooks",
       "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/8945ca0886...ece324874c",
@@ -952,15 +913,6 @@
       "tags": []
     },
     {
-      "id": "fde9e0f3e6d7665306fb0c6f019fbc39095b83ec2bfd3f9f96038fb20aacdd97",
-      "title": "hehonghui pushed awesome-english-ebooks",
-      "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/1a644b306c...cd15e83b74",
-      "source": "hehonghui",
-      "published_at": "2026-01-30 21:47:20 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
       "id": "40051bb376aec4f19fcc5f6506e06f3c140c1dfdfe556be9265c9546a6726bcd",
       "title": "x1xhlol starred leeaahhh/ellie",
       "url": "https://github.com/leeaahhh/ellie",
@@ -983,7 +935,7 @@
       "title": "x1xhlol pushed shield",
       "url": "https://github.com/ZeroLeaks/shield/compare/9abb2de05d...39cd8deae7",
       "source": "x1xhlol",
-      "published_at": "2026-02-25 17:37:47 UTC",
+      "published_at": "2026-02-26 01:37:47 +0800",
       "score": 0.0,
       "tags": []
     },
@@ -992,7 +944,7 @@
       "title": "x1xhlol created a branch",
       "url": "https://github.com/ZeroLeaks/shield/compare/0000000000...9abb2de05d",
       "source": "x1xhlol",
-      "published_at": "2026-02-25 17:09:27 UTC",
+      "published_at": "2026-02-26 01:09:27 +0800",
       "score": 0.0,
       "tags": []
     },
@@ -1019,7 +971,7 @@
       "title": "x1xhlol pushed zeroleaks",
       "url": "https://github.com/ZeroLeaks/zeroleaks/compare/947531c01e...ca8e580205",
       "source": "x1xhlol",
-      "published_at": "2026-02-21 17:19:20 UTC",
+      "published_at": "2026-02-22 01:19:20 +0800",
       "score": 0.0,
       "tags": []
     },
@@ -1124,36 +1076,6 @@
         "research"
       ],
       "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
-    },
-    {
-      "id": "d007418d5d42a873e64047244f5c34e4c403f6a4dd8cb049d9f3c320323b294b",
-      "title": "An update on our mental health-related work",
-      "url": "https://openai.com/index/update-on-mental-health-related-work",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T08:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments."
-    },
-    {
-      "id": "1fbf47b882799d7ce896b4315090ef0310a519fdcd1af61d186c2011de37602b",
-      "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "url": "https://openai.com/index/pacific-northwest-national-laboratory",
-      "source": "OpenAI",
-      "published_at": "2026-02-26T18:00:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews."
     }
   ]
 }
