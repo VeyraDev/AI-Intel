@@ -158,6 +158,31 @@
       color: #e0f2fe;
       border-bottom-color: rgba(224, 242, 254, 0.9);
     }
+    .report-controls {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px 4px;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .report-controls label {
+      white-space: nowrap;
+    }
+    .report-controls select {
+      flex-shrink: 0;
+      background: rgba(15, 23, 42, 0.9);
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 3px 10px;
+      font-size: 0.85rem;
+      outline: none;
+    }
+    .report-controls select:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px rgba(56, 189, 248, 0.4);
+    }
     .report-content ul, .report-content ol { margin: 0.4em 0; padding-left: 1.5em; }
     .loading, .empty { color: var(--muted); padding: 16px; }
     .error { color: #f87171; padding: 16px; }
@@ -329,6 +354,10 @@
       <section>
         <h2>每日报告</h2>
         <div class="section-body">
+          <div class="report-controls" id="report-controls" style="display:none;">
+            <label for="report-date-select">选择日期：</label>
+            <select id="report-date-select"></select>
+          </div>
           <div id="report-loading" class="loading">加载中…</div>
           <div id="report-summary" class="report-content report-summary" style="display:none;"></div>
           <button id="report-more-btn" class="report-toggle-btn" style="display:none;">查看详情</button>
@@ -471,38 +500,78 @@
       const modalContent = document.getElementById('report-modal-content');
       const modalClose = document.getElementById('report-modal-close');
       const modalBackdrop = modal.querySelector('.report-modal-backdrop');
+      const controls = document.getElementById('report-controls');
+      const dateSelect = document.getElementById('report-date-select');
       try {
         const data = await loadJson('reports.json');
         loading.style.display = 'none';
         const reports = (data && data.reports) ? data.reports : [];
-        const latest = reports.length ? reports[reports.length - 1] : null;
-        if (!latest || !latest.content) {
+        if (!reports.length) {
           empty.style.display = 'block';
           return;
         }
-        const rawContent = String(latest.content || '');
-        const fullHtml = reportMarkdownToHtml(rawContent);
+        // 按日期排序，最新在最后
+        reports.sort(function (a, b) {
+          const da = String(a.date || '');
+          const db = String(b.date || '');
+          return da.localeCompare(db);
+        });
 
-        summaryEl.style.display = 'block';
-        summaryEl.innerHTML = fullHtml;
+        // 渲染指定索引的报告
+        function renderReport(index) {
+          const rep = reports[index];
+          if (!rep || !rep.content) {
+            summaryEl.style.display = 'none';
+            moreBtn.style.display = 'none';
+            empty.style.display = 'block';
+            return;
+          }
+          const rawContent = String(rep.content || '');
+          const fullHtml = reportMarkdownToHtml(rawContent);
 
-        const isLong = rawContent.length > 800;
-        if (isLong) {
-          summaryEl.classList.add('has-more');
-          moreBtn.style.display = 'inline-flex';
-          const openModal = () => {
-            modalContent.innerHTML = fullHtml;
-            modal.classList.add('is-open');
-            modal.setAttribute('aria-hidden', 'false');
-          };
-          const closeModal = () => {
-            modal.classList.remove('is-open');
-            modal.setAttribute('aria-hidden', 'true');
-          };
-          moreBtn.onclick = openModal;
-          modalClose.onclick = closeModal;
-          modalBackdrop.onclick = closeModal;
+          summaryEl.style.display = 'block';
+          summaryEl.innerHTML = fullHtml;
+          summaryEl.classList.remove('has-more');
+          moreBtn.style.display = 'none';
+
+          const isLong = rawContent.length > 800;
+          if (isLong) {
+            summaryEl.classList.add('has-more');
+            moreBtn.style.display = 'inline-flex';
+            const openModal = () => {
+              modalContent.innerHTML = fullHtml;
+              modal.classList.add('is-open');
+              modal.setAttribute('aria-hidden', 'false');
+            };
+            const closeModal = () => {
+              modal.classList.remove('is-open');
+              modal.setAttribute('aria-hidden', 'true');
+            };
+            moreBtn.onclick = openModal;
+            modalClose.onclick = closeModal;
+            modalBackdrop.onclick = closeModal;
+          }
         }
+
+        // 填充日期下拉框
+        if (reports.length > 1) {
+          controls.style.display = 'flex';
+          dateSelect.innerHTML = reports.map(function (r, idx) {
+            const label = (r.date || '').trim() || (r.generated_at || '').slice(0, 10) || ('报告 ' + (idx + 1));
+            return '<option value="' + idx + '">' + label + '</option>';
+          }).join('');
+          // 默认选中最新一条
+          dateSelect.value = String(reports.length - 1);
+          dateSelect.onchange = function () {
+            const idx = parseInt(dateSelect.value, 10);
+            if (!isNaN(idx)) {
+              renderReport(idx);
+            }
+          };
+        }
+
+        // 初始渲染最新一条
+        renderReport(reports.length - 1);
         attachReveal('.report-area section');
       } catch (e) {
         loading.style.display = 'none';
