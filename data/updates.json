@@ -1,128 +1,118 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "updates": [
     {
-      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
-      "title": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
+      "id": "b303b1e4141446e667c0ef752ea0f20da83b33efd027cae4738af9aba74f7af4",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 26.23878086886574,
+      "published_at": "2026-03-03",
+      "score": 24.378669941203704,
       "tags": [
         "trending"
       ],
-      "stars_today": 4539
+      "stars_today": 5096
+    },
+    {
+      "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-03",
+      "score": 24.378669941203704,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1412
     },
     {
       "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
       "title": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 26.23878086886574,
+      "published_at": "2026-03-03",
+      "score": 24.378669941203704,
       "tags": [
         "trending"
       ],
-      "stars_today": 1179
+      "stars_today": 1026
     },
     {
-      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
+      "id": "61513ee889bd5c223d32ff855d6bc55832887eb304dfa33982fd9d38c438e863",
+      "title": "K-Dense-AI/claude-scientific-skills",
+      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 22.33878086886574,
+      "published_at": "2026-03-03",
+      "score": 21.778669941203702,
       "tags": [
         "trending"
       ],
-      "stars_today": 805
+      "stars_today": 820
     },
     {
-      "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 21.55878086886574,
+      "id": "db0b46a25a460e831a69af4299338e2eed2fde022e07f375a87b3e047fb93b77",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "url": "https://arxiv.org/abs/2603.00285",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 11.795336607870372,
       "tags": [
-        "trending"
+        "arxiv",
+        "cs.AI"
       ],
-      "stars_today": 766
+      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored purely on realized performance-Sharpe ratio, returns, and drawdown-eliminating judge variance entirely. The framework features two novel tracks: crypto trading with four progressive market-manipulation transforms, and options derivatives scoring across P&L accuracy, Greeks, and risk management. Tra…"
     },
     {
-      "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 1.0,
+      "id": "4f0ce8c795298670f1592ef6143e06fc3ebe17f35d9ee762cfabc0a945467bd7",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "url": "https://arxiv.org/abs/2603.00349",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 11.795336607870372,
       "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
+        "arxiv",
+        "cs.AI"
       ],
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
+      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task success in embodied multi-agent systems are difficult to conduct with existing benchmarks. In this paper, we introduce EmCoop, a benchmark framework for studying cooperation in LLM-based embodied multi-agent systems. Our framework separates a high-level cognitive layer from a low-level embodied interactio…"
     },
     {
-      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 1.0,
+      "id": "e7214de187edd90a3aa1980faeab044bfd014440e56203afd8853f608a9d2f33",
+      "title": "ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents",
+      "url": "https://arxiv.org/abs/2603.00026",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 11.795336607870372,
       "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
+        "arxiv",
+        "cs.CL"
       ],
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
+      "summary": "arXiv:2603.00026v1 Announce Type: new Abstract: Effective memory management is essential for large language model (LLM) agents handling long-term interactions. Current memory frameworks typically treat agents as passive \"recorders\" and retrieve information without understanding its deeper implications. They may fail in scenarios requiring conflict detection and complex decision-making. To bridge this critical gap, we propose a novel actionable memory framework called ActMem that integrates memory retrieval with active causal reasoning. ActMem transforms unstructured dialogue history into a structured causal and semantic graph. By leveraging counterfactual reasoning and commonsense completion, it enables agents to deduce implicit constraints and resolve potential conflicts between past stat…"
     },
     {
-      "id": "751ba7518e2eeb3abc690f54b8e45a324418424f60f9fbd96e3e8944cb215356",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 1.0,
+      "id": "f69e557b68f8acd7ba2442e7f27b58f17afe60169fb88f3114883877f7373986",
+      "title": "RAIE: Region-Aware Incremental Preference Editing with LoRA for LLM-based Recommendation",
+      "url": "https://arxiv.org/abs/2603.00638",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 11.795336607870372,
       "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
+        "arxiv",
+        "cs.IR"
       ],
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
+      "summary": "arXiv:2603.00638v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly adopted as the backbone of recommender systems. However, user-item interactions in real-world scenarios are non-stationary, making preference drift over time inevitable. Existing model update strategies mainly rely on global fine-tuning or pointwise editing, but they face two fundamental challenges: (i) imbalanced update granularity, where global updates perturb behaviors unrelated to the target while pointwise edits fail to capture broader preference shifts; (ii) unstable incremental updates, where repeated edits interfere with prior adaptations, leading to catastrophic forgetting and inconsistent recommendations. To address these issues, we propose Region-Aware Incremental Editing (RAIE), a plug…"
     },
     {
-      "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 1.0,
+      "id": "badbbbec73ac756b00af8c0117d0563454f1501284ea55ae31a0c74efafb588a",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "url": "https://arxiv.org/abs/2603.00267",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 10.795336607870372,
       "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
+        "arxiv",
+        "cs.AI"
       ],
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
-    },
-    {
-      "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
-      "title": "Our agreement with the Department of War",
-      "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-      "source": "OpenAI",
-      "published_at": "2026-02-28T20:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
+      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to utilize the reasoning capability of LLMs with retrieved grounding evidence documents. However, these methods largely rely on textual similarity for evidence retrieval and struggle to retrieve evidence that captures multi-hop semantic relations within rich document contents. These limitations lead to…"
     }
   ]
 }

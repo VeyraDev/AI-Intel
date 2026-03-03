@@ -1,160 +1,193 @@
 {
   "updates": [
     {
+      "id": "b303b1e4141446e667c0ef752ea0f20da83b33efd027cae4738af9aba74f7af4",
+      "title": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-03",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 5096
+    },
+    {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 736
+      "stars_today": 1412
     },
     {
-      "id": "49a4e40614e79e618ac742b37a8602399ab2e538a8e0959581ac70b0f6e036a0",
-      "title": "ruvnet/wifi-densepose",
-      "url": "https://github.com/ruvnet/wifi-densepose",
+      "id": "4aaa8f05a11682253d179ae40fcbcb2a4d63f972f165edf1c95e58d62f39fe6f",
+      "title": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 4539
+      "stars_today": 526
     },
     {
       "id": "c60b77ce50fb8910649941c02ca6d84dc6ad7f81a0a8dcf867e2d6865cc569b0",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 766
-    },
-    {
-      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 805
-    },
-    {
-      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 355
+      "stars_today": 830
     },
     {
       "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
       "title": "alibaba/OpenSandbox",
       "url": "https://github.com/alibaba/OpenSandbox",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 1179
+      "stars_today": 1026
     },
     {
-      "id": "fae31da6c227cfdebdce06bd613e3a45a6c86691d33e1e1f0796cc3d118c870d",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "id": "dec36f96df8d997b886d778052919e729e5e6cf0f7d9068a89efff8467c9514f",
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 471
+      "stars_today": 648
     },
     {
       "id": "61513ee889bd5c223d32ff855d6bc55832887eb304dfa33982fd9d38c438e863",
       "title": "K-Dense-AI/claude-scientific-skills",
       "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 189
-    },
-    {
-      "id": "295e4594f9c5a234dc451bf787213c1d542417cdd8ec6634c25d17ba145bdf54",
-      "title": "basecamp/omarchy",
-      "url": "https://github.com/basecamp/omarchy",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 59
-    },
-    {
-      "id": "daf0e8717926edf2e266fcf150f82c72249694b7c08049d789fba86f2b315c99",
-      "title": "X-PLUG/MobileAgent",
-      "url": "https://github.com/X-PLUG/MobileAgent",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 190
-    },
-    {
-      "id": "ee7e0e584b2626a327b173616b2c3ee13175affa6c818aff2164baed66b0b72f",
-      "title": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-02",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 147
+      "stars_today": 820
     },
     {
       "id": "476695a4bb39f6258df6cb3d1a7a4011b73d1d0df453572a32f1401b5b7faa95",
       "title": "superset-sh/superset",
       "url": "https://github.com/superset-sh/superset",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 389
+      "stars_today": 585
     },
     {
-      "id": "d9e005072ae243932d22eb9f84e02714d8c41af61bfea12a347ed93c9fd92577",
-      "title": "NevaMind-AI/memU",
-      "url": "https://github.com/NevaMind-AI/memU",
+      "id": "d869a73b949772a221284e46287b6012b6e0d06e821d6362e184c4c7bf2d6bcf",
+      "title": "servo/servo",
+      "url": "https://github.com/servo/servo",
       "source": "GitHub Trending",
-      "published_at": "2026-03-02",
+      "published_at": "2026-03-03",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 323
+      "stars_today": 45
+    },
+    {
+      "id": "ba11195c2b269d845938b64bbb2f7a28561fbc83d192270c55a3aabe8091674f",
+      "title": "hiyouga commented on pull request hiyouga/LlamaFactory#10165",
+      "url": "https://github.com/hiyouga/LlamaFactory/pull/10165#discussion_r2872026718",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 11:54:59 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7c8c052f1f956fb9287c9cf88cee1b5b1df02aa339728cbd16c4d447c615b159",
+      "title": "hiyouga labeled an issue in LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/issues/10191",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:49:14 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7c8c052f1f956fb9287c9cf88cee1b5b1df02aa339728cbd16c4d447c615b159",
+      "title": "hiyouga unlabeled an issue in LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/issues/10191",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:49:14 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7c8c052f1f956fb9287c9cf88cee1b5b1df02aa339728cbd16c4d447c615b159",
+      "title": "hiyouga unlabeled an issue in LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/issues/10191",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:49:14 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "cf799f374d4a4a8a16e617a7d0212b9f9b44274f2193dc356c40d49413761730",
+      "title": "hiyouga deleted",
+      "url": "https://github.com/hiyouga/LlamaFactory/compare/caf444a9f7...0000000000",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:10:50 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "4191e4098f400a96e9097edecbdc4061425cc34c753362ac8830e57a9d5b8249",
+      "title": "hiyouga contributed to hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/pull/10232",
+      "source": "hiyouga",
+      "published_at": "2026-03-01 19:10:48 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "ccf8f0ae94953c53e2342573db584cfc52fbd2063118d243283c68122ec542d1",
+      "title": "hiyouga pushed LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/compare/0779846513...b5cb7cb0e6",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:10:49 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "4191e4098f400a96e9097edecbdc4061425cc34c753362ac8830e57a9d5b8249",
+      "title": "hiyouga contributed to hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory/pull/10232",
+      "source": "hiyouga",
+      "published_at": "2026-03-01 19:04:12 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e9054cd89cd9a552dcc1e5e6d95746c3d617f4d6848c7768c6a56f8664ed27c1",
+      "title": "hiyouga created a branch",
+      "url": "https://github.com/hiyouga/LlamaFactory/compare/0000000000...caf444a9f7",
+      "source": "hiyouga",
+      "published_at": "2026-03-02 03:04:04 UTC",
+      "score": 0.0,
+      "tags": []
     },
     {
       "id": "bf90990ffd36e2a8eb8f002ef793cdb0f499cf55ba9207579752b8cf6c1fd1f8",
@@ -162,87 +195,6 @@
       "url": "https://github.com/xvxuopop/LlamaFactory/compare/aafff87cec...e212657822",
       "source": "hiyouga",
       "published_at": "2026-02-28 12:27:45 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "ce705f1c2f4b1adcd6cb4beb583cea276f941dd83d299e5896362a805f0c05cd",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/45d335c709...0779846513",
-      "source": "hiyouga",
-      "published_at": "2026-02-28 12:26:54 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "4d812009cdbedabfa6414542918cb1ae0a12536818d0a3b1e3b86158a630f1d2",
-      "title": "hiyouga commented on pull request hiyouga/LlamaFactory#10165",
-      "url": "https://github.com/hiyouga/LlamaFactory/pull/10165#discussion_r2867428540",
-      "source": "hiyouga",
-      "published_at": "2026-02-28 12:26:00 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "802bdf76437949f1b2457e86d6032aa8fbcf724628cca34401897b6dd753feee",
-      "title": "hiyouga commented on an issue in EasyR1",
-      "url": "https://github.com/hiyouga/EasyR1/issues/646#issuecomment-3977093757",
-      "source": "hiyouga",
-      "published_at": "2026-02-28 04:21:47 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "1de0c77d17b59f523d720b42198d5113833296cddd04282fbd248c9947d11fdc",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/816480012f...45d335c709",
-      "source": "hiyouga",
-      "published_at": "2026-02-28 10:16:07 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "da172e3e7edbcf545c15f6e1ff876825fde854ee2e9d44a4802464e35837dfd2",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/d3bf882e87...816480012f",
-      "source": "hiyouga",
-      "published_at": "2026-02-28 08:39:25 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "82b9b3949bb9cc0e34830c1a7bdd909e5248ffba0570f2e42b1766a1a528d8e7",
-      "title": "hiyouga pushed llamafactory-blog",
-      "url": "https://github.com/hiyouga/llamafactory-blog/compare/4f54f3b2d3...011a073de4",
-      "source": "hiyouga",
-      "published_at": "2026-02-27 13:43:02 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "146829589183d6d802f1d29f6d4944f20caeaae3b581de2253c15186f808bb3f",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/589da21d32...d3bf882e87",
-      "source": "hiyouga",
-      "published_at": "2026-02-27 12:16:35 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "1228f96bfbc61ec0ab279f965713bb77965b44dcb4cf4489157600f08b9b8df7",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/122cd46084...589da21d32",
-      "source": "hiyouga",
-      "published_at": "2026-02-26 15:03:15 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "6b504aa43c6066e42f31455eb48aa9cfe82bfd7368a7ec85c030c3f0d1c6a418",
-      "title": "hiyouga deleted",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/4d68cba716...0000000000",
-      "source": "hiyouga",
-      "published_at": "2026-02-26 13:13:59 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -346,92 +298,92 @@
       "tags": []
     },
     {
-      "id": "e753cb8d96f0694ee9575d3f22e8f07b07b2c5005de22f5fa08a35ac18480ac5",
+      "id": "67f002b9b3186095a264f2d7ce92b5d872917aeb30e541fa9a22d07e43d0e0e3",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/424b4b0dfe...0000000000",
+      "url": "https://github.com/KittyCAD/documentation/compare/a1acb36ea6...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-03-01 04:26:46 UTC",
+      "published_at": "2026-03-03 02:01:57 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "922359228cb2bd44a288febaf67b168d763b903f17d75f64e544ff1a2d51c7ce",
+      "id": "0aa706172c8006e7272b1c887202154ca41746d3c627f893a3e5dbdc1d4c6a45",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/197bddd3ac...40858e699d",
+      "source": "jessfraz",
+      "published_at": "2026-03-03 02:01:55 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "0b2612b4d24137237efc12df856f655d8dfd5facce79bf055c5af013a3a964fe",
+      "title": "jessfraz deleted",
+      "url": "https://github.com/KittyCAD/cli/compare/70bd50a6c7...0000000000",
+      "source": "jessfraz",
+      "published_at": "2026-03-02 20:29:53 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "0d13c4bdcf1ebeb96afc3a339a20cc5ed98d3c2dbbc2df73ed73b3b6134204f5",
       "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/acb96ec78f...52eeeeafda",
+      "url": "https://github.com/KittyCAD/cli/compare/1d5a271bcd...2d890672f1",
       "source": "jessfraz",
-      "published_at": "2026-03-01 04:26:45 UTC",
+      "published_at": "2026-03-02 20:29:53 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "ddef81cb8a6e78ceee26f3988df278a3a9bab1fe64c81f0490888fcba550a0c5",
-      "title": "jessfraz pushed global-nix",
-      "url": "https://github.com/jessfraz/global-nix/compare/0e36ff9297...ff91713fc2",
-      "source": "jessfraz",
-      "published_at": "2026-02-28 01:16:05 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "7a7a0a12cddf5373fcf7c01ef84ccce5d2475b0d9a5df8855daa586e66161770",
+      "id": "450aeffe5055e87213a0f5a4222365c2b6f43c7980dd97b5e89c74b22e2e72e9",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/documentation/compare/fd84b3378c...0000000000",
+      "url": "https://github.com/KittyCAD/kittycad.rs/compare/625738035e...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-02-28 01:10:45 UTC",
+      "published_at": "2026-03-02 20:22:43 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7393ffeff4cb6438c31bed4b3203713ea0e7d15ba84051e92ca39fc81665c70f",
-      "title": "jessfraz pushed documentation",
-      "url": "https://github.com/KittyCAD/documentation/compare/5d17b2dce1...bc8007a4fc",
+      "id": "0e411b9904e3eb04e9c32b3b4aab78a3969e6e1c226d4cdea1cc190981294128",
+      "title": "jessfraz pushed kittycad.rs",
+      "url": "https://github.com/KittyCAD/kittycad.rs/compare/7cd212ec2c...c93c7165b4",
       "source": "jessfraz",
-      "published_at": "2026-02-28 01:10:43 UTC",
+      "published_at": "2026-03-02 20:22:42 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "c46eed067334ca9f217ecbce3c8682d663d25d008c434c11221d3a55cfbe5962",
-      "title": "jessfraz pushed global-nix",
-      "url": "https://github.com/jessfraz/global-nix/compare/4c241e8980...0e36ff9297",
-      "source": "jessfraz",
-      "published_at": "2026-02-27 23:16:47 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "e967277ddefadb9a0beff77eba289ebd1d42df814f99c3ef0ff1f9140046306d",
+      "id": "019b07019f875de8c1b970f11f89e593db09b42ba7cfc275688a76008b874b3a",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/documentation/compare/3232e84394...0000000000",
+      "url": "https://github.com/KittyCAD/kittycad.py/compare/3d9a5a6ef3...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-02-27 19:11:05 UTC",
+      "published_at": "2026-03-02 20:10:25 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "0db3655dd65a440e5042e843a569dcd083218467927f9632cd68dc92f5840b99",
-      "title": "jessfraz pushed documentation",
-      "url": "https://github.com/KittyCAD/documentation/compare/7f6729a33a...5d17b2dce1",
+      "id": "a6c208f333d114e31477a3624f5d0b6f85f2e610ed5139cdbff5320c7625c06d",
+      "title": "jessfraz pushed kittycad.py",
+      "url": "https://github.com/KittyCAD/kittycad.py/compare/0bdeac5414...098b3ffe5b",
       "source": "jessfraz",
-      "published_at": "2026-02-27 19:11:03 UTC",
+      "published_at": "2026-03-02 20:10:24 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "9cb35e6bcbe0bc4402490532dfe6c78d0d83bc15477788e307cfe9886c89aa9e",
+      "id": "bf8f2bf6b9ffaab1a20b6b67941b79fef7edb6b096e0d9483c93be3a60bd2c79",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/959c798cb0...0000000000",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/1cb3bf4c64...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:38 UTC",
+      "published_at": "2026-03-02 20:05:06 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "e3bb7ad099149879cee6700bb12ad499a2d0d5685eabba57c60938e8775a46ec",
+      "id": "7515578787dcd52f8a9c949affe23343ee9e3bae8931794a39641e131dbe1d88",
       "title": "jessfraz pushed kittycad.ts",
-      "url": "https://github.com/KittyCAD/kittycad.ts/compare/f7adc35ae6...e62feb1151",
+      "url": "https://github.com/KittyCAD/kittycad.ts/compare/c67a057f0e...bddb1357ff",
       "source": "jessfraz",
-      "published_at": "2026-02-27 16:01:36 UTC",
+      "published_at": "2026-03-02 20:05:05 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -526,6 +478,69 @@
       "tags": []
     },
     {
+      "id": "9b48b05cb7d15db537c9324440dbe11201acd0394862af22a894d8c66c355f1f",
+      "title": "rsc commented on an issue in go",
+      "url": "https://github.com/golang/go/issues/76856#issuecomment-3987782340",
+      "source": "rsc",
+      "published_at": "2026-03-02 16:13:50 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "41b88acd9b358c62f97e5104e2975c5953d0bf5099a617327143306a8f616397",
+      "title": "rsc commented on an issue in go",
+      "url": "https://github.com/golang/go/issues/76856#issuecomment-3986731422",
+      "source": "rsc",
+      "published_at": "2026-03-02 12:25:16 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "7325d1be4b5592f65b83c2815e3de8fc9435f1b62699ecefe4f36e184bcbed8f",
+      "title": "rsc commented on an issue in go",
+      "url": "https://github.com/golang/go/issues/76856#issuecomment-3986215913",
+      "source": "rsc",
+      "published_at": "2026-03-02 10:49:01 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "62e55df96fab43e2fe955b0c0ee6f29cee1674c4234b7735c996a054896dc73a",
+      "title": "rsc commented on an issue in go",
+      "url": "https://github.com/golang/go/issues/76856#issuecomment-3985810841",
+      "source": "rsc",
+      "published_at": "2026-03-02 09:27:03 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "21d049d9e9ecefd62ddc45522ab4a84a2ff84625bcb018dc1473dead3865496f",
+      "title": "rsc commented on an issue in go",
+      "url": "https://github.com/golang/go/issues/77897#issuecomment-3985477076",
+      "source": "rsc",
+      "published_at": "2026-03-02 08:36:17 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e47fdbdde6d322103179e280b80967de1e36c46d91ff79a87c7a7cac2808da0c",
+      "title": "rsc labeled an issue in go",
+      "url": "https://github.com/golang/go/issues/77897",
+      "source": "rsc",
+      "published_at": "2026-03-02 07:14:18 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e47fdbdde6d322103179e280b80967de1e36c46d91ff79a87c7a7cac2808da0c",
+      "title": "rsc opened an issue in go",
+      "url": "https://github.com/golang/go/issues/77897",
+      "source": "rsc",
+      "published_at": "2026-03-02 07:14:18 -0800",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "d909f91d2736cc46d1c2f76270543009887794ee0f91fb59b57e288868d5648f",
       "title": "rsc contributed to robpike/ivy",
       "url": "https://github.com/robpike/ivy/pull/267",
@@ -549,69 +564,6 @@
       "url": "https://github.com/robpike/ivy/pull/267",
       "source": "rsc",
       "published_at": "2026-02-28 12:58:48 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "07dc9699e0aba2850c9f13a21021dc4b370f00a1d4f73fbbfa2e980ec9087170",
-      "title": "rsc created a branch",
-      "url": "https://github.com/rsc/ivy/compare/0000000000...c275c787e2",
-      "source": "rsc",
-      "published_at": "2026-02-28 20:58:31 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "e92fab469565c84499517c64ca2196af80181d5c484ba684c2669bbd47dac000",
-      "title": "rsc commented on an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/266#issuecomment-3977166208",
-      "source": "rsc",
-      "published_at": "2026-02-28 05:26:24 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "aa4a7daae7ec18a972c09d45110ebe0a558dd0039a31e117165c3d249056b33b",
-      "title": "rsc opened an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/266",
-      "source": "rsc",
-      "published_at": "2026-02-28 05:24:13 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "94e6a9bfead08b6bfd74d115ca912d089d8d25d2b6109d9ccf00ca0198ccba56",
-      "title": "rsc pushed fpfmt",
-      "url": "https://github.com/rsc/fpfmt/compare/1b6605f7a0...ec108cbb39",
-      "source": "rsc",
-      "published_at": "2026-02-27 14:51:39 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "5325fbd9ce3cf95416ccab0008298bd37988ef0d40ad095311a302673e761efb",
-      "title": "rsc opened an issue in ivy",
-      "url": "https://github.com/robpike/ivy/issues/265",
-      "source": "rsc",
-      "published_at": "2026-02-27 05:28:37 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "2276c7e90c3d427eb3f5212f06fed74d8b5866c047ab2b99cf51f4990b01382c",
-      "title": "rsc commented on an issue in go",
-      "url": "https://github.com/golang/go/issues/77825#issuecomment-3967984089",
-      "source": "rsc",
-      "published_at": "2026-02-26 09:11:30 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "8abeed1046cce715d3f726929c8d5a43c6a89110233fa28b641515c4e0303eab",
-      "title": "rsc pushed plan9port",
-      "url": "https://github.com/9fans/plan9port/compare/cb7001c8d2...6654cad3c5",
-      "source": "rsc",
-      "published_at": "2026-02-26 14:49:37 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -1003,6 +955,786 @@
       "tags": []
     },
     {
+      "id": "badbbbec73ac756b00af8c0117d0563454f1501284ea55ae31a0c74efafb588a",
+      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
+      "url": "https://arxiv.org/abs/2603.00267",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to utilize the reasoning capability of LLMs with retrieved grounding evidence documents. However, these methods largely rely on textual similarity for evidence retrieval and struggle to retrieve evidence that captures multi-hop semantic relations within rich document contents. These limitations lead to…"
+    },
+    {
+      "id": "db0b46a25a460e831a69af4299338e2eed2fde022e07f375a87b3e047fb93b77",
+      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
+      "url": "https://arxiv.org/abs/2603.00285",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored purely on realized performance-Sharpe ratio, returns, and drawdown-eliminating judge variance entirely. The framework features two novel tracks: crypto trading with four progressive market-manipulation transforms, and options derivatives scoring across P&L accuracy, Greeks, and risk management. Tra…"
+    },
+    {
+      "id": "9ef38bba1a47737e9b750173e547d93c5a1f978e2bedc83a95cb108cee648357",
+      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
+      "url": "https://arxiv.org/abs/2603.00309",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such unstructured interactions can lead to redundant work and cascading failures that are difficult to interpret or correct. In this work, we study multi-agent systems composed of general-purpose LLM agents that operate without predefined roles, control flow, or communication constraints, relying instead on…"
+    },
+    {
+      "id": "c6044ec2318f388080dba20039545825799e37b51b190614f4f6fdb80b064373",
+      "title": "How Well Do Multimodal Models Reason on ECG Signals?",
+      "url": "https://arxiv.org/abs/2603.00312",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00312v1 Announce Type: new Abstract: While multimodal large language models offer a promising solution to the \"black box\" nature of health AI by generating interpretable reasoning traces, verifying the validity of these traces remains a critical challenge. Existing evaluation methods are either unscalable, relying on manual clinician review, or superficial, utilizing proxy metrics (e.g. QA) that fail to capture the semantic correctness of clinical logic. In this work, we introduce a reproducible framework for evaluating reasoning in ECG signals. We propose decomposing reasoning into two distinct, components: (i) Perception, the accurate identification of patterns within the raw signal, and (ii) Deduction, the logical application of domain knowledge to those patterns. To evaluate…"
+    },
+    {
+      "id": "4f0ce8c795298670f1592ef6143e06fc3ebe17f35d9ee762cfabc0a945467bd7",
+      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
+      "url": "https://arxiv.org/abs/2603.00349",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task success in embodied multi-agent systems are difficult to conduct with existing benchmarks. In this paper, we introduce EmCoop, a benchmark framework for studying cooperation in LLM-based embodied multi-agent systems. Our framework separates a high-level cognitive layer from a low-level embodied interactio…"
+    },
+    {
+      "id": "e9b72a3119bda35f9e1d1d2f883fd46d16add392579b1b83c1777352881b6705",
+      "title": "Monotropic Artificial Intelligence: Toward a Cognitive Taxonomy of Domain-Specialized Language Models",
+      "url": "https://arxiv.org/abs/2603.00350",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00350v1 Announce Type: new Abstract: The prevailing paradigm in artificial intelligence research equates progress with scale: larger models trained on broader datasets are presumed to yield superior capabilities. This assumption, while empirically productive for general-purpose applications, obscures a fundamental epistemological tension between breadth and depth of knowledge. We introduce the concept of \\emph{Monotropic Artificial Intelligence} -- language models that deliberately sacrifice generality to achieve extraordinary precision within narrowly circumscribed domains. Drawing on the cognitive theory of monotropism developed to understand autistic cognition, we argue that intense specialization represents not a limitation but an alternative cognitive architecture with dist…"
+    },
+    {
+      "id": "188283d5cf2977cb4a4c25aff1f60ff4cc6688e9a515e58920da83a4aed0648f",
+      "title": "Conservative Equilibrium Discovery in Offline Game-Theoretic Multiagent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.00374",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00374v1 Announce Type: new Abstract: Offline learning of strategies takes data efficiency to its extreme by restricting algorithms to a fixed dataset of state-action trajectories. We consider the problem in a mixed-motive multiagent setting, where the goal is to solve a game under the offline learning constraint. We first frame this problem in terms of selecting among candidate equilibria. Since datasets may inform only a small fraction of game dynamics, it is generally infeasible in offline game-solving to even verify a proposed solution is a true equilibrium. Therefore, we consider the relative probability of low regret (i.e., closeness to equilibrium) across candidates based on the information available. Specifically, we extend Policy Space Response Oracles (PSRO), an online…"
+    },
+    {
+      "id": "13e35fa7f1b6324ce0a0d8f62d31f49870fc8ddf90c6024e709ab2ae46d0c694",
+      "title": "NeuroHex: Highly-Efficient Hex Coordinate System for Creating World Models to Enable Adaptive AI",
+      "url": "https://arxiv.org/abs/2603.00376",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00376v1 Announce Type: new Abstract: \\textit{NeuroHex} is a hexagonal coordinate system designed to support highly efficient world models and reference frames for online adaptive AI systems. Inspired by the hexadirectional firing structure of grid cells in the human brain, NeuroHex adopts a cubic isometric hexagonal coordinate formulation that provides full 60{\\deg} rotational symmetry and low-cost translation, rotation and distance computation. We develop a mathematical framework that incorporates ring indexing, quantized angular encoding, and a hierarchical library of foundational, simple, and complex geometric shape primitives. These constructs allow low-overhead point-in-shape tests and spatial matching operations that are expensive in Cartesian coordinate systems. To suppor…"
+    },
+    {
+      "id": "5997c38e8623e73bc6ad141d4029dc18725bd919d4f63fb4f0d77b882b4798c5",
+      "title": "Confusion-Aware Rubric Optimization for LLM-based Automated Grading",
+      "url": "https://arxiv.org/abs/2603.00451",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00451v1 Announce Type: new Abstract: Accurate and unambiguous guidelines are critical for large language model (LLM) based graders, yet manually crafting these prompts is often sub-optimal as LLMs can misinterpret expert guidelines or lack necessary domain specificity. Consequently, the field has moved toward automated prompt optimization to refine grading guidelines without the burden of manual trial and error. However, existing frameworks typically aggregate independent and unstructured error samples into a single update step, resulting in \"rule dilution\" where conflicting constraints weaken the model's grading logic. To address these limitations, we introduce Confusion-Aware Rubric Optimization (CARO), a novel framework that enhances accuracy and computational efficiency by s…"
+    },
+    {
+      "id": "13234961304cefac076edbb26d32ab37bbeeb2c3837c6e74a08ffa9a981def97",
+      "title": "MED-COPILOT: A Medical Assistant Powered by GraphRAG and Similar Patient Case Retrieval",
+      "url": "https://arxiv.org/abs/2603.00460",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00460v1 Announce Type: new Abstract: Clinical decision-making requires synthesizing heterogeneous evidence, including patient histories, clinical guidelines, and trajectories of comparable cases. While large language models (LLMs) offer strong reasoning capabilities, they remain prone to hallucinations and struggle to integrate long, structured medical documents. We present MED-COPILOT, an interactive clinical decision-support system designed for clinicians and medical trainees, which combines guideline-grounded GraphRAG retrieval with hybrid semantic-keyword similar-patient retrieval to support transparent and evidence-aware clinical reasoning. The system builds a structured knowledge graph from WHO and NICE guidelines, applies community-level summarization for efficient retrie…"
+    },
+    {
+      "id": "d6c07e85e9aa33b593e30b78f46aa070abb4e36d9ae92de0978d34bcf68e733f",
+      "title": "Optimizing In-Context Demonstrations for LLM-based Automated Grading",
+      "url": "https://arxiv.org/abs/2603.00465",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00465v1 Announce Type: new Abstract: Automated assessment of open-ended student responses is a critical capability for scaling personalized feedback in education. While large language models (LLMs) have shown promise in grading tasks via in-context learning (ICL), their reliability is heavily dependent on the selection of few-shot exemplars and the construction of high-quality rationales. Standard retrieval methods typically select examples based on semantic similarity, which often fails to capture subtle decision boundaries required for rubric adherence. Furthermore, manually crafting the expert rationales needed to guide these models can be a significant bottleneck. To address these limitations, we introduce GUIDE (Grading Using Iteratively Designed Exemplars), a framework tha…"
+    },
+    {
+      "id": "cf81a3aecd04543579a4d970df8373200c2d783e25a4783b6d0a9a3db773adaa",
+      "title": "Why Not? Solver-Grounded Certificates for Explainable Mission Planning",
+      "url": "https://arxiv.org/abs/2603.00469",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.00469v1 Announce Type: new Abstract: Operators of Earth observation satellites need justifications for scheduling decisions: why a request was selected, rejected, or what changes would make it schedulable. Existing approaches construct post-hoc reasoning layers independent of the optimizer, risking non-causal attributions, incomplete constraint conjunctions, and solver-path dependence. We take a faithfulness-first approach: every explanation is a certificate derived from the optimization model itself: minimal infeasible subsets for rejections, tight constraints and contrastive trade-offs for selections, and inverse solves for what-if queries. On a scheduling instance with structurally distinct constraint interactions, certificates achieve perfect soundness with respect to the so…"
+    },
+    {
+      "id": "3637416dd7e37cc89263e8aadd9cb3675e20cb6d0bf8e820e6e12dc7741fb8b4",
+      "title": "Transit Network Design with Two-Level Demand Uncertainties: A Machine Learning and Contextual Stochastic Optimization Framework",
+      "url": "https://arxiv.org/abs/2603.00010",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00010v1 Announce Type: new Abstract: Transit Network Design is a well-studied problem in the field of transportation, typically addressed by solving optimization models under fixed demand assumptions. Considering the limitations of these assumptions, this paper proposes a new framework, namely the Two-Level Rider Choice Transit Network Design (2LRC-TND), that leverages machine learning and contextual stochastic optimization (CSO) through constraint programming (CP) to incorporate two layers of demand uncertainties into the network design process. The first level identifies travelers who rely on public transit (core demand), while the second level captures the conditional adoption behavior of those who do not (latent demand), based on the availability and quality of transit servi…"
+    },
+    {
+      "id": "455bda3e91cbc62908fa36fd8064122503f3fa5a4c6f6ee1eefd697c6dd4b5ef",
+      "title": "StaTS: Spectral Trajectory Schedule Learning for Adaptive Time Series Forecasting with Frequency Guided Denoiser",
+      "url": "https://arxiv.org/abs/2603.00037",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00037v1 Announce Type: new Abstract: Diffusion models have been used for probabilistic time series forecasting and show strong potential. However, fixed noise schedules often produce intermediate states that are hard to invert and a terminal state that deviates from the near noise assumption. Meanwhile, prior methods rely on time domain conditioning and seldom model schedule induced spectral degradation, which limits structure recovery across noise levels. We propose StaTS, a diffusion model for probabilistic time series forecasting that learns the noise schedule and the denoiser through alternating updates. StaTS includes Spectral Trajectory Scheduler (STS) that learns a data adaptive noise schedule with spectral regularization to improve structural preservation and stepwise in…"
+    },
+    {
+      "id": "02253ec5fe865a5d6379fe521711184798bfef58fb9623c0fd51a291f2b4d9e7",
+      "title": "CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation",
+      "url": "https://arxiv.org/abs/2603.00039",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00039v1 Announce Type: new Abstract: LLM-as-a-judge ensembles are the standard paradigm for scalable evaluation, but their aggregation mechanisms suffer from a fundamental flaw: they implicitly assume that judges provide independent estimates of true quality. However, in practice, LLM judges exhibit correlated errors caused by shared latent confounders -- such as verbosity, stylistic preferences, or training artifacts -- causing standard aggregation rules like majority vote or averaging to provide little gain or even amplify systematic mistakes. To address this, we introduce CARE, a confounder-aware aggregation framework that explicitly models LLM judge scores as arising from both a latent true-quality signal and shared confounding factors. Rather than heuristically re-weighting…"
+    },
+    {
+      "id": "986ebba1ae5d2589de994a4c5da088f4fc55a64bdb99b47de561747977df9f0e",
+      "title": "Attn-QAT: 4-Bit Attention With Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2603.00040",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00040v1 Announce Type: new Abstract: Achieving reliable 4-bit attention is a prerequisite for end-to-end FP4 computation on emerging FP4-capable GPUs, yet attention remains the main obstacle due to FP4's tiny dynamic range and attention's heavy-tailed activations. This paper presents the first systematic study of 4-bit quantization-aware training (QAT) for attention. We find that \"drop-in\" QAT, which naively combines an FP4 forward pass with a high-precision Flash Attention (FA)-style backward pass, leads to training instability. We identify two key principles for stable FP4 attention: (1) matching low-precision recomputation of attention scores in the backward pass, and (2) resolving implicit precision assumptions in FA's gradient calculation. Based on these insights, we propos…"
+    },
+    {
+      "id": "26551fbcedcab99d25d6a9f3cadf2c4f0e54977304291f0b39b00b80253a1389",
+      "title": "Econometric vs. Causal Structure-Learning for Time-Series Policy Decisions: Evidence from the UK COVID-19 Policies",
+      "url": "https://arxiv.org/abs/2603.00041",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00041v1 Announce Type: new Abstract: Causal machine learning (ML) recovers graphical structures that inform us about potential cause-and-effect relationships. Most progress has focused on cross-sectional data with no explicit time order, whereas recovering causal structures from time series data remains the subject of ongoing research in causal ML. In addition to traditional causal ML, this study assesses econometric methods that some argue can recover causal structures from time series data. The use of these methods can be explained by the significant attention the field of econometrics has given to causality, and specifically to time series, over the years. This presents the possibility of comparing the causal discovery performance between econometric and traditional causal ML…"
+    },
+    {
+      "id": "76c987f37bed34d2320a760f3709b71096321c75081d420e499bf1cac543b77f",
+      "title": "Maximizing the Spectral Energy Gain in Sub-1-Bit LLMs via Latent Geometry Alignment",
+      "url": "https://arxiv.org/abs/2603.00042",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00042v1 Announce Type: new Abstract: We identify the Spectral Energy Gain in extreme model compression, where low-rank binary approximations outperform tiny-rank floating-point baselines for heavy-tailed spectra. However, prior attempts fail to realize this potential, trailing state-of-the-art 1-bit methods. We attribute this degradation to Latent Geometry Misalignment: standard singular vectors exhibit high coherence (spiky distribution), the worst-case geometry for binary quantization. To realize this gain, we propose LittleBit-2, a framework employing Internal Latent Rotation and Joint Iterative Quantization (Joint-ITQ). This approach acts as a geometric preconditioner, aligning coherent latent distributions with the binary hypercube with zero inference overhead. Empirically,…"
+    },
+    {
+      "id": "5501bc1c5d11e3b3d1b041cc69621678281f81f1a481134fdd5d0fb861899331",
+      "title": "Reinforcement Learning for Control with Probabilistic Stability Guarantee: A Finite-Sample Approach",
+      "url": "https://arxiv.org/abs/2603.00043",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00043v1 Announce Type: new Abstract: This paper presents a novel approach to reinforcement learning (RL) for control systems that provides probabilistic stability guarantees using finite data. Leveraging Lyapunov's method, we propose a probabilistic stability theorem that ensures mean square stability using only a finite number of sampled trajectories. The probability of stability increases with the number and length of trajectories, converging to certainty as data size grows. Additionally, we derive a policy gradient theorem for stabilizing policy learning and develop an RL algorithm, L-REINFORCE, that extends the classical REINFORCE algorithm to stabilization problems. The effectiveness of L-REINFORCE is demonstrated through simulations on a Cartpole task, where it outperforms…"
+    },
+    {
+      "id": "3c99e78a084db2d751b3c85d30df0701206d7cf17707c4b441e058a9dfe10914",
+      "title": "Property-Driven Evaluation of GNN Expressiveness at Scale: Datasets, Framework, and Study",
+      "url": "https://arxiv.org/abs/2603.00044",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00044v1 Announce Type: new Abstract: Advancing trustworthy AI requires principled software engineering approaches to model evaluation. Graph Neural Networks (GNNs) have achieved remarkable success in processing graph-structured data, however, their expressiveness in capturing fundamental graph properties remains an open challenge. We address this by developing a property-driven evaluation methodology grounded in formal specification, systematic evaluation, and empirical study. Leveraging Alloy, a software specification language and analyzer, we introduce a configurable graph dataset generator that produces two dataset families: GraphRandom, containing diverse graphs that either satisfy or violate specific properties, and GraphPerturb, introducing controlled structural variations…"
+    },
+    {
+      "id": "f1ed309b8c19048d342ae89557ff562c91ab92dba68e2f86749666952e978fd8",
+      "title": "Breaking the Factorization Barrier in Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2603.00045",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00045v1 Announce Type: new Abstract: Diffusion language models theoretically allow for efficient parallel generation but are practically hindered by the \"factorization barrier\": the assumption that simultaneously predicted tokens are independent. This limitation forces a trade-off: models must either sacrifice speed by resolving dependencies sequentially or suffer from incoherence due to factorization. We argue that this barrier arises not from limited backbone expressivity, but from a structural misspecification: models are restricted to fully factorized outputs because explicitly parameterizing a joint distribution would require the Transformer to output a prohibitively large number of parameters. We propose Coupled Discrete Diffusion (CoDD), a hybrid framework that breaks thi…"
+    },
+    {
+      "id": "d0979b3cd281b2ace628495fcd927e2f77a685ba4faff9abf7be5a8e237292ec",
+      "title": "REMIND: Rethinking Medical High-Modality Learning under Missingness--A Long-Tailed Distribution Perspective",
+      "url": "https://arxiv.org/abs/2603.00046",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00046v1 Announce Type: new Abstract: Medical multi-modal learning is critical for integrating information from a large set of diverse modalities. However, when leveraging a high number of modalities in real clinical applications, it is often impractical to obtain full-modality observations for every patient due to data collection constraints, a problem we refer to as 'High-Modality Learning under Missingness'. In this study, we identify that such missingness inherently induces an exponential growth in possible modality combinations, followed by long-tail distributions of modality combinations due to varying modality availability. While prior work overlooked this critical phenomenon, we find this long-tailed distribution leads to significant underperformance on tail modality comb…"
+    },
+    {
+      "id": "bb54802d8bc7225f6a67edf4c1a27cb6a8d408129d1934455f17964286cd479e",
+      "title": "BiJEPA: Bi-directional Joint Embedding Predictive Architecture for Symmetric Representation Learning",
+      "url": "https://arxiv.org/abs/2603.00049",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00049v1 Announce Type: new Abstract: Self-Supervised Learning (SSL) has shifted from pixel-level reconstruction to latent space prediction, spearheaded by the Joint Embedding Predictive Architecture (JEPA). While effective, standard JEPA models typically rely on a uni-directional prediction mechanism (e.g. Context $\\to$ Target), potentially neglecting the informative signal inherent in the inverse relationship, degrading its performance. In this work, we propose \\textbf{BiJEPA}, a \\textit{Bi-Directional Joint Embedding Predictive Architecture} that enforces cycle-consistent predictability between data segments. We address the inherent instability of symmetric prediction (representation explosion) by introducing a critical norm regularization mechanism on the representation vecto…"
+    },
+    {
+      "id": "bff829c5f431b877d5b152a90b750ba36ad4d26f7928eb1fbdaa9413a3cd30bc",
+      "title": "Knowledge-guided generative surrogate modeling for high-dimensional design optimization under scarce data",
+      "url": "https://arxiv.org/abs/2603.00052",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.00052v1 Announce Type: new Abstract: Surrogate models are widely used in mechanical design and manufacturing process optimization, where high-fidelity computational models may be unavailable or prohibitively expensive. Their effectiveness, however, is often limited by data scarcity, as purely data-driven surrogates struggle to achieve high predictive accuracy in such situations. Subject matter experts (SMEs) frequently possess valuable domain knowledge about functional relationships, yet few surrogate modeling techniques can systematically integrate this information with limited data. We address this challenge with RBF-Gen, a knowledge-guided surrogate modeling framework that combines scarce data with domain knowledge. This method constructs a radial basis function (RBF) space w…"
+    },
+    {
+      "id": "ebd42470e37d090bc7449ae2f9ced8049cfe36ec9d5d678a2643bf81eb7de26b",
+      "title": "From Global to Local: Learning Context-Aware Graph Representations for Document Classification and Summarization",
+      "url": "https://arxiv.org/abs/2603.00021",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00021v1 Announce Type: new Abstract: This paper proposes a data-driven method to automatically construct graph-based document representations. Building upon the recent work of Bugue\\~no and de Melo (2025), we leverage the dynamic sliding-window attention module to effectively capture local and mid-range semantic dependencies between sentences, as well as structural relations within documents. Graph Attention Networks (GATs) trained on our learned graphs achieve competitive results on document classification while requiring lower computational resources than previous approaches. We further present an exploratory evaluation of the proposed graph construction method for extractive document summarization, highlighting both its potential and current limitations. The implementation of…"
+    },
+    {
+      "id": "54eadac3819989dbc4013eb54852891e218be4ebba29cde70aa846110ec10cce",
+      "title": "Noise reduction in BERT NER models for clinical entity extraction",
+      "url": "https://arxiv.org/abs/2603.00022",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00022v1 Announce Type: new Abstract: Precision is of utmost importance in the realm of clinical entity extraction from clinical notes and reports. Encoder Models fine-tuned for Named Entity Recognition (NER) are an efficient choice for this purpose, as they don't hallucinate. We pre-trained an in-house BERT over clinical data and then fine-tuned it for NER. These models performed well on recall but could not close upon the high precision range, needed for clinical models. To address this challenge, we developed a Noise Removal model that refines the output of NER. The NER model assigns token-level entity tags along with probability scores for each token. Our Noise Removal (NR) model then analyzes these probability sequences and classifies predictions as either weak or strong. A…"
+    },
+    {
+      "id": "350a0bebbdb51eebe1875075609bac1f583ba9736bd29fc6c158b311cf8c44bf",
+      "title": "Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs",
+      "url": "https://arxiv.org/abs/2603.00024",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00024v1 Announce Type: new Abstract: Large Language Models (LLMs) are prone to sycophantic behavior, uncritically conforming to user beliefs. As models increasingly condition responses on user-specific context (personality traits, preferences, conversation history), they gain information to tailor agreement more effectively. Understanding how personalization modulates sycophancy is critical, yet systematic evaluation across models and contexts remains limited. We present a rigorous evaluation of personalization's impact on LLM sycophancy across nine frontier models and five benchmark datasets spanning advice, moral judgment, and debate contexts. We find that personalization generally increases affective alignment (emotional validation, hedging/deference), but affects epistemic a…"
+    },
+    {
+      "id": "8deba97db372213d02543075141c4ccf62aed246537185e7a93ead96ac70ae1c",
+      "title": "TAB-PO: Preference Optimization with a Token-Level Adaptive Barrier for Token-Critical Structured Generation",
+      "url": "https://arxiv.org/abs/2603.00025",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00025v1 Announce Type: new Abstract: Direct Preference Optimization is an offline post-SFT method for aligning language models from preference pairs, with strong results in instruction following and summarization. However, DPO's sequence-level implicit reward can be brittle for token-critical structured prediction settings such as medical annotation, which often exhibit (i) low-separation preference pairs, where chosen and rejected completions differ by minimal edit distance (often 1-3 tokens), and (ii) token-importance skew, where sparse semantic tokens (hierarchical labels and evidence Spans) carry disproportionate task importance relative to high-frequency structural tokens (JSON scaffolding). In this regime, standard DPO suffers from margin collapse (insufficient log-probabi…"
+    },
+    {
+      "id": "e7214de187edd90a3aa1980faeab044bfd014440e56203afd8853f608a9d2f33",
+      "title": "ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents",
+      "url": "https://arxiv.org/abs/2603.00026",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00026v1 Announce Type: new Abstract: Effective memory management is essential for large language model (LLM) agents handling long-term interactions. Current memory frameworks typically treat agents as passive \"recorders\" and retrieve information without understanding its deeper implications. They may fail in scenarios requiring conflict detection and complex decision-making. To bridge this critical gap, we propose a novel actionable memory framework called ActMem that integrates memory retrieval with active causal reasoning. ActMem transforms unstructured dialogue history into a structured causal and semantic graph. By leveraging counterfactual reasoning and commonsense completion, it enables agents to deduce implicit constraints and resolve potential conflicts between past stat…"
+    },
+    {
+      "id": "0c343473445187ce19edbd5649a2ec3ca44e606a56d56236cf35990459353040",
+      "title": "EPPCMinerBen: A Novel Benchmark for Evaluating Large Language Models on Electronic Patient-Provider Communication via the Patient Portal",
+      "url": "https://arxiv.org/abs/2603.00028",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00028v1 Announce Type: new Abstract: Effective communication in health care is critical for treatment outcomes and adherence. With patient-provider exchanges shifting to secure messaging, analyzing electronic patient-communication (EPPC) data is both essential and challenging. We introduce EPPCMinerBen, a benchmark for evaluating LLMs in detecting communication patterns and extracting insights from electronic patient-provider messages. EPPCMinerBen includes three sub-tasks: Code Classification, Subcode Classification, and Evidence Extraction. Using 1,933 expert annotated sentences from 752 secure messages of the patient portal at Yale New Haven Hospital, it evaluates LLMs on identifying communicative intent and supportive text. Benchmarks span various LLMs under zero-shot and fe…"
+    },
+    {
+      "id": "d1a7e8cdfde750c8e8e348376cadd57cc096318665b4e4062d4c645e3f500a58",
+      "title": "Embracing Anisotropy: Turning Massive Activations into Interpretable Control Knobs for Large Language Models",
+      "url": "https://arxiv.org/abs/2603.00029",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00029v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit highly anisotropic internal representations, often characterized by massive activations, a phenomenon where a small subset of feature dimensions possesses magnitudes significantly larger than the rest. While prior works view these extreme dimensions primarily as artifacts to be managed, we propose a distinct perspective: these dimensions serve as intrinsic interpretable functional units arising from domain specialization. Specifically, we propose a simple magnitude-based criterion to identify Domain-Critical Dimensions in a training-free manner. Our analyses reveal that such dimensions behave as interpretable semantic detectors for symbolic/quantitative patterns or domain-specific terms. In addition, we in…"
+    },
+    {
+      "id": "594783a6da8cebc037311792aa44860af8d45e85644faf17b5e23e333a465ebf",
+      "title": "SimpleTool: Parallel Decoding for Real-Time LLM Function Calling",
+      "url": "https://arxiv.org/abs/2603.00030",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00030v1 Announce Type: new Abstract: LLM-based function calling enables intelligent agents to interact with external tools and environments, yet autoregressive decoding imposes a fundamental latency bottleneck that limits real-time applications such as embodied intelligence, game AI, and interactive avatars (e.g., 10 Hz control frequency). We observe that function calling differs fundamentally from free-form text generation: structured outputs exhibit substantial token redundancy (delimiters, parameter names), and arguments exhibit weak causal dependencies. Crucially, these two properties must be exploited jointly to achieve real-time performance. We present SimpleTool, which introduces special tokens that serve a dual role: compressing low-entropy tokens (4-6x reduction) while…"
+    },
+    {
+      "id": "e516b190c13a9fe152cec9e88a7721caa6fcd1e1a37e85523333bc3ccad7fa35",
+      "title": "GRIP: Geometric Refinement and Adaptive Information Potential for Data Efficiency",
+      "url": "https://arxiv.org/abs/2603.00031",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00031v1 Announce Type: new Abstract: The performance of Large Language Models (LLMs) is increasingly governed by data efficiency rather than raw scaling volume. However, existing selection methods often decouple global distribution balancing from local instance selection, compromising the hierarchical integrity of the training set. We introduce \\textbf{GRIP} (Geometric Refinement and Adaptive Information Potential), a framework that unifies these dimensions by modeling the corpus as an information-dense geometric space. GRIP employs a \\textbf{Rapid Adaptation Probe (RAP)} to quantify the information potential of semantic clusters, dynamically re-allocating the sampling budget to regions with the highest representation deficits. Subsequently, we perform Intra-Cluster Selection us…"
+    },
+    {
+      "id": "258c4d22ab356bf8f7cad1cbc59430033cf53f0931baefda89ac54884ac0d87b",
+      "title": "Autorubric: A Unified Framework for Rubric-Based LLM Evaluation",
+      "url": "https://arxiv.org/abs/2603.00077",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00077v1 Announce Type: new Abstract: Rubric-based evaluation with large language models (LLMs) has become standard practice for assessing text generation at scale, yet the underlying techniques are scattered across papers with inconsistent terminology and partial solutions. We present a unified framework: each identified technique is paired with its realization in Autorubric, an open-source Python framework proposed in this paper. Autorubric supports binary, ordinal, and nominal criteria with configurable weights; single-judge and multi-judge ensemble evaluation with majority, weighted, unanimous, and any-vote aggregation; few-shot calibration with verdict-balanced sampling; and mitigations for position bias (option shuffling), verbosity bias (length penalties), and criterion co…"
+    },
+    {
+      "id": "249afa84a613dba25841f54af7728091c5a6304fb1c7e6a2718c9949a575da7e",
+      "title": "Iterative LLM-based improvement for French Clinical Interview Transcription and Speaker Diarization",
+      "url": "https://arxiv.org/abs/2603.00086",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00086v1 Announce Type: new Abstract: Automatic speech recognition for French medical conversations remains challenging, with word error rates often exceeding 30% in spontaneous clinical speech. This study proposes a multi-pass LLM post-processing architecture alternating between Speaker Recognition and Word Recognition passes to improve transcription accuracy and speaker attribution. Ablation studies on two French clinical datasets (suicide prevention telephone counseling and preoperative awake neurosurgery consultations) investigate four design choices: model selection, prompting strategy, pass ordering, and iteration depth. Using Qwen3-Next-80B, Wilcoxon signed-rank tests confirm significant WDER reductions on suicide prevention conversations (p < 0.05, n=18), while maintainin…"
+    },
+    {
+      "id": "87f728ebef144a4817c791a0e7d51dc41b49290716545fa5db2cc6277ea8d95b",
+      "title": "Stepwise Penalization for Length-Efficient Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2603.00296",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.00296v1 Announce Type: new Abstract: Large reasoning models improve with more test-time computation, but often overthink, producing unnecessarily long chains-of-thought that raise cost without improving accuracy. Prior reinforcement learning approaches typically rely on a single outcome reward with trajectory-level length penalties, which cannot distinguish essential from redundant reasoning steps and therefore yield blunt compression. Although recent work incorporates step-level signals, such as offline pruning, supervised data construction, or verifier-based intermediate rewards, reasoning length is rarely treated as an explicit step-level optimization objective during RL. We propose Step-wise Adaptive Penalization (SWAP), a fine-grained framework that allocates length reducti…"
+    },
+    {
+      "id": "a5294a299addde6078aa65d05b3b2a33d45401466f877658fcce84ad1a77305c",
+      "title": "The Partition Principle Revisited: Non-Equal Volume Designs Achieve Minimal Expected Star Discrepancy",
+      "url": "https://arxiv.org/abs/2603.00202",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.00202v1 Announce Type: new Abstract: We study the expected star discrepancy under a newly designed class of non-equal volume partitions. The main contributions are twofold. First, we establish a strong partition principle for the star discrepancy, showing that our newly designed non-equal volume partitions yield stratified sampling point sets with lower expected star discrepancy than classical jittered sampling. Specifically, we prove that $\\mathbb{E}(D^{*}_{N}(Z)) < \\mathbb{E}(D^{*}_{N}(Y))$, where $Y$ and $Z$ represent jittered sampling and our non-equal volume partition sampling, respectively. Second, we derive explicit upper bounds for the expected star discrepancy under our non-equal volume partition models, which improve upon existing bounds for jittered sampling. Our resu…"
+    },
+    {
+      "id": "85368c58c4f62f744da25cf3420e12e8b8654c2596fa91b4aa554d5b1c552c6c",
+      "title": "Initialization-Aware Score-Based Diffusion Sampling",
+      "url": "https://arxiv.org/abs/2603.00772",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.00772v1 Announce Type: new Abstract: Score-based generative models (SGMs) aim at generating samples from a target distribution by approximating the reverse-time dynamics of a stochastic differential equation. Despite their strong empirical performance, classical samplers initialized from a Gaussian distribution require a long time horizon noising typically inducing a large number of discretization steps and high computational cost. In this work, we present a Kullback-Leibler convergence analysis of Variance Exploding diffusion samplers that highlights the critical role of the backward process initialization. Based on this result, we propose a theoretically grounded sampling strategy that learns the reverse-time initialization, directly minimizing the initialization error. The re…"
+    },
+    {
+      "id": "779fea9ce08ff008b8a6ba600ca5960ddbd980161464a4bec5b2a5f9bd7cc3f3",
+      "title": "Time-Aware Latent Space Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2603.00935",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.00935v1 Announce Type: new Abstract: Latent-space Bayesian optimization (LSBO) extends Bayesian optimization to structured domains, such as molecular design, by searching in the continuous latent space of a generative model. However, most LSBO methods assume a fixed objective, whereas real design campaigns often face temporal drift (e.g., evolving preferences or shifting targets). Bringing time-varying BO into LSBO is nontrivial: drift can affect not only the surrogate, but also the latent search space geometry induced by the representation. We propose Time-Aware Latent-space Bayesian Optimization (TALBO), which incorporates time in both the surrogate and the learned generative representation via a GP-prior variational autoencoder, yielding a latent space aligned as objectives e…"
+    },
+    {
+      "id": "88039813e0d6fc463a3468e8a671d18a9cf5d888c92028dc3a39cfbf364f3696",
+      "title": "Learning with the Nash-Sutcliffe loss",
+      "url": "https://arxiv.org/abs/2603.00968",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.00968v1 Announce Type: new Abstract: The Nash-Sutcliffe efficiency ($\\text{NSE}$) is a widely used, positively oriented relative measure for evaluating forecasts across multiple time series. However, it lacks a decision-theoretic foundation for this purpose. To address this, we examine its negatively oriented counterpart, which we refer to as Nash-Sutcliffe loss, defined as $L_{\\text{NS}} = 1 - \\text{NSE}$. We prove that $L_{\\text{NS}}$ is strictly consistent for an elicitable and identifiable multi-dimensional functional, which we name the Nash-Sutcliffe functional. This functional is a data-weighted component-wise mean. The common practice of maximizing the average NSE across multiple series is the sample analog of minimizing the expected $L_{\\text{NS}}$. Consequently, this op…"
+    },
+    {
+      "id": "ffdcb0b5d3db6f57cae099a471ea6cba90d348b88c2820125ad94b44998a0c90",
+      "title": "Random Features for Operator-Valued Kernels: Bridging Kernel Methods and Neural Operators",
+      "url": "https://arxiv.org/abs/2603.00971",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.00971v1 Announce Type: new Abstract: In this work, we investigate the generalization properties of random feature methods. Our analysis extends prior results for Tikhonov regularization to a broad class of spectral regularization techniques and further generalizes the setting to operator-valued kernels. This unified framework enables a rigorous theoretical analysis of neural operators and neural networks through the lens of the Neural Tangent Kernel (NTK). In particular, it allows us to establish optimal learning rates and provides a good understanding of how many neurons are required to achieve a given accuracy. Furthermore, we establish minimax rates in the well-specified case and also in the misspecified case, where the target is not contained in the reproducing kernel Hilber…"
+    },
+    {
+      "id": "9d53a149139ccd31a9379b15257aeb5055254c66b86da31da45117bfe23b51a9",
+      "title": "Grokking as a Phase Transition between Competing Basins: a Singular Learning Theory Approach",
+      "url": "https://arxiv.org/abs/2603.01192",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01192v1 Announce Type: new Abstract: Grokking, the abrupt transition from memorization to generalisation after extended training, suggests the presence of competing solution basins with distinct statistical properties. We study this phenomenon through the lens of Singular Learning Theory (SLT), a Bayesian framework that characterizes the geometry of the loss landscape via the local learning coefficient (LLC), a measure of the local degeneracy of the loss surface. SLT links lower-LLC basins to higher posterior mass concentration and lower expected generalisation error. Leveraging this theory, we interpret grokking in quadratic networks as a phase transition between competing near-zero-loss solution basins. Our contributions are two-fold: we derive closed-form expressions for the…"
+    },
+    {
+      "id": "bdce9f04a76dae31174ba0db3305eb7afbcd3883d47f1f265c04ffd80e46ef1e",
+      "title": "Adaptive Estimation and Inference in Conditional Moment Models via the Discrepancy Principle",
+      "url": "https://arxiv.org/abs/2603.01337",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01337v1 Announce Type: new Abstract: We study adaptive estimation and inference in ill-posed linear inverse problems defined by conditional moment restrictions. Existing regularized estimators such as Regularized DeepIV (RDIV) require prior knowledge of the smoothness of the nuisance function, typically encoded by a beta source condition to tune their regularization parameters. In practice, this smoothness is unknown, and misspecified hyperparameters can lead to suboptimal convergence or instability. We introduce a discrepancy-principle-based framework for adaptive hyperparameter selection that automatically balances bias and variance without relying on the unknown smoothness parameter. Our framework applies to both RDIV (Li et al. [2024]) and the Tikhonov Regularized Adversaria…"
+    },
+    {
+      "id": "e73dc44bdcb34d0045d2197b6a10b9f2e34dc9ac998b8d160e0abdb55fd4149b",
+      "title": "Causal Effects with Unobserved Unit Types in Interacting Human-AI Systems",
+      "url": "https://arxiv.org/abs/2603.01339",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01339v1 Announce Type: new Abstract: We study experiments on interacting populations of humans and AI agents, where both unit types and the interaction network remain unobserved. Although causal effects propagate throughout the system, the goal is to estimate effects on humans. Examples include online platforms where human users interact alongside AI-driven accounts. We assume a human-AI prior that gives each unit a probability of being human. While humans cannot be distinguished at the unit level, the prior allows us to compute the average human composition within large subpopulations. We then model outcome dynamics through a causal message passing (CMP) framework and analyze sample-mean outcomes across subpopulations. We show that by constructing subpopulations that vary in ex…"
+    },
+    {
+      "id": "1fd5e9e026dbf6fe661992da0334119e65325c8cf039be2531c80186f2e8914c",
+      "title": "Co-optimization for Adaptive Conformal Prediction",
+      "url": "https://arxiv.org/abs/2603.01719",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01719v1 Announce Type: new Abstract: Conformal prediction (CP) provides finite-sample, distribution-free marginal coverage, but standard conformal regression intervals can be inefficient under heteroscedasticity and skewness. In particular, popular constructions such as conformalized quantile regression (CQR) often inherit a fixed notion of center and enforce equal-tailed errors, which can displace the interval away from high-density regions and produce unnecessarily wide sets. We propose Co-optimization for Adaptive Conformal Prediction (CoCP), a framework that learns prediction intervals by jointly optimizing a center $m(x)$ and a radius $h(x)$.CoCP alternates between (i) learning $h(x)$ via quantile regression on the folded absolute residual around the current center, and (ii…"
+    },
+    {
+      "id": "d1ac0a2517277a8fa84866cabd726474e35fd6794ab8b8979345691fb58d39a0",
+      "title": "LOCUS: A Distribution-Free Loss-Quantile Score for Risk-Aware Predictions",
+      "url": "https://arxiv.org/abs/2603.01971",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01971v1 Announce Type: new Abstract: Modern machine learning models can be accurate on average yet still make mistakes that dominate deployment cost. We introduce Locus, a distribution-free wrapper that produces a per-input loss-scale reliability score for a fixed prediction function. Rather than quantifying uncertainty about the label, Locus models the realized loss of the prediction function using any engine that outputs a predictive distribution for the loss given an input. A simple split-calibration step turns this function into a distribution-free interpretable score that is comparable across inputs and can be read as an upper loss level. The score is useful on its own for ranking, and it can optionally be thresholded to obtain a transparent flagging rule with distribution-…"
+    },
+    {
+      "id": "23db97d2f24aaa1fa1baaa58e89c2b81708efba0eb653f1b98b2dbdb13f2dbad",
+      "title": "Density-Matrix Spectral Embeddings for Categorical Data: Operator Structure and Stability",
+      "url": "https://arxiv.org/abs/2603.01975",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.01975v1 Announce Type: new Abstract: We introduce a supervised dimensionality reduction methodology for categorical (and discretized mixed-type) data based on a density-matrix construction induced by class-conditional frequencies. Given a labeled dataset encoded in a one-hot survey space, we assemble a frequency matrix whose columns aggregate feature occurrences within each class, and define a normalized Gram-type operator that satisfies the axioms of a density matrix. The resulting representation admits an intrinsic rank bound controlled by the number of classes, enabling low-dimensional spectral embeddings via dominant eigenmodes. Classification is performed in the reduced space through class-conditional kernel density estimation and a maximum-likelihood decision rule. We esta…"
+    },
+    {
+      "id": "d8f8ca68573c86995594cf1c2957e628d73a9be13867d28f3e82f0aebf81c7c3",
+      "title": "TRAKNN: Efficient Trajectory Aware Spatiotemporal kNN for Rare Meteorological Trajectory Detection",
+      "url": "https://arxiv.org/abs/2603.02059",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.02059v1 Announce Type: new Abstract: Extreme weather events, such as windstorms and heatwaves, are driven by persistent atmospheric circulation patterns that evolve over several consecutive days. While traditional circulation-based studies often focus on instantaneous atmospheric states, capturing the temporal evolution, or trajectory, of these spatial fields is essential for characterizing rare and potentially impactful atmospheric behavior. However, performing an exhaustive similarity search on multi-decadal, continental-scale gridded datasets presents significant computational and memory challenges. In this paper, we propose TRAKNN (TRajectory Aware KNN), a fully unsupervised and data-agnostic framework for detecting geometrically rare short trajectories in spatio-temporal da…"
+    },
+    {
+      "id": "1e12524f79a768388f4ce1ebb1da802bd673deec34f2a9c6660d79b7685cb0ae",
+      "title": "Transformers Remember First, Forget Last: Dual-Process Interference in LLMs",
+      "url": "https://arxiv.org/abs/2603.00270",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00270v1 Announce Type: new Abstract: When large language models encounter conflicting information in context, which memories survive -- early or recent? We adapt classical interference paradigms from cognitive psychology to answer this question, testing 39 LLMs across diverse architectures and scales. Every model shows the same pattern: proactive interference (PI) dominates retroactive interference (RI) universally (Cohen's d = 1.73, p < 0.0001), meaning early encodings are protected at the cost of recent information -- the opposite of human memory, where RI typically dominates. Three findings indicate that RI and PI reflect separate memory mechanisms. RI and PI are uncorrelated (R^2 = 0.044), rejecting a unified \"memory capacity.\" Model size predicts RI resistance (R^2 = 0.49)…"
+    },
+    {
+      "id": "8f9209d61f4cb4a90e9cd80d4060ff86b55d1825a77aa5b78b31736bb4981712",
+      "title": "MuonRec: Shifting the Optimizer Paradigm Beyond Adam in Scalable Generative Recommendation",
+      "url": "https://arxiv.org/abs/2603.00416",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00416v1 Announce Type: new Abstract: Recommender systems (RecSys) are increasingly emphasizing scaling, leveraging larger architectures and more interaction data to improve personalization. Yet, despite the optimizer's pivotal role in training, modern RecSys pipelines almost universally default to Adam/AdamW, with limited scrutiny of whether these choices are truly optimal for recommendation. In this work, we revisit optimizer design for scalable recommendation and introduce MuonRec, the first framework that brings the recently proposed Muon optimizer to RecSys training. Muon performs orthogonalized momentum updates for 2D weight matrices via Newton-Schulz iteration, promoting diverse update directions and improving optimization efficiency. We develop an open-source training rec…"
+    },
+    {
+      "id": "d90d0b782125860b2ba0324c74c115b15a5228788b9e17a194b05b86b1906263",
+      "title": "Stop Treating Collisions Equally: Qualification-Aware Semantic ID Learning for Recommendation at Industrial Scale",
+      "url": "https://arxiv.org/abs/2603.00632",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00632v1 Announce Type: new Abstract: Semantic IDs (SIDs) are compact discrete representations derived from multimodal item features, serving as a unified abstraction for ID-based and generative recommendation. However, learning high-quality SIDs remains challenging due to two issues. (1) Collision problem: the quantized token space is prone to collisions, in which semantically distinct items are assigned identical or overly similar SID compositions, resulting in semantic entanglement. (2) Collision-signal heterogeneity: collisions are not uniformly harmful. Some reflect genuine conflicts between semantically unrelated items, while others stem from benign redundancy or systematic data effects. To address these challenges, we propose Qualification-Aware Semantic ID Learning (QuaSI…"
+    },
+    {
+      "id": "f69e557b68f8acd7ba2442e7f27b58f17afe60169fb88f3114883877f7373986",
+      "title": "RAIE: Region-Aware Incremental Preference Editing with LoRA for LLM-based Recommendation",
+      "url": "https://arxiv.org/abs/2603.00638",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00638v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly adopted as the backbone of recommender systems. However, user-item interactions in real-world scenarios are non-stationary, making preference drift over time inevitable. Existing model update strategies mainly rely on global fine-tuning or pointwise editing, but they face two fundamental challenges: (i) imbalanced update granularity, where global updates perturb behaviors unrelated to the target while pointwise edits fail to capture broader preference shifts; (ii) unstable incremental updates, where repeated edits interfere with prior adaptations, leading to catastrophic forgetting and inconsistent recommendations. To address these issues, we propose Region-Aware Incremental Editing (RAIE), a plug…"
+    },
+    {
+      "id": "00ea75b61e1531507086ceb8b721521b591d2c24c5b7125293f5dc3aa6d093a7",
+      "title": "SODA: Semantic-Oriented Distributional Alignment for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2603.00700",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00700v1 Announce Type: new Abstract: Generative recommendation has emerged as a scalable alternative to traditional retrieve-and-rank pipelines by operating in a compact token space. However, existing methods mainly rely on discrete code-level supervision, which leads to information loss and limits the joint optimization between the tokenizer and the generative recommender. In this work, we propose a distribution-level supervision paradigm that leverages probability distributions over multi-layer codebooks as soft and information-rich representations. Building on this idea, we introduce Semantic-Oriented Distributional Alignment (SODA), a plug-and-play contrastive supervision framework based on Bayesian Personalized Ranking, which aligns semantically rich distributions via negat…"
+    },
+    {
+      "id": "5c4a52bc31803abb9410b36570f57debf69b04f3fedad54b1668d708945e1ccf",
+      "title": "Tiny-Critic RAG: Empowering Agentic Fallback with Parameter-Efficient Small Language Models",
+      "url": "https://arxiv.org/abs/2603.00846",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00846v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) grounds Large Language Models (LLMs) to mitigate factual hallucinations. Recent paradigms shift from static pipelines to Modular and Agentic RAG frameworks, granting models autonomy for multi-hop reasoning or self-correction. However, current reflective RAG heavily relies on massive LLMs as universal evaluators. In high-throughput systems, executing complete forward passes for billion-parameter models merely for binary routing introduces severe computational redundancy. Furthermore, in autonomous agent scenarios, inaccurate retrieval causes models to expend excessive tokens on spurious reasoning and redundant tool calls, inflating Time-to-First-Token (TTFT) and costs. We propose Tiny-Critic RAG, decoupling…"
+    },
+    {
+      "id": "5bc305b86cabe6a92c94ad602da43ea24998e297b92bfc6edc83a7f83c2913ac",
+      "title": "Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations",
+      "url": "https://arxiv.org/abs/2603.00980",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.00980v1 Announce Type: new Abstract: Generative Recommenders (GRs), exemplified by the Hierarchical Sequential Transduction Unit (HSTU), have emerged as a powerful paradigm for modeling long user interaction sequences. However, we observe that their \"flat-sequence\" assumption overlooks the rich, intrinsic structure of user behavior. This leads to two key limitations: a failure to capture the temporal hierarchy of session-based engagement, and computational inefficiency, as dense attention introduces significant noise that obscures true preference signals within semantically sparse histories, which deteriorates the quality of the learned representations. To this end, we propose a novel framework named HPGR (Hierarchical and Preference-aware Generative Recommender), built upon a t…"
+    },
+    {
+      "id": "8b2656e15208b5fad3832d462e3731b92d012c71c329fc96af45896b319f7c30",
+      "title": "TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents",
+      "url": "https://arxiv.org/abs/2603.01241",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.01241v1 Announce Type: new Abstract: Complex clinical decision making often fails not because a model lacks facts, but because it cannot reliably select and apply the right procedural knowledge and the right prior example at the right reasoning step. We frame clinical question answering as an agent problem with two explicit, retrievable resources: skills, reusable clinical procedures such as guidelines, protocols, and pharmacologic mechanisms; and experience, verified reasoning trajectories from previously solved cases (e.g., chain-of-thought solutions and their step-level decompositions). At test time, the agent retrieves both relevant skills and experiences from curated libraries and performs lightweight test-time adaptation to align the language model's intermediate reasoning…"
+    },
+    {
+      "id": "2d8c21d2ecddf3000b649c80d2adbbe58eac009f68e83fa422d87af7e75a2619",
+      "title": "ReFeed: Retrieval Feedback-Guided Dataset Construction for Style-Aware Query Rewriting",
+      "url": "https://arxiv.org/abs/2603.01417",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.01417v1 Announce Type: new Abstract: Retrieval systems often fail when user queries differ stylistically or semantically from the language used in domain documents. Query rewriting has been proposed to bridge this gap, improving retrieval by reformulating user queries into semantically equivalent forms. However, most existing approaches overlook the stylistic characteristics of target documents-their domain-specific phrasing, tone, and structure-which are crucial for matching real-world data distributions. We introduce a retrieval feedback-driven dataset generation framework that automatically identifies failed retrieval cases, leverages large language models to rewrite queries in the style of relevant documents, and verifies improvement through re-retrieval. The resulting corpu…"
+    },
+    {
+      "id": "c769a5e3863f477ba0f4decc345d35ffca2285acde7a2edd87a7180918c35e5e",
+      "title": "Reconstructing Content via Collaborative Attention to Improve Multimodal Embedding Quality",
+      "url": "https://arxiv.org/abs/2603.01471",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.01471v1 Announce Type: new Abstract: Multimodal embedding models, rooted in multimodal large language models (MLLMs), have yielded significant performance improvements across diverse tasks such as retrieval and classification. However, most existing approaches rely heavily on large-scale contrastive learning, with limited exploration of how the architectural and training paradigms of MLLMs affect embedding quality. While effective for generation, the causal attention and next-token prediction paradigm of MLLMs does not explicitly encourage the formation of globally compact representations, limiting their effectiveness as multimodal embedding backbones. To address this, we propose CoCoA, a Content reconstruction pre-training paradigm based on Collaborative Attention for multimoda…"
+    },
+    {
+      "id": "bc0cdfcca283f71f1627c0cbe34753322b959849c9922125e59b8ca4f636755a",
+      "title": "PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval",
+      "url": "https://arxiv.org/abs/2603.01493",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.01493v1 Announce Type: new Abstract: Personal photo albums are not merely collections of static images but living, ecological archives defined by temporal continuity, social entanglement, and rich metadata, which makes the personalized photo retrieval non-trivial. However, existing retrieval benchmarks rely heavily on context-isolated web snapshots, failing to capture the multi-source reasoning required to resolve authentic, intent-driven user queries. To bridge this gap, we introduce PhotoBench, the first benchmark constructed from authentic, personal albums. It is designed to shift the paradigm from visual matching to personalized multi-source intent-driven reasoning. Based on a rigorous multi-source profiling framework, which integrates visual semantics, spatial-temporal meta…"
+    },
+    {
+      "id": "ea1266806881835da4d6b540db5d737136592869f9edc2e2606a9fd23e1cdc92",
+      "title": "CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation",
+      "url": "https://arxiv.org/abs/2603.01536",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-03T13:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.01536v1 Announce Type: new Abstract: Multimodal recommendation has emerged as an effective paradigm for enhancing collaborative filtering by incorporating heterogeneous content modalities. Existing multimodal recommenders predominantly focus on reinforcing cross-modal consistency to facilitate multimodal fusion. However, we observe that multimodal representations often exhibit substantial cross-modal redundancy, where dominant shared components overlap across modalities. Such redundancy can limit the effective utilization of complementary information, explaining why incorporating additional modalities does not always yield performance improvements. In this work, we propose CLEAR, a lightweight and plug-and-play cross-modal de-redundancy approach for multimodal recommendation. Ra…"
+    },
+    {
       "id": "3010b1f53614eafa0ffa4b9742b18b55238efc159310ac351b03ff125c8495b0",
       "title": "Our agreement with the Department of War",
       "url": "https://openai.com/index/our-agreement-with-the-department-of-war",
@@ -1016,66 +1748,6 @@
         "research"
       ],
       "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
-    },
-    {
-      "id": "dfed728fb79e35155ec09a1636c1a6d7503c9ceccdc96cff68a7d9aae054f282",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success."
-    },
-    {
-      "id": "8eb64cd6ce210cd76c352875ea0b38a0ea7ad340dc547609b4767f126cddf69c",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents."
-    },
-    {
-      "id": "751ba7518e2eeb3abc690f54b8e45a324418424f60f9fbd96e3e8944cb215356",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon."
-    },
-    {
-      "id": "df2cd1ff731bb69390a541066da52228ca7afb4c8f0e9c9c1bc0abc26df05bb9",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "source": "OpenAI",
-      "published_at": "2026-02-27T13:30:00+08:00",
-      "score": 0.0,
-      "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
-      ],
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI."
     }
   ]
 }

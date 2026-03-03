@@ -1,6 +1,56 @@
 {
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "videos": [
+    {
+      "id": "979ad7e30df608121177e89a7a9ba1a994518b9506445b66c0c9d4c7efa9243f",
+      "title": "小白必看！教你用AI快速开发个人网站！",
+      "url": "https://www.bilibili.com/video/BV1VoZ7BnEJA",
+      "source": "我是阿众",
+      "published_at": "2026-02-14 19:00:23",
+      "score": 3.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "3c26937de1370c1c88f37a161f1cef782932eb2eb97c28208a240cdfb2c4b562",
+      "title": "盘点全网最热门Agent Skills，手把手教你使用！",
+      "url": "https://www.bilibili.com/video/BV1iL6kBCEVA",
+      "source": "我是阿众",
+      "published_at": "2026-01-31 12:00:00",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "3d7880ca579ba203931b023df91395febaf270870dc41487029cf998944cc03c",
+      "title": "手把手教你在TRAE中创建和使用Skills，小白一看就懂！",
+      "url": "https://www.bilibili.com/video/BV1ZTzpBWEhF",
+      "source": "我是阿众",
+      "published_at": "2026-01-22 16:35:26",
+      "score": 3.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c1363482f5974a03b7a681d25c2ff6dc010bb27f6cebb482473f8b1eb0825292",
+      "title": "耗时1个月，我开发了一个AI资源搜索网站！完全免费！",
+      "url": "https://www.bilibili.com/video/BV13VrhBgEKb",
+      "source": "我是阿众",
+      "published_at": "2026-01-12 17:32:27",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "33a9056a0834c45b5c5c8fd07c588c1a6f32284781e19b2b26eb0f61a605271b",
+      "title": "惊了！现在用AI赚钱的人这么多了吗？",
+      "url": "https://www.bilibili.com/video/BV1ReqnBgE3N",
+      "source": "我是阿众",
+      "published_at": "2025-12-18 16:18:09",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
     {
       "id": "9f5f868a523fd71d02f3f74086163100d2c1781f05f79df984fc40e630383197",
       "title": "爆改优秀开源项目，国产大模型已经有这个能力了啊！",
@@ -21,16 +71,6 @@
       "github_refs": [
         "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
       ],
-      "platform": "bilibili"
-    },
-    {
-      "id": "979ad7e30df608121177e89a7a9ba1a994518b9506445b66c0c9d4c7efa9243f",
-      "title": "小白必看！教你用AI快速开发个人网站！",
-      "url": "https://www.bilibili.com/video/BV1VoZ7BnEJA",
-      "source": "我是阿众",
-      "published_at": "2026-02-14 19:00:23",
-      "score": 3.0,
-      "github_refs": [],
       "platform": "bilibili"
     },
     {
@@ -104,16 +144,6 @@
       "platform": "bilibili"
     },
     {
-      "id": "3c26937de1370c1c88f37a161f1cef782932eb2eb97c28208a240cdfb2c4b562",
-      "title": "盘点全网最热门Agent Skills，手把手教你使用！",
-      "url": "https://www.bilibili.com/video/BV1iL6kBCEVA",
-      "source": "我是阿众",
-      "published_at": "2026-01-31 12:00:00",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
       "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
       "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
       "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
@@ -140,36 +170,6 @@
       "source": "TechTeam软件分享",
       "published_at": "2026-01-10 11:25:00",
       "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "3d7880ca579ba203931b023df91395febaf270870dc41487029cf998944cc03c",
-      "title": "手把手教你在TRAE中创建和使用Skills，小白一看就懂！",
-      "url": "https://www.bilibili.com/video/BV1ZTzpBWEhF",
-      "source": "我是阿众",
-      "published_at": "2026-01-22 16:35:26",
-      "score": 3.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "c1363482f5974a03b7a681d25c2ff6dc010bb27f6cebb482473f8b1eb0825292",
-      "title": "耗时1个月，我开发了一个AI资源搜索网站！完全免费！",
-      "url": "https://www.bilibili.com/video/BV13VrhBgEKb",
-      "source": "我是阿众",
-      "published_at": "2026-01-12 17:32:27",
-      "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "33a9056a0834c45b5c5c8fd07c588c1a6f32284781e19b2b26eb0f61a605271b",
-      "title": "惊了！现在用AI赚钱的人这么多了吗？",
-      "url": "https://www.bilibili.com/video/BV1ReqnBgE3N",
-      "source": "我是阿众",
-      "published_at": "2025-12-18 16:18:09",
-      "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"
     },
