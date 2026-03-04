@@ -1,59 +1,71 @@
 {
-  "date": "2026-03-03",
+  "date": "2026-03-04",
   "items": [
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 593,
+      "language": ""
+    },
     {
       "repo": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
-      "stars_today": 5096,
+      "stars_today": 4419,
       "language": "Rust"
-    },
-    {
-      "repo": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 1412,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "stars_today": 526,
-      "language": "Jupyter Notebook"
-    },
-    {
-      "repo": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "stars_today": 830,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
-      "stars_today": 1026,
-      "language": "Python"
-    },
-    {
-      "repo": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "stars_today": 648,
-      "language": "Python"
     },
     {
       "repo": "K-Dense-AI/claude-scientific-skills",
       "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "stars_today": 820,
+      "stars_today": 798,
+      "language": "Python"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars_today": 832,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "CodebuffAI/codebuff",
+      "url": "https://github.com/CodebuffAI/codebuff",
+      "stars_today": 126,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "stars_today": 112,
+      "language": "Python"
+    },
+    {
+      "repo": "agentscope-ai/ReMe",
+      "url": "https://github.com/agentscope-ai/ReMe",
+      "stars_today": 49,
+      "language": "Python"
+    },
+    {
+      "repo": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "stars_today": 135,
       "language": "Python"
     },
     {
       "repo": "superset-sh/superset",
       "url": "https://github.com/superset-sh/superset",
-      "stars_today": 585,
+      "stars_today": 632,
       "language": "TypeScript"
     },
     {
-      "repo": "servo/servo",
-      "url": "https://github.com/servo/servo",
-      "stars_today": 45,
-      "language": "Rust"
+      "repo": "aquasecurity/trivy",
+      "url": "https://github.com/aquasecurity/trivy",
+      "stars_today": 164,
+      "language": "Go"
+    },
+    {
+      "repo": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "stars_today": 1150,
+      "language": "Python"
     }
   ]
 }
