@@ -1,53 +1,68 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "updates": [
     {
-      "id": "b303b1e4141446e667c0ef752ea0f20da83b33efd027cae4738af9aba74f7af4",
-      "title": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
+      "id": "cc3eedd955ecc928fb8caa57227d08f2255850d28786967e2d6ad46479638051",
+      "title": "KeygraphHQ/shannon",
+      "url": "https://github.com/KeygraphHQ/shannon",
       "source": "GitHub Trending",
-      "published_at": "2026-03-04",
-      "score": 24.511831471875,
+      "published_at": "2026-03-05",
+      "score": 26.120318513310185,
       "tags": [
         "trending"
       ],
-      "stars_today": 4419
+      "stars_today": 1854
     },
     {
-      "id": "68cf4f3e4d1bf58370d0faa62fec6777a56c8beaecd9af7275894e01d0831639",
-      "title": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
+      "id": "0b6244279772ea4cdafe81f7fa434f97b05b8e2f23f0fbf53239a9068505d90e",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
       "source": "GitHub Trending",
-      "published_at": "2026-03-04",
-      "score": 24.511831471875,
+      "published_at": "2026-03-05",
+      "score": 26.120318513310185,
       "tags": [
         "trending"
       ],
-      "stars_today": 1150
+      "stars_today": 2209
     },
     {
-      "id": "61513ee889bd5c223d32ff855d6bc55832887eb304dfa33982fd9d38c438e863",
-      "title": "K-Dense-AI/claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "id": "3f18566799e80ba1233eefaba58e3745f28809d2dcd806b4a7702038e0ced2ef",
+      "title": "ItzCrazyKns/Perplexica",
+      "url": "https://github.com/ItzCrazyKns/Perplexica",
       "source": "GitHub Trending",
-      "published_at": "2026-03-04",
-      "score": 21.471831471875,
+      "published_at": "2026-03-05",
+      "score": 26.120318513310185,
       "tags": [
         "trending"
       ],
-      "stars_today": 798
+      "stars_today": 1090
     },
     {
       "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending",
-      "published_at": "2026-03-04",
-      "score": 21.151831471875,
+      "published_at": "2026-03-05",
+      "score": 26.120318513310185,
       "tags": [
         "trending"
       ],
-      "stars_today": 832
+      "stars_today": 1454
+    },
+    {
+      "id": "6cf2224215320cb14ef834a7fd40f101d10a3974d1a73b81c221edce362ea2d0",
+      "title": "Extending single-minus amplitudes to gravitons",
+      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "source": "OpenAI",
+      "published_at": "2026-03-04T18:00:00+08:00",
+      "score": 3.6203185133101856,
+      "tags": [
+        "blog",
+        "research",
+        "LLM",
+        "research"
+      ],
+      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
     },
     {
       "id": "db0b46a25a460e831a69af4299338e2eed2fde022e07f375a87b3e047fb93b77",
@@ -55,7 +70,7 @@
       "url": "https://arxiv.org/abs/2603.00285",
       "source": "arXiv cs.AI",
       "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 11.928498138541666,
+      "score": 3.536985179976852,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -68,7 +83,7 @@
       "url": "https://arxiv.org/abs/2603.00349",
       "source": "arXiv cs.AI",
       "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 11.928498138541666,
+      "score": 3.536985179976852,
       "tags": [
         "arxiv",
         "cs.AI"
@@ -81,7 +96,7 @@
       "url": "https://arxiv.org/abs/2603.02353",
       "source": "arXiv cs.CL",
       "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 11.928498138541666,
+      "score": 3.536985179976852,
       "tags": [
         "arxiv",
         "cs.CL"
@@ -94,25 +109,12 @@
       "url": "https://arxiv.org/abs/2603.00267",
       "source": "arXiv cs.AI",
       "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 10.928498138541666,
+      "score": 2.536985179976852,
       "tags": [
         "arxiv",
         "cs.AI"
       ],
       "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to utilize the reasoning capability of LLMs with retrieved grounding evidence documents. However, these methods largely rely on textual similarity for evidence retrieval and struggle to retrieve evidence that captures multi-hop semantic relations within rich document contents. These limitations lead to…"
-    },
-    {
-      "id": "9ef38bba1a47737e9b750173e547d93c5a1f978e2bedc83a95cb108cee648357",
-      "title": "DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths",
-      "url": "https://arxiv.org/abs/2603.00309",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 10.928498138541666,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2603.00309v1 Announce Type: new Abstract: The increasingly popular agentic AI paradigm promises to harness the power of multiple, general-purpose large language model (LLM) agents to collaboratively complete complex tasks. While many agentic AI systems utilize predefined workflows or agent roles in order to reduce complexity, ideally these agents would be truly autonomous, able to achieve emergent collaboration even as the number of collaborating agents increases. Yet in practice, such unstructured interactions can lead to redundant work and cascading failures that are difficult to interpret or correct. In this work, we study multi-agent systems composed of general-purpose LLM agents that operate without predefined roles, control flow, or communication constraints, relying instead on…"
     }
   ]
 }
