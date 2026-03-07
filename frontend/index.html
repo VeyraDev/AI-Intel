@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="AI 情报日报：每日 AI 报告、视频精选、今日更新与热度榜单，数据来自本地 data/*.json。" />
+  <meta name="theme-color" content="#020617" />
   <title>AI 情报日报</title>
   <style>
     :root {
@@ -328,7 +330,7 @@
     .report-modal-content strong { font-weight: 700; color: var(--text); }
     .report-modal-content ul, .report-modal-content ol { margin: 0.4em 0; padding-left: 1.5em; }
 
-    /* 滚动淡入动画 */
+    /* 滚动淡入动画（尊重“减少动效”偏好） */
     .reveal {
       opacity: 0;
       transform: translateY(10px);
@@ -337,6 +339,22 @@
     .reveal.is-visible {
       opacity: 1;
       transform: translateY(0);
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal { transition: opacity 0.2s ease-out; transform: none; }
+      .reveal.is-visible { transform: none; }
+    }
+
+    /* 加载中脉冲动画 */
+    .loading {
+      animation: loading-pulse 1.4s ease-in-out infinite;
+    }
+    @keyframes loading-pulse {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .loading { animation: none; opacity: 0.9; }
     }
   </style>
 </head>
@@ -358,7 +376,7 @@
             <label for="report-date-select">选择日期：</label>
             <select id="report-date-select"></select>
           </div>
-          <div id="report-loading" class="loading">加载中…</div>
+          <div id="report-loading" class="loading" role="status" aria-live="polite">加载中…</div>
           <div id="report-summary" class="report-content report-summary" style="display:none;"></div>
           <button id="report-more-btn" class="report-toggle-btn" style="display:none;">查看详情</button>
           <div id="report-empty" class="empty" style="display:none;">暂无报告</div>
@@ -371,7 +389,7 @@
       <section class="bilibili" aria-label="B站精选">
         <h2><span class="sidebar-icon" aria-hidden="true">◎</span>视频精选</h2>
         <div class="section-body">
-          <div id="videos-loading" class="loading">加载中…</div>
+          <div id="videos-loading" class="loading" role="status" aria-live="polite">加载中…</div>
           <ul id="videos-list" class="list" style="display:none;"></ul>
           <div id="videos-empty" class="empty" style="display:none;">暂无精选视频</div>
           <div id="videos-error" class="error" style="display:none;"></div>
@@ -380,7 +398,7 @@
       <section aria-label="今日更新">
         <h2><span class="sidebar-icon" aria-hidden="true">●</span>今日更新</h2>
         <div class="section-body">
-          <div id="updates-loading" class="loading">加载中…</div>
+          <div id="updates-loading" class="loading" role="status" aria-live="polite">加载中…</div>
           <ul id="updates-list" class="list" style="display:none;"></ul>
           <div id="updates-empty" class="empty" style="display:none;">暂无今日更新</div>
           <div id="updates-error" class="error" style="display:none;"></div>
@@ -389,7 +407,7 @@
       <section aria-label="热度榜单">
         <h2><span class="sidebar-icon" aria-hidden="true">▲</span>热度榜单</h2>
         <div class="section-body">
-          <div id="trending-loading" class="loading">加载中…</div>
+          <div id="trending-loading" class="loading" role="status" aria-live="polite">加载中…</div>
           <ul id="trending-list" class="list" style="display:none;"></ul>
           <div id="trending-empty" class="empty" style="display:none;">暂无热度数据</div>
           <div id="trending-error" class="error" style="display:none;"></div>
@@ -542,10 +560,29 @@
               modalContent.innerHTML = fullHtml;
               modal.classList.add('is-open');
               modal.setAttribute('aria-hidden', 'false');
+              document.body.style.overflow = 'hidden';
+              modalClose.focus();
+              const onKeyDown = (e) => {
+                if (e.key === 'Escape') {
+                  closeModal();
+                  document.removeEventListener('keydown', onKeyDown);
+                }
+              };
+              document.addEventListener('keydown', onKeyDown);
+              modal._closeCleanup = () => {
+                document.removeEventListener('keydown', onKeyDown);
+                document.body.style.overflow = '';
+              };
             };
             const closeModal = () => {
               modal.classList.remove('is-open');
               modal.setAttribute('aria-hidden', 'true');
+              document.body.style.overflow = '';
+              if (modal._closeCleanup) {
+                modal._closeCleanup();
+                modal._closeCleanup = null;
+              }
+              moreBtn.focus({ focusVisible: true });
             };
             moreBtn.onclick = openModal;
             modalClose.onclick = closeModal;
@@ -570,9 +607,8 @@
           };
         }
 
-        // 初始渲染最新一条
+        // 初始渲染最新一条（主报告区不设 reveal，避免观察未触发时整块不显示）
         renderReport(reports.length - 1);
-        attachReveal('.report-area section');
       } catch (e) {
         loading.style.display = 'none';
         errEl.style.display = 'block';

@@ -1,120 +1,122 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-07",
   "updates": [
     {
-      "id": "cc3eedd955ecc928fb8caa57227d08f2255850d28786967e2d6ad46479638051",
-      "title": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
+      "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
+      "title": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
       "source": "GitHub Trending",
-      "published_at": "2026-03-05",
-      "score": 26.120318513310185,
+      "published_at": "2026-03-07",
+      "score": 26.027121126273148,
       "tags": [
         "trending"
       ],
-      "stars_today": 1854
+      "stars_today": 2562
     },
     {
       "id": "0b6244279772ea4cdafe81f7fa434f97b05b8e2f23f0fbf53239a9068505d90e",
       "title": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "source": "GitHub Trending",
-      "published_at": "2026-03-05",
-      "score": 26.120318513310185,
+      "published_at": "2026-03-07",
+      "score": 26.027121126273148,
       "tags": [
         "trending"
       ],
-      "stars_today": 2209
+      "stars_today": 2846
     },
     {
-      "id": "3f18566799e80ba1233eefaba58e3745f28809d2dcd806b4a7702038e0ced2ef",
-      "title": "ItzCrazyKns/Perplexica",
-      "url": "https://github.com/ItzCrazyKns/Perplexica",
+      "id": "065e41b49c90620960e4588e6efd35a58d5b4ebc3b3df1d6fc1b74d76bb2066d",
+      "title": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
       "source": "GitHub Trending",
-      "published_at": "2026-03-05",
-      "score": 26.120318513310185,
+      "published_at": "2026-03-07",
+      "score": 20.94712112627315,
       "tags": [
         "trending"
       ],
-      "stars_today": 1090
+      "stars_today": 696
     },
     {
-      "id": "8d6a4b13c5d73cd64f5575784fae0ed91495e10f7e18fb9f2a2003402752c702",
-      "title": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
+      "id": "01b0431d6f7bad7565f0790170e3694f213b73aff8cd519a6ab9b6e5f1189e6e",
+      "title": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
       "source": "GitHub Trending",
-      "published_at": "2026-03-05",
-      "score": 26.120318513310185,
+      "published_at": "2026-03-07",
+      "score": 19.82712112627315,
       "tags": [
         "trending"
       ],
-      "stars_today": 1454
+      "stars_today": 690
     },
     {
-      "id": "6cf2224215320cb14ef834a7fd40f101d10a3974d1a73b81c221edce362ea2d0",
-      "title": "Extending single-minus amplitudes to gravitons",
-      "url": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+      "id": "5bd08c4ff5b22ccff27b31d2756f75c4f08f06a39042ba860244d2a6fadf7e51",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
       "source": "OpenAI",
-      "published_at": "2026-03-04T18:00:00+08:00",
-      "score": 3.6203185133101856,
+      "published_at": "2026-03-06T18:00:00+08:00",
+      "score": 3.5271211262731477,
       "tags": [
         "blog",
         "research",
         "LLM",
         "research"
       ],
-      "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
     },
     {
-      "id": "db0b46a25a460e831a69af4299338e2eed2fde022e07f375a87b3e047fb93b77",
-      "title": "TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?",
-      "url": "https://arxiv.org/abs/2603.00285",
+      "id": "937d6214096735b4ac7c9f9fcdc3662f5ac5d501de75b0e7813cc87b45e7947d",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "source": "OpenAI",
+      "published_at": "2026-03-06T18:00:00+08:00",
+      "score": 3.5271211262731477,
+      "tags": [
+        "blog",
+        "research",
+        "LLM",
+        "research"
+      ],
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+    },
+    {
+      "id": "116f45001900a1e7e56200e1f52308050d3556eab7e25606ff295e46c2c1c334",
+      "title": "Adaptive Memory Admission Control for LLM Agents",
+      "url": "https://arxiv.org/abs/2603.04549",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 3.536985179976852,
+      "published_at": "2026-03-06T13:00:00+08:00",
+      "score": 3.4437877929398146,
       "tags": [
         "arxiv",
         "cs.AI"
       ],
-      "summary": "arXiv:2603.00285v1 Announce Type: new Abstract: Evaluating AI agents in finance faces two key challenges: static benchmarks require costly expert annotation yet miss the dynamic decision-making central to real-world trading, while LLM-based judges introduce uncontrolled variance on domain-specific tasks. We introduce TraderBench, a benchmark that addresses both issues. It combines expert-verified static tasks (knowledge retrieval, analytical reasoning) with adversarial trading simulations scored purely on realized performance-Sharpe ratio, returns, and drawdown-eliminating judge variance entirely. The framework features two novel tracks: crypto trading with four progressive market-manipulation transforms, and options derivatives scoring across P&L accuracy, Greeks, and risk management. Tra…"
+      "summary": "arXiv:2603.04549v1 Announce Type: new Abstract: LLM-based agents increasingly rely on long-term memory to support multi-session reasoning and interaction, yet current systems provide little control over what information is retained. In practice, agents either accumulate large volumes of conversational content, including hallucinated or obsolete facts, or depend on opaque, fully LLM-driven memory policies that are costly and difficult to audit. As a result, memory admission remains a poorly specified and weakly controlled component in agent architectures. To address this gap, we propose Adaptive Memory Admission Control (A-MAC), a framework that treats memory admission as a structured decision problem. A-MAC decomposes memory value into five complementary and interpretable factors: future u…"
     },
     {
-      "id": "4f0ce8c795298670f1592ef6143e06fc3ebe17f35d9ee762cfabc0a945467bd7",
-      "title": "EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents",
-      "url": "https://arxiv.org/abs/2603.00349",
+      "id": "5687bfb4a7b3e181e6f083173f4bca457c19293818fc3e79cde15967f0669093",
+      "title": "When Agents Persuade: Propaganda Generation and Mitigation in LLMs",
+      "url": "https://arxiv.org/abs/2603.04636",
       "source": "arXiv cs.AI",
-      "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 3.536985179976852,
+      "published_at": "2026-03-06T13:00:00+08:00",
+      "score": 3.4437877929398146,
       "tags": [
         "arxiv",
         "cs.AI"
       ],
-      "summary": "arXiv:2603.00349v1 Announce Type: new Abstract: Real-world scenarios increasingly require multiple embodied agents to collaborate in dynamic environments under embodied constraints, as many tasks exceed the capabilities of any single agent. Recent advances in large language models (LLMs) enable high-level cognitive coordination through reasoning, planning, and natural language communication. However, fine-grained analyses of how such collaboration emerges, unfolds, and contributes to task success in embodied multi-agent systems are difficult to conduct with existing benchmarks. In this paper, we introduce EmCoop, a benchmark framework for studying cooperation in LLM-based embodied multi-agent systems. Our framework separates a high-level cognitive layer from a low-level embodied interactio…"
+      "summary": "arXiv:2603.04636v1 Announce Type: new Abstract: Despite their wide-ranging benefits, LLM-based agents deployed in open environments can be exploited to produce manipulative material. In this study, we task LLMs with propaganda objectives and analyze their outputs using two domain-specific models: one that classifies text as propaganda or non-propaganda, and another that detects rhetorical techniques of propaganda (e.g., loaded language, appeals to fear, flag-waving, name-calling). Our findings show that, when prompted, LLMs exhibit propagandistic behaviors and use a variety of rhetorical techniques in doing so. We also explore mitigation via Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and ORPO (Odds Ratio Preference Optimization). We find that fine-tuning significan…"
     },
     {
-      "id": "2a131ab96fe5960b0ddf3825ee883e2131e679b60091e8a0c1cc2c0ad9b65805",
-      "title": "Detecting AI-Generated Essays in Writing Assessment: Responsible Use and Generalizability Across LLMs",
-      "url": "https://arxiv.org/abs/2603.02353",
-      "source": "arXiv cs.CL",
-      "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 3.536985179976852,
+      "id": "8b87976e828c06722e5824f8d215c5a0101618e1f2f975d6da47a2124f2bd401",
+      "title": "Agent Memory Below the Prompt: Persistent Q4 KV Cache for Multi-Agent LLM Inference on Edge Devices",
+      "url": "https://arxiv.org/abs/2603.04428",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-06T13:00:00+08:00",
+      "score": 3.4437877929398146,
       "tags": [
         "arxiv",
-        "cs.CL"
+        "cs.LG"
       ],
-      "summary": "arXiv:2603.02353v1 Announce Type: new Abstract: Writing is a foundational literacy skill that underpins effective communication, fosters critical thinking, facilitates learning across disciplines, and enables individuals to organize and articulate complex ideas. Consequently, writing assessment plays a vital role in evaluating language proficiency, communicative effectiveness, and analytical reasoning. The rapid advancement of large language models (LLMs) has made it increasingly easy to generate coherent, high-quality essays, raising significant concerns about the authenticity of student-submitted work. This chapter first provides an overview of the current landscape of detectors for AI-generated and AI-assisted essays, along with guidelines for their responsible use. It then presents emp…"
-    },
-    {
-      "id": "badbbbec73ac756b00af8c0117d0563454f1501284ea55ae31a0c74efafb588a",
-      "title": "Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",
-      "url": "https://arxiv.org/abs/2603.00267",
-      "source": "arXiv cs.AI",
-      "published_at": "2026-03-04T13:00:00+08:00",
-      "score": 2.536985179976852,
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ],
-      "summary": "arXiv:2603.00267v1 Announce Type: new Abstract: Misinformation spreading over the Internet poses a significant threat to both societies and individuals, necessitating robust and scalable fact-checking that relies on retrieving accurate and trustworthy evidence. Previous methods rely on semantic and social-contextual patterns learned from training data, which limits their generalization to new data distributions. Recently, Retrieval Augmented Generation (RAG) based methods have been proposed to utilize the reasoning capability of LLMs with retrieved grounding evidence documents. However, these methods largely rely on textual similarity for evidence retrieval and struggle to retrieve evidence that captures multi-hop semantic relations within rich document contents. These limitations lead to…"
+      "summary": "arXiv:2603.04428v1 Announce Type: new Abstract: Multi-agent LLM systems on edge devices face a memory management problem: device RAM is too small to hold every agent's KV cache simultaneously. On Apple M4 Pro with 10.2 GB of cache budget, only 3 agents fit at 8K context in FP16. A 10-agent workflow must constantly evict and reload caches. Without persistence, every eviction forces a full re-prefill through the model -- 15.7 seconds per agent at 4K context. We address this by persisting each agent's KV cache to disk in 4-bit quantized format and reloading it directly into the attention layer, eliminating redundant O(n) prefill computation via direct cache restoration. The system comprises three components: a block pool providing per-agent isolated Q4 KV caches in safetensors format, a Batch…"
     }
   ]
 }

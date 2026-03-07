@@ -1,6 +1,148 @@
 {
   "history": [
     {
+      "date": "2026-03-07",
+      "items": [
+        {
+          "repo": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "stars_today": 2562,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "QwenLM/Qwen-Agent",
+          "url": "https://github.com/QwenLM/Qwen-Agent",
+          "stars_today": 696,
+          "language": "Python"
+        },
+        {
+          "repo": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "stars_today": 273,
+          "language": "PowerShell"
+        },
+        {
+          "repo": "Ed1s0nZ/CyberStrikeAI",
+          "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+          "stars_today": 106,
+          "language": "Go"
+        },
+        {
+          "repo": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "stars_today": 347,
+          "language": "Python"
+        },
+        {
+          "repo": "lingfengQAQ/webnovel-writer",
+          "url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "stars_today": 90,
+          "language": "Python"
+        },
+        {
+          "repo": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "stars_today": 595,
+          "language": "Python"
+        },
+        {
+          "repo": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "stars_today": 690,
+          "language": "Python"
+        },
+        {
+          "repo": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "stars_today": 81,
+          "language": "Python"
+        },
+        {
+          "repo": "aidenybai/react-grab",
+          "url": "https://github.com/aidenybai/react-grab",
+          "stars_today": 450,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "stars_today": 2846,
+          "language": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-03-06",
+      "items": [
+        {
+          "repo": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "stars_today": 1468,
+          "language": ""
+        },
+        {
+          "repo": "TheCraigHewitt/seomachine",
+          "url": "https://github.com/TheCraigHewitt/seomachine",
+          "stars_today": 310,
+          "language": "Python"
+        },
+        {
+          "repo": "KeygraphHQ/shannon",
+          "url": "https://github.com/KeygraphHQ/shannon",
+          "stars_today": 2930,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "aquasecurity/trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "stars_today": 298,
+          "language": "Go"
+        },
+        {
+          "repo": "moeru-ai/airi",
+          "url": "https://github.com/moeru-ai/airi",
+          "stars_today": 3006,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "inclusionAI/AReaL",
+          "url": "https://github.com/inclusionAI/AReaL",
+          "stars_today": 173,
+          "language": "Python"
+        },
+        {
+          "repo": "microsoft/mcp-for-beginners",
+          "url": "https://github.com/microsoft/mcp-for-beginners",
+          "stars_today": 137,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "repo": "CodebuffAI/codebuff",
+          "url": "https://github.com/CodebuffAI/codebuff",
+          "stars_today": 275,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "FujiwaraChoki/MoneyPrinterV2",
+          "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+          "stars_today": 511,
+          "language": "Python"
+        },
+        {
+          "repo": "agentscope-ai/ReMe",
+          "url": "https://github.com/agentscope-ai/ReMe",
+          "stars_today": 194,
+          "language": "Python"
+        },
+        {
+          "repo": "microsoft/hve-core",
+          "url": "https://github.com/microsoft/hve-core",
+          "stars_today": 11,
+          "language": "PowerShell"
+        }
+      ]
+    },
+    {
       "date": "2026-03-05",
       "items": [
         {

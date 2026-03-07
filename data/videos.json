@@ -1,42 +1,54 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-07",
   "videos": [
     {
-      "id": "9decd3901243837dee51f59f77701603ca420cf18472a75b31c983871b816dac",
-      "title": "我的chrome退休了！更好用的AI浏览器Tabbit是什么样子",
-      "url": "https://www.bilibili.com/video/BV1GkP5zREL7",
-      "source": "IT咖啡馆",
-      "published_at": "2026-03-02 18:00:00",
+      "id": "1d5f5cf507089a0569abe04b1ac0290c71ed37032c02bfef3abc81ec067289f2",
+      "title": "GitHub又一个开源听歌神器横空出世!适配全平台还能白嫖!简直香到爆炸!",
+      "url": "https://www.bilibili.com/video/BV1FRP6zkEBW",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-03-06 11:55:00",
+      "score": 2.5,
+      "github_refs": [
+        "https://github.com/hoowhoami/EchoMusic"
+      ],
+      "platform": "bilibili"
+    },
+    {
+      "id": "45cdaa0df79fd20ade51b928176f6d6e623a13f350bb0de951d6d2eba47ae456",
+      "title": "99%的人都没用过的GitHub开源神器!简直为微信量身定做!用过都说屌",
+      "url": "https://www.bilibili.com/video/BV1VBPGzSEiM",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-03-02 11:55:00",
       "score": 2.0,
       "github_refs": [],
       "platform": "bilibili"
     },
     {
-      "id": "93ce0c05115f6100dcb707eac022581ab9d2f450c8dd3d928d6e523861615385",
-      "title": "「Github一周热点105期」Rust 版openclaw，本地语音克隆工具，Qwen3.5， AI 渗透测试系统和精美源码图片生成工具",
-      "url": "https://www.bilibili.com/video/BV1FsAbz6EjX",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-28 10:23:31",
+      "id": "e734b3db8611c5200c719e38f6f3ade7084e8948a17666c8151fdf508fca8b94",
+      "title": "简直MAC救星!错过要拍大腿的!盘点3款MacOS必装的GitHub开源神器!",
+      "url": "https://www.bilibili.com/video/BV1wqfYBVEkC",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-02-26 11:30:00",
       "score": 2.0,
       "github_refs": [],
       "platform": "bilibili"
     },
     {
-      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
-      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
-      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-26 18:00:00",
-      "score": 1.0,
+      "id": "c3dfd0b8a9fe2a5cf5b09cc821dcaa19b0569377baf3b3a33d1c706d1cdd73bc",
+      "title": "盘点4款好用到爆炸的GitHub开源软件!简直电脑装机必备!",
+      "url": "https://www.bilibili.com/video/BV1czFzzFEgv",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-02-06 12:08:35",
+      "score": 2.0,
       "github_refs": [],
       "platform": "bilibili"
     },
     {
-      "id": "1442be4f32a67d109a16a7c98b258e732580d1182a20819148c4e8e6e4b9de0b",
-      "title": "“源神”的新年贺礼！深度实测Qwen3.5，原生多模态表现如何",
-      "url": "https://www.bilibili.com/video/BV1izZRBtET1",
-      "source": "IT咖啡馆",
-      "published_at": "2026-02-19 11:43:31",
+      "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
+      "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
+      "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
+      "source": "TechTeam软件分享",
+      "published_at": "2026-01-26 15:39:47",
       "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"
@@ -92,6 +104,46 @@
       "platform": "bilibili"
     },
     {
+      "id": "9decd3901243837dee51f59f77701603ca420cf18472a75b31c983871b816dac",
+      "title": "我的chrome退休了！更好用的AI浏览器Tabbit是什么样子",
+      "url": "https://www.bilibili.com/video/BV1GkP5zREL7",
+      "source": "IT咖啡馆",
+      "published_at": "2026-03-02 18:00:00",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "93ce0c05115f6100dcb707eac022581ab9d2f450c8dd3d928d6e523861615385",
+      "title": "「Github一周热点105期」Rust 版openclaw，本地语音克隆工具，Qwen3.5， AI 渗透测试系统和精美源码图片生成工具",
+      "url": "https://www.bilibili.com/video/BV1FsAbz6EjX",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-28 10:23:31",
+      "score": 2.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "c13ae8a40cca99cf39269cd0b29b6dae19f3e42b58a867c8f197edcf10260213",
+      "title": "让openclaw再进化？搭配什么硬件，更能发挥出全部能力",
+      "url": "https://www.bilibili.com/video/BV13TfbB7EZG",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-26 18:00:00",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
+      "id": "1442be4f32a67d109a16a7c98b258e732580d1182a20819148c4e8e6e4b9de0b",
+      "title": "“源神”的新年贺礼！深度实测Qwen3.5，原生多模态表现如何",
+      "url": "https://www.bilibili.com/video/BV1izZRBtET1",
+      "source": "IT咖啡馆",
+      "published_at": "2026-02-19 11:43:31",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
+    {
       "id": "9f5f868a523fd71d02f3f74086163100d2c1781f05f79df984fc40e630383197",
       "title": "爆改优秀开源项目，国产大模型已经有这个能力了啊！",
       "url": "https://www.bilibili.com/video/BV1DKAhz8Evu",
@@ -129,36 +181,6 @@
       "url": "https://www.bilibili.com/video/BV1G3FNznE3U",
       "source": "神秘的鱼仔",
       "published_at": "2026-02-02 18:00:06",
-      "score": 1.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "e734b3db8611c5200c719e38f6f3ade7084e8948a17666c8151fdf508fca8b94",
-      "title": "简直MAC救星!错过要拍大腿的!盘点3款MacOS必装的GitHub开源神器!",
-      "url": "https://www.bilibili.com/video/BV1wqfYBVEkC",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-02-26 11:30:00",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "c3dfd0b8a9fe2a5cf5b09cc821dcaa19b0569377baf3b3a33d1c706d1cdd73bc",
-      "title": "盘点4款好用到爆炸的GitHub开源软件!简直电脑装机必备!",
-      "url": "https://www.bilibili.com/video/BV1czFzzFEgv",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-02-06 12:08:35",
-      "score": 2.0,
-      "github_refs": [],
-      "platform": "bilibili"
-    },
-    {
-      "id": "7b5354c42ed0f67340c369a0d49724512d4d123f1667d67ed474856be52403b5",
-      "title": "这个AI太屌了!集成Nano Banana动动手指就能做3D建模!小白也能玩转!",
-      "url": "https://www.bilibili.com/video/BV1QqzYBCEYi",
-      "source": "TechTeam软件分享",
-      "published_at": "2026-01-26 15:39:47",
       "score": 1.0,
       "github_refs": [],
       "platform": "bilibili"

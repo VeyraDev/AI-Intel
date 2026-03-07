@@ -1,83 +1,71 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-07",
   "items": [
     {
-      "repo": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "stars_today": 1854,
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars_today": 2562,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "QwenLM/Qwen-Agent",
+      "url": "https://github.com/QwenLM/Qwen-Agent",
+      "stars_today": 696,
+      "language": "Python"
+    },
+    {
+      "repo": "microsoft/hve-core",
+      "url": "https://github.com/microsoft/hve-core",
+      "stars_today": 273,
+      "language": "PowerShell"
+    },
+    {
+      "repo": "Ed1s0nZ/CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "stars_today": 106,
+      "language": "Go"
+    },
+    {
+      "repo": "inclusionAI/AReaL",
+      "url": "https://github.com/inclusionAI/AReaL",
+      "stars_today": 347,
+      "language": "Python"
+    },
+    {
+      "repo": "lingfengQAQ/webnovel-writer",
+      "url": "https://github.com/lingfengQAQ/webnovel-writer",
+      "stars_today": 90,
+      "language": "Python"
+    },
+    {
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "stars_today": 595,
+      "language": "Python"
+    },
+    {
+      "repo": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "stars_today": 690,
+      "language": "Python"
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "stars_today": 81,
+      "language": "Python"
+    },
+    {
+      "repo": "aidenybai/react-grab",
+      "url": "https://github.com/aidenybai/react-grab",
+      "stars_today": 450,
       "language": "TypeScript"
     },
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
-      "stars_today": 2209,
+      "stars_today": 2846,
       "language": ""
-    },
-    {
-      "repo": "aquasecurity/trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "stars_today": 380,
-      "language": "Go"
-    },
-    {
-      "repo": "K-Dense-AI/claude-scientific-skills",
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-      "stars_today": 940,
-      "language": "Python"
-    },
-    {
-      "repo": "CodebuffAI/codebuff",
-      "url": "https://github.com/CodebuffAI/codebuff",
-      "stars_today": 337,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "agentscope-ai/ReMe",
-      "url": "https://github.com/agentscope-ai/ReMe",
-      "stars_today": 345,
-      "language": "Python"
-    },
-    {
-      "repo": "alibaba/OpenSandbox",
-      "url": "https://github.com/alibaba/OpenSandbox",
-      "stars_today": 788,
-      "language": "Python"
-    },
-    {
-      "repo": "FujiwaraChoki/MoneyPrinterV2",
-      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "stars_today": 143,
-      "language": "Python"
-    },
-    {
-      "repo": "ItzCrazyKns/Perplexica",
-      "url": "https://github.com/ItzCrazyKns/Perplexica",
-      "stars_today": 1090,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "stars_today": 427,
-      "language": "Python"
-    },
-    {
-      "repo": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "stars_today": 1454,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "nautechsystems/nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "stars_today": 89,
-      "language": "Rust"
-    },
-    {
-      "repo": "FlowiseAI/Flowise",
-      "url": "https://github.com/FlowiseAI/Flowise",
-      "stars_today": 145,
-      "language": "TypeScript"
     }
   ]
 }

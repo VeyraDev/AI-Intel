@@ -93,8 +93,8 @@
       "name": "awesome-english-ebooks",
       "source": "https://github.com/https://github.com/hehonghui/awesome-english-ebooks",
       "active": true,
-      "mention_count": 11,
-      "last_seen": "2026-03-04"
+      "mention_count": 12,
+      "last_seen": "2026-03-06"
     },
     {
       "id": "x1xhlol",
@@ -111,6 +111,22 @@
       "active": true,
       "mention_count": 5,
       "last_seen": "2026-03-01"
+    },
+    {
+      "id": "hoowhoami",
+      "name": "hoowhoami",
+      "source": "https://github.com/hoowhoami.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": "2026-03-07"
+    },
+    {
+      "id": "https://github.com/hoowhoami/EchoMusic",
+      "name": "EchoMusic",
+      "source": "https://github.com/https://github.com/hoowhoami/EchoMusic",
+      "active": true,
+      "mention_count": 1,
+      "last_seen": "2026-03-07"
     }
   ]
 }
