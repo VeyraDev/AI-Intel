@@ -93,8 +93,8 @@
       "name": "awesome-english-ebooks",
       "source": "https://github.com/https://github.com/hehonghui/awesome-english-ebooks",
       "active": true,
-      "mention_count": 12,
-      "last_seen": "2026-03-06"
+      "mention_count": 13,
+      "last_seen": "2026-03-09"
     },
     {
       "id": "x1xhlol",
@@ -102,15 +102,15 @@
       "source": "https://github.com/x1xhlol.atom",
       "active": true,
       "mention_count": 0,
-      "last_seen": "2026-02-26"
+      "last_seen": "2026-03-08"
     },
     {
       "id": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "name": "system-prompts-and-models-of-ai-tools",
       "source": "https://github.com/https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "active": true,
-      "mention_count": 5,
-      "last_seen": "2026-03-01"
+      "mention_count": 7,
+      "last_seen": "2026-03-09"
     },
     {
       "id": "hoowhoami",
@@ -118,15 +118,31 @@
       "source": "https://github.com/hoowhoami.atom",
       "active": true,
       "mention_count": 0,
-      "last_seen": "2026-03-07"
+      "last_seen": "2026-03-08"
     },
     {
       "id": "https://github.com/hoowhoami/EchoMusic",
       "name": "EchoMusic",
       "source": "https://github.com/https://github.com/hoowhoami/EchoMusic",
       "active": true,
-      "mention_count": 1,
-      "last_seen": "2026-03-07"
+      "mention_count": 2,
+      "last_seen": "2026-03-08"
+    },
+    {
+      "id": "siteboon",
+      "name": "siteboon",
+      "source": "https://github.com/siteboon.atom",
+      "active": true,
+      "mention_count": 0,
+      "last_seen": "2026-03-08"
+    },
+    {
+      "id": "https://github.com/siteboon/claudecodeui",
+      "name": "claudecodeui",
+      "source": "https://github.com/https://github.com/siteboon/claudecodeui",
+      "active": true,
+      "mention_count": 2,
+      "last_seen": "2026-03-09"
     }
   ]
 }
