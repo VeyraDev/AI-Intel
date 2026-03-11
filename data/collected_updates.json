@@ -1,236 +1,248 @@
 {
   "updates": [
     {
-      "id": "424eccdc93ba7bd018a8adcef9e6e08f0990e6806b8ba602fd023a893cb940e0",
-      "title": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "id": "0b6244279772ea4cdafe81f7fa434f97b05b8e2f23f0fbf53239a9068505d90e",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 522
+      "stars_today": 6223
     },
     {
       "id": "d1c18d784547228652fa732d5a8a8eda1d8009ab0daec9234e13de4c6432666a",
       "title": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 1104
+      "stars_today": 4504
     },
     {
-      "id": "a3b6067eebf224ed471bef5ab64022710091653a5354c98e6f4a9bbc579dd643",
-      "title": "shadcn-ui/ui",
-      "url": "https://github.com/shadcn-ui/ui",
+      "id": "ec2b8bd43eefd65f9cb1366e04d6d7239d69726ae6ef27da804d5b01341f9890",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 488
+      "stars_today": 781
     },
     {
-      "id": "0b5c4741d1c147be5fddf0c75c5c0f478ced75a3c3b71cf8751002122b8f3831",
-      "title": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
+      "id": "baf9cbcdf7e11126e6bf76a85a8076b429c3d5d7545a100d57dac21524ab50c0",
+      "title": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 4603
+      "stars_today": 661
     },
     {
-      "id": "f5d3eec6056dbbd510eeda0d59c7b8bf33199d7726f89e90ef0ba14e35ddb416",
-      "title": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
+      "id": "424eccdc93ba7bd018a8adcef9e6e08f0990e6806b8ba602fd023a893cb940e0",
+      "title": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 533
-    },
-    {
-      "id": "ec9902fdd243e9b84210cfda1dfd467e75134592cbe9c4edc1847e5400e09a6b",
-      "title": "Ed1s0nZ/CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 244
-    },
-    {
-      "id": "9b8fb32d5892ba24a300635ab841190e98dd0c1878367761c8d505def607d4e9",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 566
-    },
-    {
-      "id": "2cc5eab13f08dcd3105e9297c87e7492455d59c03f71e3a417da6018bd171df2",
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 0.0,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 612
+      "stars_today": 530
     },
     {
       "id": "93b2cfb4f88278ad5c7f0d19b0f5ff58d4b04dc7cb027ef25e0c3f9459bf551d",
       "title": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 275
+      "stars_today": 300
     },
     {
-      "id": "b2ffc8500ff7a230bdf5386b6198d360213677e3d881a11a006663c700f61473",
-      "title": "is-a-dev/register",
-      "url": "https://github.com/is-a-dev/register",
+      "id": "7d871a9968ec8d6b64c1b42d997331ec153fd17e52fcd1ac25430026bdc84a38",
+      "title": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 10
+      "stars_today": 705
     },
     {
-      "id": "9e0892762e0531969260cc0f24bdc835c1d4b3a2b483f12fc941557f6c2deefb",
-      "title": "teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py",
+      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 196
+      "stars_today": 1387
+    },
+    {
+      "id": "d1946b21c02e5fa57264b20b301983f6128148ec23cfd9b8de3b339e8ef2dc36",
+      "title": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 891
+    },
+    {
+      "id": "a05c3cfcbaa151696735bce9b8e43ace5d33d61baeb7790b4b4a0eba45be6a67",
+      "title": "sepinf-inc/IPED",
+      "url": "https://github.com/sepinf-inc/IPED",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 273
+    },
+    {
+      "id": "0b5c4741d1c147be5fddf0c75c5c0f478ced75a3c3b71cf8751002122b8f3831",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
+      "score": 0.0,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 9080
     },
     {
       "id": "ec673bd7694d3a658bba5faa8adfa14eba8b3e6a93c22519359a599d91bf799c",
       "title": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
+      "published_at": "2026-03-11",
       "score": 0.0,
       "tags": [
         "trending"
       ],
-      "stars_today": 443
+      "stars_today": 939
     },
     {
-      "id": "79787706391483571161cbe473796a890ec8f7ab50535460e5dcd3170985660f",
-      "title": "hiyouga commented on pull request hiyouga/llamafactory-blog#33",
-      "url": "https://github.com/hiyouga/llamafactory-blog/pull/33#discussion_r2896544341",
-      "source": "hiyouga",
-      "published_at": "2026-03-06 15:57:43 UTC",
+      "id": "16389f32495280ea98c7dc97d94e58609236d0b9919875016bc9d018f60ef5bf",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
       "score": 0.0,
-      "tags": []
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1413
     },
     {
-      "id": "8d00a407cc22f32b0c7d3a25d2f06d28c6563eb086ff59f94097fc3284a491b2",
-      "title": "hiyouga commented on pull request hiyouga/llamafactory-blog#33",
-      "url": "https://github.com/hiyouga/llamafactory-blog/pull/33#discussion_r2896543788",
-      "source": "hiyouga",
-      "published_at": "2026-03-06 15:57:36 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "4f72dd529d9ed9104c3c13e29df0d1003939d377b1100a55feea5e5ebb3dfe35",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/0ee1c42c2b...9501c3308a",
-      "source": "hiyouga",
-      "published_at": "2026-03-06 10:44:59 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "e362ef12cade9017a1909ddfbef0df0af3deb4a0499cab3b7d5f55a30fe744a1",
+      "id": "3ce3b59a83890b5ecf6a88fef410b79617b3730bd76d577751794a807a6af99c",
       "title": "hiyouga deleted",
-      "url": "https://github.com/Prism-Shadow/AgentHub/compare/6862631bf1...0000000000",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/c6418bbfac...0000000000",
       "source": "hiyouga",
-      "published_at": "2026-03-05 16:24:58 UTC",
+      "published_at": "2026-03-11 00:52:35 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "b4e47b49af66459213697c31f0c027588a6ee5d49fe769b53160a6a0f758bc50",
-      "title": "hiyouga pushed AgentHub",
-      "url": "https://github.com/Prism-Shadow/AgentHub/compare/e3dccbdb96...08283ba228",
+      "id": "6ac615ea681fdb955847346e6ea76fe0638d97a051bec4a4ad71d2eda7c86d69",
+      "title": "hiyouga closed a pull request in AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/90",
       "source": "hiyouga",
-      "published_at": "2026-03-05 16:24:57 UTC",
+      "published_at": "2026-03-10 17:31:11 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "cda93954025398cd7eeea1b1791432a460ba00f0e1d2dcbcee60e4d574255f76",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/3061f48d55...0ee1c42c2b",
+      "id": "7b8973d183ba791f9e2ebcfe7c7eec50e9d3e4eeae99e568515fed542811eaab",
+      "title": "hiyouga commented on pull request Prism-Shadow/AgentHub#89",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/89#discussion_r2915269909",
       "source": "hiyouga",
-      "published_at": "2026-03-05 15:15:29 UTC",
+      "published_at": "2026-03-11 00:51:32 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "0fea5c8781bf9d72be1e9be9a23bf119aff035ab9c2dc472e82458d2c4326fad",
-      "title": "hiyouga pushed LlamaFactory",
-      "url": "https://github.com/hiyouga/LlamaFactory/compare/2d9bd2aa14...3061f48d55",
+      "id": "f129c349e7b159ed557330a42524a8538d823c1f62e3da809a0318d210c24eec",
+      "title": "hiyouga commented on pull request Prism-Shadow/AgentHub#89",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/89#discussion_r2915267898",
       "source": "hiyouga",
-      "published_at": "2026-03-05 15:14:40 UTC",
+      "published_at": "2026-03-11 00:50:46 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "0988697fa8cf593fec8eaedc23192a797dcd75acaf1e6620a3a7068d9321fb19",
+      "id": "61872eef4a830faf99d28a06e679af79525724b6343db4c8e0493c10e5462676",
+      "title": "hiyouga commented on pull request Prism-Shadow/AgentHub#89",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/89#discussion_r2915261265",
+      "source": "hiyouga",
+      "published_at": "2026-03-11 00:47:59 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "16331f22ed2b3beb6c396613227e66253e9464afd4e7bdd1af1a656977cc0560",
+      "title": "hiyouga commented on pull request Prism-Shadow/AgentHub#89",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/89#discussion_r2915255777",
+      "source": "hiyouga",
+      "published_at": "2026-03-11 00:45:35 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "12dad31349899301a614408b781b98f231dabe1ce08148982a6f6ce5669da36c",
+      "title": "hiyouga commented on pull request Prism-Shadow/AgentHub#89",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/89#discussion_r2915254301",
+      "source": "hiyouga",
+      "published_at": "2026-03-11 00:44:53 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "282cf85c0089db4c2947eb2a33ec8a88d166fc94728509e10fc322665ce18542",
       "title": "hiyouga deleted",
-      "url": "https://github.com/Prism-Shadow/AgentHub/compare/a3190c4f8a...0000000000",
+      "url": "https://github.com/Prism-Shadow/AgentHub/compare/0d50fa31bc...0000000000",
       "source": "hiyouga",
-      "published_at": "2026-03-04 13:58:36 UTC",
+      "published_at": "2026-03-11 00:07:59 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "45e9c16cc82a617891b0943e3dcbbe9327fbeb25f68ee3947d75e10f3b79e88c",
-      "title": "hiyouga pushed AgentHub",
-      "url": "https://github.com/Prism-Shadow/AgentHub/compare/0a373ef192...e3dccbdb96",
+      "id": "b0457b32f033c7f69c60a5bb8241baceb13070a3b89ea81b9247c0424145f63d",
+      "title": "hiyouga closed a pull request in AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/88",
       "source": "hiyouga",
-      "published_at": "2026-03-04 13:58:35 UTC",
+      "published_at": "2026-03-10 17:01:14 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "da88408e2a0f86a2db484e4a6051561b68612f03d06e0e226961a12ee2d14d79",
-      "title": "hiyouga deleted",
-      "url": "https://github.com/Prism-Shadow/AgentHub/compare/4dfaaa2eb1...0000000000",
+      "id": "aebce79919d101bbf72e8b9820c8ab5306edb7632271f09c0287b91e1106c26e",
+      "title": "hiyouga opened a pull request in AgentHub",
+      "url": "https://github.com/Prism-Shadow/AgentHub/pull/87",
       "source": "hiyouga",
-      "published_at": "2026-03-04 13:04:42 UTC",
+      "published_at": "2026-03-10 16:31:19 -0700",
       "score": 0.0,
       "tags": []
     },
@@ -361,92 +373,119 @@
       "tags": []
     },
     {
-      "id": "bab0a2c8fedeff98138579b4ef2e5fab57b438fd310dc7e1aa5a2b29806a9e36",
+      "id": "ca4c3b4243509d897ade18bb2e6012db4be2a0131762e1827fc21861721b71d6",
+      "title": "jessfraz commented on pull request KittyCAD/documentation#756",
+      "url": "https://github.com/KittyCAD/documentation/pull/756#discussion_r2914648973",
+      "source": "jessfraz",
+      "published_at": "2026-03-10 21:44:39 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "2b3aae6cc62739320f0f0b92c2198b62d01f0d91dc2a690441757f48accbcab9",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/a04f4ae614...0000000000",
+      "url": "https://github.com/KittyCAD/documentation/compare/33f4b7e584...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:13:49 UTC",
+      "published_at": "2026-03-10 16:51:43 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "6cf2e6e0b3d9367be4d93aa108eaed1afac396855d5d6faf7d500c0f2055251c",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/ab6f350187...5efc59c32e",
+      "id": "1955ea306a8917747e91d830a001a48d6fc097ff159ed6a710b32d5be0eb71a0",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/e9ee89d528...f7326a6456",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:13:49 UTC",
+      "published_at": "2026-03-10 16:51:41 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "dec00ee5821ef32ed7130e9ef0eda6a4b19d2acf5fbfef39118de447a7f87c70",
+      "id": "6d2dcecf65d42764e95312cbc4566868adbc1424a40de9f95e4b1dd9d1b834e7",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/339b2c819c...e9ee89d528",
+      "source": "jessfraz",
+      "published_at": "2026-03-10 16:46:16 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "a780afff417af8945d82e54c8c211767ed3acb6de9ced4227ff5e2ad6ceaef33",
+      "title": "jessfraz pushed global-nix",
+      "url": "https://github.com/jessfraz/global-nix/compare/2aa605a613...fb015ddccc",
+      "source": "jessfraz",
+      "published_at": "2026-03-10 01:36:36 UTC",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "e0e79c8a37ae288a336d3e96cecb3865fd1b14530b607332624bb525462cddfc",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/ce9863a3df...0000000000",
+      "url": "https://github.com/KittyCAD/documentation/compare/8eeb029d2a...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:13:19 UTC",
+      "published_at": "2026-03-09 23:42:32 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "596c4a10016f83c7b5fe3b0657c9c8f3df4ecc9d705c07d7a286d8da7b0aad3d",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/3241b1bfa9...ab6f350187",
+      "id": "8b3f05f24a91ce55b50083bad1c9192240b93983885378df05bba18bc8eda76d",
+      "title": "jessfraz pushed documentation",
+      "url": "https://github.com/KittyCAD/documentation/compare/4fa0f8bcf5...339b2c819c",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:13:18 UTC",
+      "published_at": "2026-03-09 23:42:31 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "322fefb5aa6bd793c9680e7a999ed0a8877974d24daaea3077fd2a5598ede072",
+      "id": "cad9d72efb2aa9e9515159967f0ff75a6706bb36e9b36f9ece6c985050964cdf",
       "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/44c230586b...0000000000",
+      "url": "https://github.com/KittyCAD/cli/compare/be77e02847...0000000000",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:57 UTC",
+      "published_at": "2026-03-09 22:57:43 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "ab0163ce2eca78343586ed90ba70a3b4a1f67d14a50dd572acce9eeb93ad97af",
+      "id": "58e499a8f88a63fe89d8cc2d972ac41a230770d10314bea113ea1bc7d5e8b74b",
       "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/40471ce46d...3241b1bfa9",
+      "url": "https://github.com/KittyCAD/cli/compare/a088f211ec...ef527f19dc",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:57 UTC",
+      "published_at": "2026-03-09 22:57:43 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "18c8fb434da98da762e420ec7f2f014eebbe9c31e170eb696f047509c3d5a604",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/515346ee59...0000000000",
+      "id": "23db911edd05ce9edde8d0767991ffb5b0cc30d9eb5f812a159f9f52edfc95d4",
+      "title": "jessfraz pushed kittycad.py",
+      "url": "https://github.com/KittyCAD/kittycad.py/compare/ac63465813...8fb689e46a",
       "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:55 UTC",
+      "published_at": "2026-03-09 22:56:31 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7d861041a22850f657971e1c1e9e16682177d70cdcdb8fb8e940a2cc66aad352",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/243c70ca5a...40471ce46d",
-      "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:55 UTC",
+      "id": "042f16669f6e50a8ac38a383dc02096a16ec0b7cd91e583ab70957ead2c46982",
+      "title": "jvns opened a pull request in lowdown",
+      "url": "https://github.com/kristapsdz/lowdown/pull/180",
+      "source": "jvns",
+      "published_at": "2026-03-10 12:24:09 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "6b2cfe039788b9808b785fc1363871487bb909d398e305a74432b4f67c8d71e2",
-      "title": "jessfraz pushed cli",
-      "url": "https://github.com/KittyCAD/cli/compare/128042a80e...243c70ca5a",
-      "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:37 UTC",
+      "id": "2bff52f1898a079a55210e73ae596df7c6f989814bd035384c2abf897278e834",
+      "title": "jvns created a branch",
+      "url": "https://github.com/jvns/lowdown/compare/0000000000...eed1b4263d",
+      "source": "jvns",
+      "published_at": "2026-03-10 19:21:57 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "50184b018364cde7fec2707cf5aec4bb107c5c59d67ae631af98b7726a9b6856",
-      "title": "jessfraz deleted",
-      "url": "https://github.com/KittyCAD/cli/compare/95139e223b...0000000000",
-      "source": "jessfraz",
-      "published_at": "2026-03-08 01:12:37 UTC",
+      "id": "fd79b66e31637098dd02f541a25b8d98a04e6e4735e7fac22f93ef5df8cc13fc",
+      "title": "jvns forked jvns/lowdown from kristapsdz/lowdown",
+      "url": "https://github.com/jvns/lowdown",
+      "source": "jvns",
+      "published_at": "2026-03-10 12:21:36 -0700",
       "score": 0.0,
       "tags": []
     },
@@ -510,33 +549,6 @@
       "url": "https://github.com/jvns/tcpdump/compare/31b1e468d9...8a343f6db7",
       "source": "jvns",
       "published_at": "2026-02-26 20:12:29 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "1daa5365699bd55310e06b33ca299ee6d033f55ab7334bd5485d80e3147193f6",
-      "title": "jvns pushed tcpdump",
-      "url": "https://github.com/jvns/tcpdump/compare/37872208be...31b1e468d9",
-      "source": "jvns",
-      "published_at": "2026-02-26 20:12:03 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "6298d13b68934f16f5c82e329fc9bcea90761b1efd6e3641a56e68a17f2a176f",
-      "title": "jvns commented on pull request the-tcpdump-group/tcpdump#1413",
-      "url": "https://github.com/the-tcpdump-group/tcpdump/pull/1413#discussion_r2861036766",
-      "source": "jvns",
-      "published_at": "2026-02-26 20:00:38 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "28e2262ad4620a10f98ac1478569083276273c1a2cb885f0204cef70b99e5f0d",
-      "title": "jvns commented on pull request the-tcpdump-group/tcpdump#1413",
-      "url": "https://github.com/the-tcpdump-group/tcpdump/pull/1413#discussion_r2860799290",
-      "source": "jvns",
-      "published_at": "2026-02-26 19:02:13 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -631,6 +643,15 @@
       "tags": []
     },
     {
+      "id": "5b6ef47809f57935ca4e602fffba4f288d67735ed5c863f037c96efde2e194c1",
+      "title": "munificent contributed to dart-lang/dart_style",
+      "url": "https://github.com/dart-lang/dart_style/pull/1807",
+      "source": "munificent",
+      "published_at": "2026-03-09 15:43:09 -0700",
+      "score": 0.0,
+      "tags": []
+    },
+    {
       "id": "106c4010f624a54cd30bc016cf8e8d0b7727e757468f4e761d29ace34541debc",
       "title": "munificent commented on an issue in sdk",
       "url": "https://github.com/dart-lang/sdk/issues/62768#issuecomment-3963369757",
@@ -712,101 +733,92 @@
       "tags": []
     },
     {
-      "id": "4da8270b2a8f1d40f6515387bc99dc550b4f00617ae82532cae508a930c642b0",
-      "title": "munificent commented on an issue in sdk",
-      "url": "https://github.com/dart-lang/sdk/issues/62765#issuecomment-3962934976",
-      "source": "munificent",
-      "published_at": "2026-02-25 15:43:52 -0800",
+      "id": "d3a53788da37b36b252f3355b3cc659668aeab59301e6dfb36addfbfe80018c4",
+      "title": "andrewrk pushed dvui",
+      "url": "https://github.com/david-vanderson/dvui/compare/0a9d1520ed...90faef537a",
+      "source": "andrewrk",
+      "published_at": "2026-03-10 23:18:43 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "2dd9b204c5beb80792b625ace9f9ca88102821dc180aefac45ffa396c05550cb",
-      "title": "andrewrk closed an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/20283",
+      "id": "74b8d2f3c9649768d5d922cab1011a4f1a16de729fed97357af58eb90e8c876c",
+      "title": "andrewrk pushed dvui",
+      "url": "https://github.com/andrewrk/dvui/compare/0a9d1520ed...90faef537a",
       "source": "andrewrk",
-      "published_at": "2026-03-05 19:34:40 -0800",
+      "published_at": "2026-03-10 23:18:29 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "a1339d3b4973902c651bc08a13ce91c335aefb264b974a036dead738b5e4f98b",
-      "title": "andrewrk commented on an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/20283#issuecomment-4009320317",
+      "id": "1a29084387638aff2a9d4a687a026c99427949999f53fd0d402716ceaa3e9d63",
+      "title": "andrewrk pushed libvaxis",
+      "url": "https://github.com/andrewrk/libvaxis/compare/06917890fe...c0d9aaa40d",
       "source": "andrewrk",
-      "published_at": "2026-03-05 19:34:37 -0800",
+      "published_at": "2026-03-10 23:17:17 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "db443a186bf69d5ad6666841513f5414cc46b8370c05d0afa3fd329f3baefb54",
-      "title": "andrewrk pushed cpython",
-      "url": "https://github.com/allyourcodebase/cpython/compare/6f721cba24...0db98839c9",
+      "id": "65e846aa883c90c2d4ff3fabeda6f733f079131e5d7182fe267d215f58989237",
+      "title": "andrewrk pushed zig-lib-svg2tvg",
+      "url": "https://github.com/andrewrk/zig-lib-svg2tvg/compare/7b382a8d3e...9d0044073e",
       "source": "andrewrk",
-      "published_at": "2026-03-01 04:23:52 UTC",
+      "published_at": "2026-03-10 23:14:16 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "1ead1fb5a9ec61f2c068b9a195cd219eb05423bc3c59b5964e8d9326ed0499f0",
-      "title": "andrewrk deleted",
-      "url": "https://github.com/allyourcodebase/cpython/compare/6f721cba24...0000000000",
+      "id": "0950047d9d6e30c3d9f08ac2dd2094408e6dc52007aed3393d8fb290f8d3a520",
+      "title": "andrewrk forked andrewrk/zig-lib-svg2tvg from nat3Github/zig-lib-svg2tvg",
+      "url": "https://github.com/andrewrk/zig-lib-svg2tvg",
       "source": "andrewrk",
-      "published_at": "2026-03-01 03:49:12 UTC",
+      "published_at": "2026-03-10 16:11:09 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "a9a2c4dc31349fb1fa96e39abb6fb4f177e4e32824833b33742ab0f438b394c2",
-      "title": "andrewrk pushed StaticHttpFileServer",
-      "url": "https://github.com/andrewrk/StaticHttpFileServer/compare/eb0854fe2d...2f06c4346f",
+      "id": "6d87f2147402f43e79f76c893c5062546634b58d694fd9500e09e9c4495d681b",
+      "title": "andrewrk pushed uucode",
+      "url": "https://github.com/andrewrk/uucode/compare/b8aa6f5136...09e302c1a8",
       "source": "andrewrk",
-      "published_at": "2026-03-01 01:26:13 UTC",
+      "published_at": "2026-03-10 23:08:59 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "ff34381c709295a41895cafc3cbbbce12027337b31eac5ab1cfccd5f2e150477",
-      "title": "andrewrk pushed www.ziglang.org",
-      "url": "https://github.com/ziglang/www.ziglang.org/compare/c98968cf59...eded822904",
+      "id": "e0e5b3498044b11b18bb935024c8c56a837c1e20f2795f2a25ce2ff1dce9c433",
+      "title": "andrewrk pushed tetris",
+      "url": "https://github.com/andrewrk/tetris/compare/15456092b4...3eec271c17",
       "source": "andrewrk",
-      "published_at": "2026-02-28 04:27:09 UTC",
+      "published_at": "2026-03-10 19:00:57 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "f006c6e60f473b2f6c4e8e1d23811618c456032458019472964abe802d356cdd",
-      "title": "andrewrk pushed www.ziglang.org",
-      "url": "https://github.com/ziglang/www.ziglang.org/compare/d0a2f61cb0...c98968cf59",
+      "id": "1c14f079793c52f3d90b1a3ed9f95b5c4c72b650adb72c944d01ac4163982e57",
+      "title": "andrewrk opened a pull request in tetris",
+      "url": "https://github.com/andrewrk/tetris/pull/57",
       "source": "andrewrk",
-      "published_at": "2026-02-27 06:15:40 UTC",
+      "published_at": "2026-03-10 11:11:22 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "485efb7fb6fe2d6882bd0a80a7058821487e4d995212d5f326a8a173131f0eb7",
-      "title": "andrewrk commented on an issue in llvm-project",
-      "url": "https://github.com/llvm/llvm-project/issues/181529#issuecomment-3968424109",
+      "id": "95bcfa0549b9402fe9506ccb04dc49681ac40c83e529effbabf4c4b04b8df04d",
+      "title": "andrewrk opened a pull request in tetris",
+      "url": "https://github.com/andrewrk/tetris/pull/56",
       "source": "andrewrk",
-      "published_at": "2026-02-26 10:27:00 -0800",
+      "published_at": "2026-03-10 11:09:56 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "f402decd98fef1c0c3365d42df28156c18cb373eac58d556d545e4d2f0e4f2d0",
-      "title": "andrewrk commented on an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/20816#issuecomment-3961491258",
+      "id": "93b0fee63a23566df7744281f75af07303059a4f8fd57460142fd29dc223a7c6",
+      "title": "andrewrk created a branch",
+      "url": "https://github.com/andrewrk/tetris/compare/0000000000...15456092b4",
       "source": "andrewrk",
-      "published_at": "2026-02-25 11:24:49 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "7841ce0f97b112a1fe8c36a53d441f5d911b820806168b13713e226d91c98a28",
-      "title": "andrewrk closed an issue in zig",
-      "url": "https://github.com/ziglang/zig/issues/20816",
-      "source": "andrewrk",
-      "published_at": "2026-02-25 11:24:50 -0800",
+      "published_at": "2026-03-10 18:08:21 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -928,11 +940,29 @@
       "tags": []
     },
     {
-      "id": "5d127dc8e6b4c74fa918cbdb5b9a8ce663e01abd0bb954be6d6621b5a178a56c",
-      "title": "hehonghui pushed awesome-english-ebooks",
-      "url": "https://github.com/hehonghui/awesome-english-ebooks/compare/6b6f56d5ac...1448d8fc3c",
-      "source": "hehonghui",
-      "published_at": "2026-02-06 21:45:47 UTC",
+      "id": "2af38c7e6cca9007f1d09ddcacf37b3f7077dae3fc7d080dd68c27d17156a021",
+      "title": "x1xhlol closed an issue in system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/issues/396",
+      "source": "x1xhlol",
+      "published_at": "2026-03-09 07:31:52 -0700",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "b1735e80e5ffb74111dc1ec4ff19dc1ccf25af1f93a502b12000bf0830c52aad",
+      "title": "x1xhlol closed an issue in system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/issues/397",
+      "source": "x1xhlol",
+      "published_at": "2026-03-09 07:31:04 -0700",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "469d4c343c6d6e0a43df20591decdb1d291276c66a845b221b447fc4d19a39e1",
+      "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/48f777a221...c727405a4e",
+      "source": "x1xhlol",
+      "published_at": "2026-03-09 12:48:58 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -941,7 +971,7 @@
       "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/c933f79895...48f777a221",
       "source": "x1xhlol",
-      "published_at": "2026-03-08 22:37:39 +0800",
+      "published_at": "2026-03-08 14:37:39 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -950,7 +980,7 @@
       "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/dae78f56b0...c933f79895",
       "source": "x1xhlol",
-      "published_at": "2026-03-08 22:33:53 +0800",
+      "published_at": "2026-03-08 14:33:53 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -968,7 +998,7 @@
       "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/c4968cfa9f...dae78f56b0",
       "source": "x1xhlol",
-      "published_at": "2026-03-05 23:28:07 +0800",
+      "published_at": "2026-03-05 15:28:07 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -977,7 +1007,7 @@
       "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/54d15eaf1e...c4968cfa9f",
       "source": "x1xhlol",
-      "published_at": "2026-03-04 23:04:00 +0800",
+      "published_at": "2026-03-04 15:04:00 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -986,7 +1016,7 @@
       "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/fc650ea94f...54d15eaf1e",
       "source": "x1xhlol",
-      "published_at": "2026-03-04 23:01:50 +0800",
+      "published_at": "2026-03-04 15:01:50 UTC",
       "score": 0.0,
       "tags": []
     },
@@ -1000,128 +1030,101 @@
       "tags": []
     },
     {
-      "id": "b59ed9b667a016f2dbfb990917ff3840862718db5e328bc7a7713e6c22b45587",
-      "title": "x1xhlol closed a pull request in system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/pull/389",
-      "source": "x1xhlol",
-      "published_at": "2026-03-02 02:01:57 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "89cfef80936ebd31b477136a2695ba73911bb881892d44d242b7b94d72f94e48",
-      "title": "x1xhlol pushed system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/compare/ae37329aea...fc650ea94f",
-      "source": "x1xhlol",
-      "published_at": "2026-03-04 23:00:35 +0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "67d1e0e9788581b6fc91714fb5e8f95b16752e196b3f8fd43c674538edc2df8d",
-      "title": "x1xhlol closed a pull request in system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/pull/390",
-      "source": "x1xhlol",
-      "published_at": "2026-03-01 09:12:12 -0800",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "15711fcc3c17af9bb0d2c1650394efd4d95f7fe4995a5a310631d33010987713",
+      "id": "0afc826ca7d0126d3a4e748d051c52ed5d9ddb7b41b899bcd15d9294dc523d3b",
       "title": "hoowhoami commented on an issue in EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/issues/14#issuecomment-4019266181",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/22#issuecomment-4033308733",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 08:28:34 -0700",
+      "published_at": "2026-03-10 10:45:38 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "8350ba912a770134bccf4178c1b37b21688a288dd2c11b92c51aafbe36ce9df2",
+      "id": "d5d14b58951e9e3f6824d4eb5f61495ebba330a68765b44c2661a47f31bbfa3c",
+      "title": "hoowhoami closed an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/22",
+      "source": "hoowhoami",
+      "published_at": "2026-03-10 10:45:38 -0700",
+      "score": 0.0,
+      "tags": []
+    },
+    {
+      "id": "02da9d245d91bdab03b2f79b42e6d1a450a5ccb62a8367d4460eb289c7d8e633",
       "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/b353d68113...fc5813b0f6",
+      "url": "https://github.com/hoowhoami/EchoMusic/compare/f29b4d8a5d...ec91d0832d",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 15:26:33 UTC",
+      "published_at": "2026-03-10 17:37:31 UTC",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "eb6be52a91bc490fc76747537faf752f7bab975724bddfb8cf61b282d459b29e",
-      "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/41e694a521...b353d68113",
-      "source": "hoowhoami",
-      "published_at": "2026-03-08 12:58:24 UTC",
-      "score": 0.0,
-      "tags": []
-    },
-    {
-      "id": "61d969eb8a385845d1afc721f70d9d7ceca4f026e21fe986c3f82c815a2aa5be",
+      "id": "d5d14b58951e9e3f6824d4eb5f61495ebba330a68765b44c2661a47f31bbfa3c",
       "title": "hoowhoami labeled an issue in EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/issues/13",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/22",
       "source": "hoowhoami",
-      "published_at": "2026-03-07 22:40:10 -0800",
+      "published_at": "2026-03-10 09:20:53 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "a600995d9ed1c08747f5b0c3606a3ac20f41a572909bf25a9f4dfd5af1b45b1f",
+      "id": "6e68ed4b119ee00a46a957f349cb0edabee74eb8f3743c592d8e6321a133ef55",
       "title": "hoowhoami commented on an issue in EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/issues/13#issuecomment-4018500641",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/20#issuecomment-4032522484",
       "source": "hoowhoami",
-      "published_at": "2026-03-07 22:40:02 -0800",
+      "published_at": "2026-03-10 08:51:06 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "7ecdd696112b78d272eed8d160dacdd3b6fd0748748e96a97b21b1d8187fceb6",
-      "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/231f221d81...885786e9bb",
+      "id": "b4ce24262a07a7d821d5646dccb93eaadccd53e83aeb2beaa48634fa8249188a",
+      "title": "hoowhoami labeled an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/21",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 05:28:58 UTC",
+      "published_at": "2026-03-10 08:50:33 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "f503c5c1ad49f3269b8462b74161cbdea7ab337cf3195cbd47de0291c3d4f330",
-      "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/fefd3188c4...41e694a521",
+      "id": "29c8ad33d2b6772b112904140ceb4766f36014bf1e0052ec0034e3ca5d5c2b04",
+      "title": "hoowhoami commented on an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/21#issuecomment-4032516284",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 05:17:00 UTC",
+      "published_at": "2026-03-10 08:50:25 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "67849c6180152f3d2c7fe22d7296ff552508de520e56a96837e2aca0b9efa581",
-      "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/a986f6ac89...fefd3188c4",
+      "id": "aea7ee8f133fc83d7bc3f6f8eacff8f41ea43f496e048b0881df220dd7671ec2",
+      "title": "hoowhoami commented on an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/20#issuecomment-4032464215",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 04:24:19 UTC",
+      "published_at": "2026-03-10 08:44:23 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "71fbc7a9a53e55a4c23823d05aab87f947f13d6ebd46fa298fa57f81f85578be",
-      "title": "hoowhoami pushed EchoMusic",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/aaeb33eec1...a986f6ac89",
+      "id": "c32ed3c929b012912056d6eb066c21206926ff29579dd1b538b5ac2b68d5fe95",
+      "title": "hoowhoami commented on an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/21#issuecomment-4032449819",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 04:01:12 UTC",
+      "published_at": "2026-03-10 08:43:02 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "423c710b27b459ddaf11b8c68c83c4648961e6323d3a1d2129da8a4bfea4ebf4",
-      "title": "hoowhoami deleted",
-      "url": "https://github.com/hoowhoami/EchoMusic/compare/81d87ebea1...0000000000",
+      "id": "4ff7819eb049a334cf9caea9c4dc3eb0016ef587ebfcb6d0df675c9ebcfc8361",
+      "title": "hoowhoami commented on an issue in EchoMusic",
+      "url": "https://github.com/hoowhoami/EchoMusic/issues/21#issuecomment-4032359157",
       "source": "hoowhoami",
-      "published_at": "2026-03-08 03:48:14 UTC",
+      "published_at": "2026-03-10 08:34:35 -0700",
       "score": 0.0,
       "tags": []
     },
     {
-      "id": "937d6214096735b4ac7c9f9fcdc3662f5ac5d501de75b0e7813cc87b45e7947d",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
+      "id": "43591d3bdb3f3bfa57b4f65d656331a58244ee6f0e6a8484537a57be27edd0ee",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
       "source": "OpenAI",
-      "published_at": "2026-03-06T18:00:00+08:00",
+      "published_at": "2026-03-10T19:00:00+08:00",
       "score": 0.0,
       "tags": [
         "blog",
@@ -1129,14 +1132,14 @@
         "LLM",
         "research"
       ],
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
     },
     {
-      "id": "5bd08c4ff5b22ccff27b31d2756f75c4f08f06a39042ba860244d2a6fadf7e51",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "id": "4d9c8f1a2eb4040d0be0230addb2b39eae2efc996274838830c68998f1aa4bea",
+      "title": "New ways to learn math and science in ChatGPT",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
       "source": "OpenAI",
-      "published_at": "2026-03-06T18:00:00+08:00",
+      "published_at": "2026-03-10T18:00:00+08:00",
       "score": 0.0,
       "tags": [
         "blog",
@@ -1144,14 +1147,808 @@
         "LLM",
         "research"
       ],
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
     },
     {
-      "id": "2a55fdd86a1add5e9d47091ff1fe1f88e7ae2cb89de946ce2ef42a0659454a98",
-      "title": "How Balyasny Asset Management built an AI research engine for investing",
-      "url": "https://openai.com/index/balyasny-asset-management",
+      "id": "b8627d99453c0293126f7663569ccb0d89870b7fc1b83cf0d5231454e063785f",
+      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.06587",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06587v1 Announce Type: new Abstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY and XOP options, we evaluate models using realized path delta hedging outcome distributions, shortfall probability, and tail risk measures such as Expected Shortfall. Empirically, RLOP reduces shortfall frequency in most slices and shows the clearest tail-risk improvements in stress, while implied vo…"
+    },
+    {
+      "id": "924adfc351dc0bdfc29d3318c55bf6e16d395e994ff9fd2e67a3ca2c32b91709",
+      "title": "Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research",
+      "url": "https://arxiv.org/abs/2603.06608",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06608v1 Announce Type: new Abstract: The research community lacks a middle ground between StarCraft IIs full game and its mini-games. The full-games sprawling state-action space renders reward signals sparse and noisy, but in mini-games simple agents saturate performance. This complexity gap hinders steady curriculum design and prevents researchers from experimenting with modern Reinforcement Learning algorithms in RTS environments under realistic compute budgets. To fill this gap, we present the Two-Bridge Map Suite, the first entry in an open-source benchmark series we purposely engineered as an intermediate benchmark to sit between these extremes. By disabling economy mechanics such as resource collection, base building, and fog-of-war, the environment isolates two core tacti…"
+    },
+    {
+      "id": "e006f71adf6646c7dfeffd1c45f07f61c8c015550a8c8392964ea2432c0a8f4f",
+      "title": "MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines",
+      "url": "https://arxiv.org/abs/2603.06679",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06679v1 Announce Type: new Abstract: Video world models have shown immense promise for interactive simulation and entertainment, but current systems still struggle with two important aspects of interactivity: user control over the environment for reproducible, editable experiences, and shared inference where players hold influence over a common world. To address these limitations, we introduce an explicit external memory into the system, a persistent state operating independent of the model's context window, that is continually updated by user actions and queried throughout the generation roll-out. Unlike conventional diffusion game engines that operate as next-frame predictors, our approach decomposes generation into Memory, Observation, and Dynamics modules. This design gives…"
+    },
+    {
+      "id": "873edec41385ad72d3eea1d2023441d63ff2a1a483c944d2e578ac32d7e22db5",
+      "title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
+      "url": "https://arxiv.org/abs/2603.06797",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06797v1 Announce Type: new Abstract: Inference-time alignment effectively steers large language models (LLMs) by generating multiple candidates from a reference model and selecting among them with an imperfect reward model. However, current strategies face a fundamental dilemma: ``optimistic'' approaches like Best-of-$N$ suffer from reward hacking, while ``pessimistic'' regularized methods often stifle the exploration needed to discover high-quality responses. In this work, we formalize this trade-off through the lens of regret minimization, demonstrating that the optimal strategy depends critically on the tail behavior of the reward distribution. We show theoretically that light-tailed regimes favor optimism to unearth high-quality outliers, whereas heavy-tailed regimes require…"
+    },
+    {
+      "id": "9a4e5ea6579e13a75aecf5f0a2eb5bd426f7a6c5ac2758e67dc2520e104898f6",
+      "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+      "url": "https://arxiv.org/abs/2603.06801",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06801v1 Announce Type: new Abstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:standard MAD cannot improve belief correctness beyond majority voting; we refer to this as the Martingale Curse. This curse arises because correlated errors cause agents to converge toward erroneous consensus, where debate merely reinforces collective mistakes rather than filtering noise. We propose AceMAD, a framework that breaks the Martingale Curse by harnessing asymmetric cognitive potential energy to transform MAD from a random walk into a directed convergence process with positive drift. Through a peer-prediction mechanism, agents predict their peers' belief distributions, revealing asymmet…"
+    },
+    {
+      "id": "6f5222e408e5aaf625a192e370b0e48f6a270b499c571e82a6a1988a9ce2394a",
+      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+      "url": "https://arxiv.org/abs/2603.06811",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06811v1 Announce Type: new Abstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the deployment decision making process. Context specification turns diffuse stakeholder perspectives about what matters in a given setting into clear, named constructs: explicit definitions of the properties, behaviors, and outcomes that evaluations aim to capture, so they can be observed and measured i…"
+    },
+    {
+      "id": "c79eafeb0938ce8bea2837f6ce54bc8234218a09a022868f0b4907e84f82c3bd",
+      "title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
+      "url": "https://arxiv.org/abs/2603.06813",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06813v1 Announce Type: new Abstract: Reusable decision structure survives across episodes in reinforcement learning, but this depends on how the agent--world boundary is drawn. In stationary, finite-horizon MDPs, an invariant core: the (not-necessarily contiguous) subsequences of state--action pairs shared by all successful trajectories (optionally under a simple abstraction) can be constructed. Under mild goal-conditioned assumptions, it's existence can be proven and explained by how the core captures prototypes that transfer across episodes. When the same task is embedded in a decentralized Markov game and the peer agent is folded into the world, each peer-policy update induces a new MDP; the per-episode invariant core can shrink or vanish, even with small changes to the induc…"
+    },
+    {
+      "id": "cb2298da78f01d7f38510224af97647bcc044816d8e1fcb2d3ee24306887376b",
+      "title": "Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations",
+      "url": "https://arxiv.org/abs/2603.06869",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06869v1 Announce Type: new Abstract: Discovering compact governing equations from experimental observations is one of the defining objectives of quantitative science, yet practical discovery pipelines routinely fail when measurements are noisy, relevant state variables are unobserved, or multiple symbolic structures explain the data equally well within statistical uncertainty. Here we introduce SymLang (Symmetry-constrained Language-guided equation discovery), a unified framework that brings together three previously separate ideas: (i) typed symmetry-constrained grammars that encode dimensional analysis, group-theoretic invariance, and parity constraints as hard production rules, eliminating on average 71.3% of candidate expression trees before any fitting; (ii) language-model-…"
+    },
+    {
+      "id": "8907a56389a65bbaaf28b83df32e5d45830974026e573f7becb2976d6370bf53",
+      "title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+      "url": "https://arxiv.org/abs/2603.06870",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06870v1 Announce Type: new Abstract: Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a \"no-recovery bottleneck\". We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few \"hard\" steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating overlapping rollouts, LEAD provides enough isolation to maintain stability while retaining enough local context to correct errors. This enables the o4-mini model…"
+    },
+    {
+      "id": "e0d68c84bffebe047c905b8ca8e3126c6cf980feb742026ac15033ed3481b5cf",
+      "title": "LieCraft: A Multi-Agent Framework for Evaluating Deceptive Capabilities in Language Models",
+      "url": "https://arxiv.org/abs/2603.06874",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06874v1 Announce Type: new Abstract: Large Language Models (LLMs) exhibit impressive general-purpose capabilities but also introduce serious safety risks, particularly the potential for deception as models acquire increased agency and human oversight diminishes. In this work, we present LieCraft: a novel evaluation framework and sandbox for measuring LLM deception that addresses key limitations of prior game-based evaluations. At its core, LieCraft is a novel multiplayer hidden-role game in which players select an ethical alignment and execute strategies over a long time-horizon to accomplish missions. Cooperators work together to solve event challenges and expose bad actors, while Defectors evade suspicion while secretly sabotaging missions. To enable real-world relevance, we d…"
+    },
+    {
+      "id": "cdbbffd0e80c4ebebf476ff8fff1e291822e6961b972bc9963eb4d2ca2024b4c",
+      "title": "Not Too Short, Not Too Long: How LLM Response Length Shapes People's Critical Thinking in Error Detection",
+      "url": "https://arxiv.org/abs/2603.06878",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06878v1 Announce Type: new Abstract: Large language models (LLMs) have become common decision-support tools across educational and professional contexts, raising questions about how their outputs shape human critical thinking. Prior work suggests that the amount of AI assistance can influence cognitive engagement, yet little is known about how specific properties of LLM outputs (e.g., response length) impacts users' critical evaluation of information. In this study, we examine whether the length of LLM responses shapes users' accuracy in evaluating LLM-generated reasoning on critical thinking tasks, particularly in interaction with the correctness of the LLM's reasoning. To begin evaluating this, we conducted a within-subjects experiment with 24 participants who completed 15 mod…"
+    },
+    {
+      "id": "df0808f548b2b5301e4cdf36e4ca8209b43a8e77185cd221863ab0c08584a876",
+      "title": "Distributed Legal Infrastructure for a Trustworthy Agentic Web",
+      "url": "https://arxiv.org/abs/2603.06884",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06884v1 Announce Type: new Abstract: The agentic web marks a structural transition from a human-centered information network to a digital environment populated by artificial intelligence (AI) agents that perceive, decide, and act autonomously. As delegated action unfolds at machine speed, exceeds discrete moments of human judgment, and distributes decision-making across non-human actors, existing legal frameworks face growing strain, creating an urgent need for new mechanisms capable of sustaining legality in this emerging order. A trustworthy agentic web therefore depends on the infrastructuring of legality through interoperable protocols that organize identity, delegation, and accountability across systems, enabling coherent governance beyond isolated platforms. Towards this e…"
+    },
+    {
+      "id": "ce5b1936b3a1901c822d3077bb8f5dcbb6b324f5dba2a9018ec464b741bb396b",
+      "title": "vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM",
+      "url": "https://arxiv.org/abs/2603.06588",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06588v1 Announce Type: new Abstract: Modern artificial intelligence (AI) models are deployed on inference engines to optimize runtime efficiency and resource allocation, particularly for transformer-based large language models (LLMs). The vLLM project is a major open-source library to support model serving and inference. However, the current implementation of vLLM limits programmability of the internal states of deployed models. This prevents the use of popular test-time model alignment and enhancement methods. For example, it prevents the detection of adversarial prompts based on attention patterns or the adjustment of model responses based on activation steering. To bridge this critical gap, we present vLLM Hook, an opensource plug-in to enable the programming of internal stat…"
+    },
+    {
+      "id": "b0e610bef360b25de2422ef0957e217d9156577b5aea3cd7a47e561e49a5d49f",
+      "title": "How Attention Sinks Emerge in Large Language Models: An Interpretability Perspective",
+      "url": "https://arxiv.org/abs/2603.06591",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06591v1 Announce Type: new Abstract: Large Language Models (LLMs) often allocate disproportionate attention to specific tokens, a phenomenon commonly referred to as the attention sink. While such sinks are generally considered detrimental, prior studies have identified a notable exception: the model's consistent emphasis on the first token of the input sequence. This structural bias can influence a wide range of downstream applications and warrants careful consideration. Despite its prevalence, the precise mechanisms underlying the emergence and persistence of attention sinks remain poorly understood. In this work, we trace the formation of attention sinks around the first token of the input. We identify a simple mechanism, referred to as the P0 Sink Circuit, that enables the mo…"
+    },
+    {
+      "id": "534f525a0df537758b2039e4ce0d93025ed73b2fd456431ad65ef68e51e657f4",
+      "title": "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures",
+      "url": "https://arxiv.org/abs/2603.06600",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06600v1 Announce Type: new Abstract: Vision Language Models (VLMs) are prone to errors, and identifying where these errors occur is critical for ensuring the reliability and safety of AI systems. In this paper, we propose an approach that automatically generates questions designed to deliberately induce incorrect responses from VLMs, thereby revealing their vulnerabilities. The core of this approach lies in fuzz testing and reinforcement finetuning: we transform a single input query into a large set of diverse variants through vision and language fuzzing. Based on the fuzzing outcomes, the question generator is further instructed by adversarial reinforcement fine-tuning to produce increasingly challenging queries that trigger model failures. With this approach, we can consistent…"
+    },
+    {
+      "id": "8528077cc3822bc9d1cc7b1026da9bb3757d2fffeed1e369180896545fb90e92",
+      "title": "Switchable Activation Networks",
+      "url": "https://arxiv.org/abs/2603.06601",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06601v1 Announce Type: new Abstract: Deep neural networks, and more recently large-scale generative models such as large language models (LLMs) and large vision-action models (LVAs), achieve remarkable performance across diverse domains, yet their prohibitive computational cost hinders deployment in resource-constrained environments. Existing efficiency techniques offer only partial remedies: dropout improves regularization during training but leaves inference unchanged, while pruning and low-rank factorization compress models post hoc into static forms with limited adaptability. Here we introduce SWAN (Switchable Activation Networks), a framework that equips each neural unit with a deterministic, input-dependent binary gate, enabling the network to learn when a unit should be a…"
+    },
+    {
+      "id": "25154986b78d6f2b547893cafe9289dcef292d35ab29e231b47011de06cdba31",
+      "title": "Khatri-Rao Clustering for Data Summarization",
+      "url": "https://arxiv.org/abs/2603.06602",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06602v1 Announce Type: new Abstract: As datasets continue to grow in size and complexity, finding succinct yet accurate data summaries poses a key challenge. Centroid-based clustering, a widely adopted approach to address this challenge, finds informative summaries of datasets in terms of few prototypes, each representing a cluster in the data. Despite their wide adoption, the resulting data summaries often contain redundancies, limiting their effectiveness particularly in datasets characterized by a large number of underlying clusters. To overcome this limitation, we introduce the Khatri-Rao clustering paradigm that extends traditional centroid-based clustering to produce more succinct but equally accurate data summaries by postulating that centroids arise from the interaction…"
+    },
+    {
+      "id": "9ad2cca13dc1c1cbf07a81b2250be9cb977531fc2e34fdfe4538afb88cac203f",
+      "title": "Scale Dependent Data Duplication",
+      "url": "https://arxiv.org/abs/2603.06603",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06603v1 Announce Type: new Abstract: Data duplication during pretraining can degrade generalization and lead to memorization, motivating aggressive deduplication pipelines. However, at web scale, it is unclear what constitutes a ``duplicate'': beyond surface-form matches, semantically equivalent documents (e.g. translations) may induce redundant training signals once models become sufficiently capable. Practically, this means that semantic duplicates operate increasingly like exact duplicates during training. We present evidence that duplication is scale-dependent in two ways. First, as model capability increases, cross-entropy loss gradients for semantically equivalent documents become more aligned. Smaller models, by contrast, produce gradients that reflect surface similarity…"
+    },
+    {
+      "id": "3a61d082a17876fc98f4e3ca581c114cc1448b02d8828deb09d1616b7e8e166f",
+      "title": "Know When You're Wrong: Aligning Confidence with Correctness for LLM Error Detection",
+      "url": "https://arxiv.org/abs/2603.06604",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06604v1 Announce Type: new Abstract: As large language models (LLMs) are increasingly deployed in critical decision-making systems, the lack of reliable methods to measure their uncertainty presents a fundamental trustworthiness risk. We introduce a normalized confidence score based on output anchor token probabilities: classification labels for structured tasks and self-evaluation responses (Yes/No) for open-ended generation. This enables direct detection of errors and hallucinations with minimal overhead and without external validation. We make three key contributions. First, we propose a normalized confidence score and self-evaluation framework that exposes reliable confidence estimates for error detection across seven diverse benchmark tasks and five LLMs of varying architec…"
+    },
+    {
+      "id": "bcaff93ab1abe5f1ac09ef55686f349ceaebafcb56188fa1de7ffbff888ed596",
+      "title": "Structure-Aware Set Transformers: Temporal and Variable-Type Attention Biases for Asynchronous Clinical Time Series",
+      "url": "https://arxiv.org/abs/2603.06605",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06605v1 Announce Type: new Abstract: Electronic health records (EHR) are irregular, asynchronous multivariate time series. As time-series foundation models increasingly tokenize events rather than discretizing time, the input layout becomes a key design choice. Grids expose time$\\times$variable structure but require imputation or missingness masks, risking error or sampling-policy shortcuts. Point-set tokenization avoids discretization but loses within-variable trajectories and time-local cross-variable context (Fig.1). We restore these priors in STructure-AwaRe (STAR) Set Transformer by adding parameter-efficient soft attention biases: a temporal locality penalty $-|\\Delta t|/\\tau$ with learnable timescales and a variable-type affinity $B_{s_i,s_j}$ from a learned feature-compa…"
+    },
+    {
+      "id": "24dc623f13014f2e16304aaf44d8672476f2e86be7bcbe64fdf4e833d1366ff4",
+      "title": "LegoNet: Memory Footprint Reduction Through Block Weight Clustering",
+      "url": "https://arxiv.org/abs/2603.06606",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06606v1 Announce Type: new Abstract: As the need for neural network-based applications to become more accurate and powerful grows, so too does their size and memory footprint. With embedded devices, whose cache and RAM are limited, this growth hinders their ability to leverage state-of-the-art neural network architectures. In this work, we propose \\textbf{LegoNet}, a compression technique that \\textbf{constructs blocks of weights of the entire model regardless of layer type} and clusters these induced blocks. Using blocks instead of individual values to cluster the weights, we were able to compress ResNet-50 trained for Cifar-10 and ImageNet with only 32 4x4 blocks, compressing the memory footprint by over a factor of \\textbf{64x without having to remove any weights} or changing…"
+    },
+    {
+      "id": "103cc49834fbcd40c0483b6755ba316c77cc67ec21ec19b4491d29f8219252ab",
+      "title": "Valid Feature-Level Inference for Tabular Foundation Models via the Conditional Randomization Test",
+      "url": "https://arxiv.org/abs/2603.06609",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06609v1 Announce Type: new Abstract: Modern machine learning models are highly expressive but notoriously difficult to analyze statistically. In particular, while black-box predictors can achieve strong empirical performance, they rarely provide valid hypothesis tests or p-values for assessing whether individual features contain information about a target variable. This article presents a practical approach to feature-level hypothesis testing that combines the Conditional Randomization Test (CRT) with TabPFN, a probabilistic foundation model for tabular data. The resulting procedure yields finite-sample valid p-values for conditional feature relevance, even in nonlinear and correlated settings, without requiring model retraining or parametric assumptions."
+    },
+    {
+      "id": "9bf669fbcf74ff160c7526d4b8bb4321730c75d36ab95f46cec73000f62b1281",
+      "title": "CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2603.06610",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06610v1 Announce Type: new Abstract: Large language model (LLM) post-training enhances latent skills, unlocks value alignment, improves performance, and enables domain adaptation. Unfortunately, post-training is known to induce forgetting, especially in the ubiquitous use-case of leveraging third-party pre-trained models, which is typically understood as a loss of parametric or factual knowledge. We argue that this accuracy-centric view is insufficient for modern foundation models and instead define forgetting as systematic model drift that degrades behavior and user experience. In this context, we introduce \\textbf{CapTrack}, a capability-centric framework for analyzing forgetting in LLMs that combines a behavioral taxonomy with an evaluation suite built on established benchmar…"
+    },
+    {
+      "id": "f9872ca8466bf6f767fc25b49b06bd64b7e419462964a64abd59bf3787afd775",
+      "title": "Consensus is Not Verification: Why Crowd Wisdom Strategies Fail for LLM Truthfulness",
+      "url": "https://arxiv.org/abs/2603.06612",
+      "source": "arXiv cs.LG",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ],
+      "summary": "arXiv:2603.06612v1 Announce Type: new Abstract: Pass@k and other methods of scaling inference compute can improve language model performance in domains with external verifiers, including mathematics and code, where incorrect candidates can be filtered reliably. This raises a natural question: can we similarly scale compute to elicit gains in truthfulness for domains without convenient verification? We show that across five benchmarks and models, surprisingly, it cannot. Even at 25x the inference cost of naive sampling, polling-style aggregation yields no consistent accuracy gains over single-sample baselines and often amplifies shared misconceptions. We find that under uncertainty, models are better at predicting what other models will say within model ensembles than at identifying what is…"
+    },
+    {
+      "id": "c6cd50e08a32c8e631b105de82131811dc711272d00203ef7f9c93168111e6ad",
+      "title": "ARC-AGI-2 Technical Report",
+      "url": "https://arxiv.org/abs/2603.06590",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06590v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus (ARC) is designed to assess generalization beyond pattern matching, requiring models to infer symbolic rules from very few examples. In this work, we present a transformer-based system that advances ARC performance by combining neural inference with structure-aware priors and online task adaptation. Our approach is built on four key ideas. First, we reformulate ARC reasoning as a sequence modeling problem using a compact task encoding with only 125 tokens, enabling efficient long-context processing with a modified LongT5 architecture. Second, we introduce a principled augmentation framework based on group symmetries, grid traversals, and automata perturbations, enforcing invariance to representation change…"
+    },
+    {
+      "id": "15a54981a30b1ddbe377bb0eb9135cb50302fc4e8aefdac7e00414cc194eeab1",
+      "title": "Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale",
+      "url": "https://arxiv.org/abs/2603.06592",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06592v1 Announce Type: new Abstract: Contemporary studies have uncovered many puzzling phenomena in the neural information processing of Transformer-based language models. Building a robust, unified understanding of these phenomena requires disassembling a model within the scope of its training. While the intractable scale of pretraining corpora limits a bottom-up investigation in this direction, simplistic assumptions of the data generation process limit the expressivity and fail to explain complex patterns. In this work, we use probabilistic context-free grammars (PCFGs) to generate synthetic corpora that are faithful and computationally efficient proxies for web-scale text corpora. We investigate the emergence of three mechanistic phenomena: induction heads, function vectors,…"
+    },
+    {
+      "id": "856d7fbb3f3f0948aff270d65c16155fcb4e78cec03296d9f889cb25c0cf5a08",
+      "title": "Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation",
+      "url": "https://arxiv.org/abs/2603.06593",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06593v1 Announce Type: new Abstract: Retrieval-augmented code generation often conditions the decoder on large retrieved code snippets. This ties online inference cost to repository size and introduces noise from long contexts. We present Hierarchical Embedding Fusion (HEF), a two-stage approach to repository representation for code completion. First, an offline cache compresses repository chunks into a reusable hierarchy of dense vectors using a small fuser model. Second, an online interface maps a small number of retrieved vectors into learned pseudo-tokens that are consumed by the code generator. This replaces thousands of retrieved tokens with a fixed pseudo-token budget while preserving access to repository-level information. On RepoBench and RepoEval, HEF with a 1.8B-param…"
+    },
+    {
+      "id": "a581268b55ab949bf168470c397df1f0a46f1fb7be9173505ccd3528bc31301a",
+      "title": "A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness",
+      "url": "https://arxiv.org/abs/2603.06594",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06594v1 Announce Type: new Abstract: Automated \\enquote{LLM-as-a-Judge} frameworks have become the de facto standard for scalable evaluation across natural language processing. For instance, in safety evaluation, these judges are relied upon to evaluate harmfulness in order to benchmark the robustness of safety against adversarial attacks. However, we show that existing validation protocols fail to account for substantial distribution shifts inherent to red-teaming: diverse victim models exhibit distinct generation styles, attacks distort output patterns, and semantic ambiguity varies significantly across jailbreak scenarios. Through a comprehensive audit using 6642 human-verified labels, we reveal that the unpredictable interaction of these shifts often causes judge performance…"
+    },
+    {
+      "id": "1dbf353d5b1cd2d53cbde3dc9395a29310dd960f80ecca5bb6bdfeb487a511de",
+      "title": "Rethinking Personalization in Large Language Models at the Token Level",
+      "url": "https://arxiv.org/abs/2603.06595",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06595v1 Announce Type: new Abstract: With large language models (LLMs) now performing strongly across diverse tasks, there is growing demand for them to personalize outputs for individual users. Personalization is typically framed as an additional layer on top of a base NLP task, requiring model responses to meet user-specific needs while still accomplishing the underlying task. From a token-level perspective, different tokens in a response contribute to personalization to varying degrees. Tokens with higher personalization relevance should therefore receive greater emphasis when developing personalized LLMs. However, accurately estimating such personalization degrees remains challenging. To address this challenge, we propose PerContrast, a self-contrast method that estimates ea…"
+    },
+    {
+      "id": "bd7d8ac26739fabef28cb6ae9aab631574558477e48b24fcc27592e7738ec148",
+      "title": "\"Dark Triad\" Model Organisms of Misalignment: Narrow Fine-Tuning Mirrors Human Antisocial Behavior",
+      "url": "https://arxiv.org/abs/2603.06816",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06816v1 Announce Type: new Abstract: The alignment problem refers to concerns regarding powerful intelligences, ensuring compatibility with human preferences and values as capabilities increase. Current large language models (LLMs) show misaligned behaviors, such as strategic deception, manipulation, and reward-seeking, that can arise despite safety training. Gaining a mechanistic understanding of these failures requires empirical approaches that can isolate behavioral patterns in controlled settings. We propose that biological misalignment precedes artificial misalignment, and leverage the Dark Triad of personality (narcissism, psychopathy, and Machiavellianism) as a psychologically grounded framework for constructing model organisms of misalignment. In Study 1, we establish co…"
+    },
+    {
+      "id": "439e34d1646db228a9901b5b0295c65905696fd0ef3332a93bc129945861eedb",
+      "title": "Validation of a Small Language Model for DSM-5 Substance Category Classification in Child Welfare Records",
+      "url": "https://arxiv.org/abs/2603.06836",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06836v1 Announce Type: new Abstract: Background: Recent studies have demonstrated that large language models (LLMs) can perform binary classification tasks on child welfare narratives, detecting the presence or absence of constructs such as substance-related problems, domestic violence, and firearms involvement. Whether smaller, locally deployable models can move beyond binary detection to classify specific substance types from these narratives remains untested. Objective: To validate a locally hosted LLM classifier for identifying specific substance types aligned with DSM-5 categories in child welfare investigation narratives. Methods: A locally hosted 20-billion-parameter LLM classified child maltreatment investigation narratives from a Midwestern U.S. state. Records previousl…"
+    },
+    {
+      "id": "b24a63ccd0cba61299940b5197741728f0e315321886f3f669f402064df7518c",
+      "title": "Counting on Consensus: Selecting the Right Inter-annotator Agreement Metric for NLP Annotation and Evaluation",
+      "url": "https://arxiv.org/abs/2603.06865",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06865v1 Announce Type: new Abstract: Human annotation remains the foundation of reliable and interpretable data in Natural Language Processing (NLP). As annotation and evaluation tasks continue to expand, from categorical labelling to segmentation, subjective judgment, and continuous rating, measuring agreement between annotators has become increasingly more complex. This paper outlines how inter-annotator agreement (IAA) has been conceptualised and applied across NLP and related disciplines, describing the assumptions and limitations of common approaches. We organise agreement measures by task type and discuss how factors such as label imbalance and missing data influence reliability estimates. In addition, we highlight best practices for clear and transparent reporting, includ…"
+    },
+    {
+      "id": "1bfecf615908c89e48a7610ff59232896d3cf64d0ecbc00838f0fd697c692272",
+      "title": "MedInjection-FR: Exploring the Role of Native, Synthetic, and Translated Data in Biomedical Instruction Tuning",
+      "url": "https://arxiv.org/abs/2603.06905",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06905v1 Announce Type: new Abstract: Instruction tuning has become essential for adapting large language models (LLMs) to follow domain-specific prompts. Yet, in specialized fields such as medicine, the scarcity of high-quality French instruction data limits effective supervision. To address this gap, we introduce MedInjection-FR, a large-scale French biomedical instruction dataset comprising 571K instruction-response pairs drawn from three complementary sources: native, synthetic, and translated data. We design a controlled experimental framework to systematically assess how data provenance affects instruction tuning, using Qwen-4B-Instruct fine-tuned across seven configurations combining these sources. Results show that native data yield the strongest performance, while mixed…"
+    },
+    {
+      "id": "99e9b16b2f2c33666dc47741efdce07078d93a6e46dc5eb873d38fa35c2b6728",
+      "title": "Language Shapes Mental Health Evaluations in Large Language Models",
+      "url": "https://arxiv.org/abs/2603.06910",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06910v1 Announce Type: new Abstract: This study investigates whether large language models (LLMs) exhibit cross-linguistic differences in mental health evaluations. Focusing on Chinese and English, we examine two widely used models, GPT-4o and Qwen3, to assess whether prompt language systematically shifts mental health-related evaluations and downstream decision outcomes. First, we assess models' evaluative orientation toward mental health stigma using multiple validated measurement scales capturing social stigma, self-stigma, and professional stigma. Across all measures, both models produce higher stigma-related responses when prompted in Chinese than in English. Second, we examine whether these differences also manifest in two common downstream decision tasks in mental health.…"
+    },
+    {
+      "id": "5487f9cf2bd2d0554d804fef8146f08975733a2e886ddb90ade0b74e2458908b",
+      "title": "A Dynamic Self-Evolving Extraction System",
+      "url": "https://arxiv.org/abs/2603.06915",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06915v1 Announce Type: new Abstract: The extraction of structured information from raw text is a fundamental component of many NLP applications, including document retrieval, ranking, and relevance estimation. High-quality extractions often require domain-specific accuracy, up-to-date understanding of specialized taxonomies, and the ability to incorporate emerging jargon and rare outliers. In many domains--such as medical, legal, and HR--the extraction model must also adapt to shifting terminology and benefit from explicit reasoning over structured knowledge. We propose DySECT, a Dynamic Self-Evolving Extraction and Curation Toolkit, which continually improves as it is used. The system incrementally populates a versatile, self-expanding knowledge base (KB) with triples extracted…"
+    },
+    {
+      "id": "3513f7d282d405afc01c5a32d1473a74788ee65a8a58729c6b47639f76a9bf80",
+      "title": "Reforming the Mechanism: Editing Reasoning Patterns in LLMs with Circuit Reshaping",
+      "url": "https://arxiv.org/abs/2603.06923",
+      "source": "arXiv cs.CL",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ],
+      "summary": "arXiv:2603.06923v1 Announce Type: new Abstract: Large language models (LLMs) often exhibit flawed reasoning ability that undermines reliability. Existing approaches to improving reasoning typically treat it as a general and monolithic skill, applying broad training which is inefficient and unable to target specific reasoning errors. We introduce Reasoning Editing, a paradigm for selectively modifying specific reasoning patterns in LLMs while preserving other reasoning pathways. This task presents a fundamental trade-off between Generality, the ability of an edit to generalize across different tasks sharing the same reasoning pattern, and Locality, the ability to preserve other reasoning capabilities. Through systematic investigation, we uncover the Circuit-Interference Law: Edit interferen…"
+    },
+    {
+      "id": "1eb3d4f31ac65a648c1ad37a2153fa38db1020f8636a2e6e8033e5dc2333d452",
+      "title": "CREDO: Epistemic-Aware Conformalized Credal Envelopes for Regression",
+      "url": "https://arxiv.org/abs/2603.06826",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.06826v1 Announce Type: new Abstract: Conformal prediction delivers prediction intervals with distribution-free coverage, but its intervals can look overconfident in regions where the model is extrapolating, because standard conformal scores do not explicitly represent epistemic uncertainty. Credal methods, by contrast, make epistemic effects visible by working with sets of plausible predictive distributions, but they are typically model-based and lack calibration guarantees. We introduce CREDO, a simple \"credal-then-conformalize\" recipe that combines both strengths. CREDO first builds an interpretable credal envelope that widens when local evidence is weak, then applies split conformal calibration on top of this envelope to guarantee marginal coverage without further assumptions…"
+    },
+    {
+      "id": "1446e0435db2fc99768399ac3c6153714d27afb613a6d1032f08b9e9fe6318fd",
+      "title": "Bilateral Trade Under Heavy-Tailed Valuations: Minimax Regret with Infinite Variance",
+      "url": "https://arxiv.org/abs/2603.06851",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.06851v1 Announce Type: new Abstract: We study contextual bilateral trade under full feedback when trader valuations have bounded density but infinite variance. We first extend the self-bounding property of Bachoc et al. (ICML 2025) from bounded to real-valued valuations, showing that the expected regret of any price $\\pi$ satisfies $\\mathbb{E}[g(m,V,W) - g(\\pi,V,W)] \\le L|m-\\pi|^2$ under bounded density alone. Combining this with truncated-mean estimation, we prove that an epoch-based algorithm achieves regret $\\widetilde{O}(T^{1-2\\beta(p-1)/(\\beta p + d(p-1))})$ when the noise has finite $p$-th moment for $p \\in (1,2)$ and the market value function is $\\beta$-H\\\"older, and we establish a matching $\\Omega(\\cdot)$ lower bound via Assouad's method with a smoothed moment-matching c…"
+    },
+    {
+      "id": "a384f4d1b3071bcb75886db9833ed193cb8a4e3851e67dda26be68bef7c7af19",
+      "title": "Fairness May Backfire: When Leveling-Down Occurs in Fair Machine Learning",
+      "url": "https://arxiv.org/abs/2603.06901",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.06901v1 Announce Type: new Abstract: As machine learning (ML) systems increasingly shape access to credit, jobs, and other opportunities, the fairness of algorithmic decisions has become a central concern. Yet it remains unclear when enforcing fairness constraints in these systems genuinely improves outcomes for affected groups or instead leads to \"leveling down,\" making one or both groups worse off. We address this question in a unified, population-level (Bayes) framework for binary classification under prevalent group fairness notions. Our Bayes approach is distribution-free and algorithm-agnostic, isolating the intrinsic effect of fairness requirements from finite-sample noise and from training and intervention specifics. We analyze two deployment regimes for ML classifiers u…"
+    },
+    {
+      "id": "a02ea8d5f2104a7c766a747e048691dcffbb7b1d4b051435377c679a6e525b53",
+      "title": "Post-Training with Policy Gradients: Optimality and the Base Model Barrier",
+      "url": "https://arxiv.org/abs/2603.06957",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.06957v1 Announce Type: new Abstract: We study post-training linear autoregressive models with outcome and process rewards. Given a context $\\boldsymbol{x}$, the model must predict the response $\\boldsymbol{y} \\in Y^N$, a sequence of length $N$ that satisfies a $\\gamma$ margin condition, an extension of the standard separability to sequences. We prove that on test samples where the base model achieves a non-trivial likelihood $\\alpha$, a variant of policy gradient (PG) can achieve likelihood $1 - \\varepsilon$ with an essentially minimax optimal number of reward queries $\\tilde{O}((\\alpha^{-1} + \\varepsilon^{-1})/\\gamma^2)$. However, a barrier arises for going beyond the support of the base model. We prove that the overall expected error after post-training with outcome rewards is…"
+    },
+    {
+      "id": "e05b83cfae8ed7af27a19b26aef9866db1aef16822a22cb8af322224ca064b54",
+      "title": "Masked Unfairness: Hiding Causality within Zero ATE",
+      "url": "https://arxiv.org/abs/2603.06984",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.06984v1 Announce Type: new Abstract: Recent work has proposed powerful frameworks, rooted in causal theory, to quantify fairness. Causal inference has primarily emphasized the detection of \\emph{average} treatment effects (ATEs), and subsequent notions of fairness have inherited this focus. In this paper, we build on previous concerns about regulation based on averages. In particular, we formulate the \"causal masking problem\" as a linear program that optimizes an alternative objective, such as maximizing profit or minimizing crime, while retaining a zero ATE (i.e., the ATE between a protected attribute and a decision). By studying the capabilities and limitations of causal masking, we show that optimization under ATE-based regulation may induce significant unequal treatment. We…"
+    },
+    {
+      "id": "ebdbc2b9165cf1ed2a9c37ff2fa4d982be9166179fcd2481513cc099659e3dd2",
+      "title": "Deep Generative Spatiotemporal Engression for Probabilistic Forecasting of Epidemics",
+      "url": "https://arxiv.org/abs/2603.07108",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07108v1 Announce Type: new Abstract: Accurate and reliable forecasting of epidemic incidences is critical for public health preparedness, yet it remains a challenging task due to complex nonlinear temporal dependencies and heterogeneous spatial interactions. Often, point forecasts generated by spatiotemporal models are unreliable in assigning uncertainty to future epidemic events. Probabilistic forecasting of epidemics is therefore crucial for providing the best or worst-case scenarios rather than a simple, often inaccurate, point estimate. We present deep spatiotemporal engression methods to generate accurate and reliable probabilistic forecasts on low-frequency epidemic datasets. The proposed methods act as distributional lenses, and out-of-sample probabilistic forecasts are g…"
+    },
+    {
+      "id": "f424394ba0f5bd787cec493b93c0d542e54f51b8ea82e558b3c8ebbd996e06b3",
+      "title": "Probabilistic Inference and Learning with Stein's Method",
+      "url": "https://arxiv.org/abs/2603.07467",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07467v1 Announce Type: new Abstract: This monograph provides a rigorous overview of theoretical and methodological aspects of probabilistic inference and learning with Stein's method. Recipes are provided for constructing Stein discrepancies from Stein operators and Stein sets, and properties of these discrepancies such as computability, separation, convergence detection, and convergence control are discussed. Further, the connection between Stein operators and Stein variational gradient descent is set out in detail. The main definitions and results are precisely stated, and references to all proofs are provided."
+    },
+    {
+      "id": "550b13fc994407c94d964e1199bb19693795fda3e8682b4a9139c903c5b93197",
+      "title": "Beyond Data Splitting: Full-Data Conformal Prediction by Differential Privacy",
+      "url": "https://arxiv.org/abs/2603.07522",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07522v1 Announce Type: new Abstract: Privacy protection and uncertainty quantification are increasingly important in data-driven decision making. Conformal prediction provides finite-sample marginal coverage, but existing private approaches often rely on data splitting, reducing the effective sample size. We propose a full-data privacy-preserving conformal prediction framework that avoids splitting. Our framework leverages stability induced by differential privacy to control the gap between in-sample and out-of-sample conformal scores, and pairs this with a conservative private quantile routine designed to prevent under-coverage. We show that a generic differential privacy guarantee yields a universal coverage floor, yet cannot generally recover the nominal $1-\\alpha$ level. We…"
+    },
+    {
+      "id": "514f2300e7e57f18794f0ecfbea4ac6ef7e0f2ca427163f8d87070bcd23b8ec5",
+      "title": "An Interpretable Generative Framework for Anomaly Detection in High-Dimensional Financial Time Series",
+      "url": "https://arxiv.org/abs/2603.07864",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07864v1 Announce Type: new Abstract: Detecting structural instability and anomalies in high-dimensional financial time series is challenging due to complex temporal dependence and evolving cross-sectional structure. We propose ReGEN-TAD, an interpretable generative framework that integrates modern machine learning with econometric diagnostics for anomaly detection. The model combines joint forecasting and reconstruction within a refined convolutional--transformer architecture and aggregates complementary signals capturing predictive inconsistency, reconstruction degradation, latent distortion, and volatility shifts. Robust calibration yields a unified anomaly score without labeled data. Experiments on synthetic and financial panels demonstrate improved robustness to structured d…"
+    },
+    {
+      "id": "a3c285fc78c423392d8dd6464dc737185e1abb1fded0ad444f190d090e0d832c",
+      "title": "Robust Transfer Learning with Side Information",
+      "url": "https://arxiv.org/abs/2603.07921",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07921v1 Announce Type: new Abstract: Robust Markov Decision Processes (MDPs) address environmental shift through distributionally robust optimization (DRO) by finding an optimal worst-case policy within an uncertainty set of transition kernels. However, standard DRO approaches require enlarging the uncertainty set under large shifts, which leads to overly conservative and pessimistic policies. In this paper, we propose a framework for transfer under environment shift that derives a robust target-domain policy via estimate-centered uncertainty sets, constructed through constrained estimation that integrates limited target samples with side information about the source-target dynamics. The side information includes bounds on feature moments, distributional distances, and density r…"
+    },
+    {
+      "id": "b211e7b4345c1648af3cb830b127f658fce6d7ee8f318e65a063c8492f25ce9e",
+      "title": "Local Constrained Bayesian Optimization",
+      "url": "https://arxiv.org/abs/2603.07965",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.07965v1 Announce Type: new Abstract: Bayesian optimization (BO) for high-dimensional constrained problems remains a significant challenge due to the curse of dimensionality. We propose Local Constrained Bayesian Optimization (LCBO), a novel framework tailored for such settings. Unlike trust-region methods that are prone to premature shrinking when confronting tight or complex constraints, LCBO leverages the differentiable landscape of constraint-penalized surrogates to alternate between rapid local descent and uncertainty-driven exploration. Theoretically, we prove that LCBO achieves a convergence rate for the Karush-Kuhn-Tucker (KKT) residual that depends polynomially on the dimension $d$ for common kernels under mild assumptions, offering a rigorous alternative to global BO wh…"
+    },
+    {
+      "id": "4296927e4d05e9b0186dae46f5b8f93f81ff315e98ba6b413d26770e97583620",
+      "title": "Beyond ReinMax: Low-Variance Gradient Estimators for Discrete Latent Variables",
+      "url": "https://arxiv.org/abs/2603.08257",
+      "source": "arXiv stat.ML",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ],
+      "summary": "arXiv:2603.08257v1 Announce Type: new Abstract: Machine learning models involving discrete latent variables require gradient estimators to facilitate backpropagation in a computationally efficient manner. The most recent addition to the Straight-Through family of estimators, ReinMax, can be viewed from a numerical ODE perspective as incorporating an approximation via Heun's method to reduce bias, but at the cost of high variance. In this work, we introduce the ReinMax-Rao and ReinMax-CV estimators which incorporate Rao-Blackwellisation and control variate techniques into ReinMax to reduce its variance. Our estimators demonstrate superior performance on training variational autoencoders with discrete latent spaces. Furthermore, we investigate the possibility of leveraging alternative numeri…"
+    },
+    {
+      "id": "0bac13e4c96e4074ca262de67735a5ca8727fe203c3698c8d1a94518f6a357ec",
+      "title": "Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark",
+      "url": "https://arxiv.org/abs/2603.06582",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06582v1 Announce Type: new Abstract: Standard protocols such as the Model Context Protocol (MCP) that allow LLMs to connect to tools have recently boosted \"agentic\" AI applications, which, powered by LLMs' planning capabilities, promise to solve complex tasks with the access of external tools and data sources. In this context, publicly available SPARQL endpoints offer a natural connection to combine various data sources through MCP by (a) implementing a standardised protocol and query language, (b) standardised metadata formats, and (c) the native capability to federate queries. In the present paper, we explore the potential of SPARQL-MCP-based intelligent agents to facilitate federated SPARQL querying: firstly, we discuss how to extend an existing Knowledge Graph Question Answe…"
+    },
+    {
+      "id": "23ba4068415f1379355934be85c0ae7d4583c289b23314377eec19b14d256b70",
+      "title": "Scaling Multilingual Semantic Search in Uber Eats Delivery",
+      "url": "https://arxiv.org/abs/2603.06586",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06586v1 Announce Type: new Abstract: We present a production-oriented semantic retrieval system for Uber Eats that unifies retrieval across stores, dishes, and grocery/retail items. Our approach fine-tunes a Qwen2 two-tower base model using hundreds of millions of query-document interactions that were aggregated and anonymized pretraining. We train the model with a combination of InfoNCE on in-batch negatives and triplet-NCE loss on hard negatives, and we leverage Matryoshka Representation Learning (MRL) to serve multiple embedding sizes from a single model. Our system achieves substantial recall gains over a strong baseline across six markets and three verticals. This paper presents the end to end work including data curation, model architecture, large-scale training, and evalu…"
+    },
+    {
+      "id": "9adc5eacbf3e7bc9aac2ba3cc572c06b1d754d06d8fad56276391c45a7956046",
+      "title": "Isotonic Layer: A Universal Framework for Generic Recommendation Debiasing",
+      "url": "https://arxiv.org/abs/2603.06589",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06589v1 Announce Type: new Abstract: Model calibration and debiasing are fundamental to the reliability and fairness of large scale recommendation systems. We introduce the Isotonic Layer, a novel, differentiable framework that integrates piecewise linear fitting directly into neural architectures. By partitioning the feature space into discrete segments and optimizing non negative slopes via a constrained dot product mechanism, we enforce a global monotonic inductive bias. This ensures model outputs remain logically consistent with critical features such as latent relevance, recency, or quality scores. We further generalize this architecture by parameterizing segment wise slopes as learnable embeddings. This enables the model to adaptively capture context specific distortions,…"
+    },
+    {
+      "id": "c3b34a867f306e41aa3bda3eec6b5bf5b2cca7e14b9163e04add7ca4b4329d75",
+      "title": "Exploration Space Theory: Formal Foundations for Prerequisite-Aware Location-Based Recommendation",
+      "url": "https://arxiv.org/abs/2603.06624",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06624v1 Announce Type: new Abstract: Location-based recommender systems have achieved considerable sophistication, yet none provides a formal, lattice-theoretic representation of prerequisite dependencies among points of interest -- the semantic reality that meaningfully experiencing certain locations presupposes contextual knowledge gained from others -- nor the structural guarantees that such a representation entails. We introduce Exploration Space Theory (EST), a formal framework that transposes Knowledge Space Theory into location-based recommendation. We prove that the valid user exploration states -- the order ideals of a surmise partial order on points of interest -- form a finite distributive lattice and a well-graded learning space; Birkhoff's representation theorem, co…"
+    },
+    {
+      "id": "05f4fdaf63d9e44d18365a62f2dfa4970908fcea99f513d01d64b81a9d3c4692",
+      "title": "T-REX: Transformer-Based Category Sequence Generation for Grocery Basket Recommendation",
+      "url": "https://arxiv.org/abs/2603.06631",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06631v1 Announce Type: new Abstract: Online grocery shopping presents unique challenges for sequential recommendations due to repetitive purchase patterns and complex item relationships within the baskets. Unlike traditional e-commerce, grocery recommendations must capture both complementary item associations and temporal dependencies across shopping sessions. To address these challenges in Amazon's online grocery business, we propose T-REX, a novel transformer architecture that generates personalized category-level suggestions by learning both short-term basket dependencies and long-term user preferences. Our approach introduces three key innovations: (1) an efficient sampling strategy utilizing dynamic sequence splitting for sparse shopping patterns, (2) an adaptive positional…"
+    },
+    {
+      "id": "12234303d10721b176942263b232a1c7b69261dd235a2f1e7ed3006c4bd96d3f",
+      "title": "Approximate Nearest Neighbor Search for Modern AI: A Projection-Augmented Graph Approach",
+      "url": "https://arxiv.org/abs/2603.06660",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.06660v1 Announce Type: new Abstract: Approximate Nearest Neighbor Search (ANNS) is fundamental to modern AI applications. Most existing solutions optimize query efficiency but fail to align with the practical requirements of modern workloads. In this paper, we outline six critical demands of modern AI applications: high query efficiency, fast indexing, low memory footprint, scalability to high dimensionality, robustness across varying retrieval sizes, and support for online insertions. To satisfy all these demands, we introduce Projection-Augmented Graph (PAG), a new ANNS framework that integrates projection techniques into a graph index. PAG reduces unnecessary exact distance computations through asymmetric comparisons between exact and approximate distances as guided by projec…"
+    },
+    {
+      "id": "3739b7b0879e578586082f7d6b1e7f9abf7fbc585b8e4bae907097b83bdcb445",
+      "title": "Leveraging Large Language Models for Automated Scalable Development of Open Scientific Databases",
+      "url": "https://arxiv.org/abs/2603.07050",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07050v1 Announce Type: new Abstract: With the exponential increase in online scientific literature, identifying reliable domain-specific data has become increasingly important but also very challenging. Manual data collection and filtering for domain-specific scientific literature is not only time-consuming but also labor-intensive and prone to errors and inconsistencies. To facilitate automated data collection, the paper introduces a web-based tool that leverages Large Language Models (LLMs) for automated and scalable development of open scientific databases. More specifically, the tool is based on an automated and unified framework that combines keyword-based querying, API-enabled data retrieval, and LLM-powered text classification to construct domain-specific scientific datab…"
+    },
+    {
+      "id": "0a3df18c27d32ab3f669978c6401e10520d3450ebad58155212762696f273fbe",
+      "title": "Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2603.07107",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07107v1 Announce Type: new Abstract: Generative models offer a promising paradigm for the final stage reranking in multi-stage recommender systems, with the ability to capture inter-item dependencies within reranked lists. However, their practical deployment still faces two key challenges: (1) an inherent conflict between achieving high generation quality and ensuring low-latency inference, making it difficult to balance the two, and (2) insufficient interaction between user and item features in existing methods. To address these challenges, we propose a novel Personalized Semi-Autoregressive with online knowledge Distillation (PSAD) framework for reranking. In this framework, the teacher model adopts a semi-autoregressive generator to balance generation quality and efficiency,…"
+    },
+    {
+      "id": "281c1c45fabdcbe7b75fe34fd6a104c9b0fdedab4cd59c3c04720a2f24a68c7f",
+      "title": "Fine-Grained Table Retrieval Through the Lens of Complex Queries",
+      "url": "https://arxiv.org/abs/2603.07146",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07146v1 Announce Type: new Abstract: Enabling question answering over tables and databases in natural language has become a key capability in the democratization of insights from tabular data sources. These systems first require retrieval of data that is relevant to a given natural language query, for which several methods have been introduced. In this work we present and study a table retrieval mechanism devising fine-grained typed query decomposition and global connectivity-awareness (DCTR), to handle the challenges induced by open-domain question answering over relational databases in complex usage contexts. We evaluate the effectiveness of the two mechanisms through the lens of retrieval complexity which we measure along the axes of query- and data complexity. Our analyses o…"
+    },
+    {
+      "id": "daf4fa3ed0bfea2f4ff6e23516e1ac454539c477e6c10b851c9666d012740c5f",
+      "title": "Retrieving Minimal and Sufficient Reasoning Subgraphs with Graph Foundation Models for Path-aware GraphRAG",
+      "url": "https://arxiv.org/abs/2603.07179",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07179v1 Announce Type: new Abstract: Graph-based retrieval-augmented generation (GraphRAG) exploits structured knowledge to support knowledge-intensive reasoning. However, most existing methods treat graphs as intermediate artifacts, and the few subgraph-based retrieval methods depend on heuristic rules coupled with domain-specific distributions. They fail in typical cold-start scenarios where data in target domains is scarce, thus yielding reasoning contexts that are either informationally incomplete or structurally redundant. In this work, we revisit retrieval from a structural perspective, and propose GFM-Retriever that directly responds to user queries with a subgraph, where a pre-trained Graph Foundation Model acts as a cross-domain Retriever for multi-hop path-aware reason…"
+    },
+    {
+      "id": "a053b96dad31e1480e6b6687e45d0574992404614e012985c78747dc3d0a186e",
+      "title": "AutoDataset: A Lightweight System for Continuous Dataset Discovery and Search",
+      "url": "https://arxiv.org/abs/2603.07271",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07271v1 Announce Type: new Abstract: The continuous expansion of task-specific datasets has become a major driver of progress in machine learning. However, discovering newly released datasets remains difficult, as existing platforms largely depend on manual curation or community submissions, leading to limited coverage and substantial delays. To address this challenge, we introduce AutoDataset, a lightweight, automated system for real-time dataset discovery and retrieval. AutoDataset adopts a paper-first approach by continuously monitoring arXiv to detect and index datasets directly from newly published research. The system operates through a low-overhead multi-stage pipeline. First, a lightweight classifier rapidly filters titles and abstracts to identify papers releasing datas…"
+    },
+    {
+      "id": "785e17ec58cacf23146f8727f0dfc159c9d68c87c85707bfec2dd6d4af5d1b06",
+      "title": "Do Deployment Constraints Make LLMs Hallucinate Citations? An Empirical Study across Four Models and Five Prompting Regimes",
+      "url": "https://arxiv.org/abs/2603.07287",
+      "source": "arXiv cs.IR",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 0.0,
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ],
+      "summary": "arXiv:2603.07287v1 Announce Type: new Abstract: LLMs are increasingly used to draft academic text and to support software engineering (SE) evidence synthesis, but they often hallucinate bibliographic references that look legitimate. We study how deployment-motivated prompting constraints affect citation verifiability in a closed-book setting. Using 144 claims (24 in SE&CS) and a deterministic verification pipeline (Crossref + Semantic Scholar), we evaluate two proprietary models (Claude Sonnet, GPT-4o) and two open-weight models (LLaMA~3.1-8B, Qwen~2.5-14B) across five regimes: Baseline, Temporal (publication-year window), Survey-style breadth, Non-Disclosure policy, and their combination. Across 17,443 generated citations, no model exceeds a citation-level existence rate of 0.475; Tempora…"
+    },
+    {
+      "id": "2ecbf5c969dcb4d910bde42b9bc647192b01a654226abdbfe4f0abe4361a6056",
+      "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
+      "url": "https://deepmind.google/blog/10-years-of-alphago/",
+      "source": "DeepMind",
+      "published_at": "2026-03-09T21:52:36+08:00",
+      "score": 0.0,
+      "tags": [
+        "blog",
+        "research",
+        "research"
+      ],
+      "summary": "Ten years since AlphaGo, we explore how it is catalyzing scientific discovery and paving a path to AGI."
+    },
+    {
+      "id": "2a2c5b1b16913ede346b6cf60be8e0e71d7cbb617f706ad086acc1adc44e478a",
+      "title": "OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
       "source": "OpenAI",
-      "published_at": "2026-03-06T15:00:00+08:00",
+      "published_at": "2026-03-09T18:00:00+08:00",
       "score": 0.0,
       "tags": [
         "blog",
@@ -1159,7 +1956,7 @@
         "LLM",
         "research"
       ],
-      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale."
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
     }
   ]
 }

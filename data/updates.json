@@ -1,98 +1,122 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-11",
   "updates": [
+    {
+      "id": "0b6244279772ea4cdafe81f7fa434f97b05b8e2f23f0fbf53239a9068505d90e",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
+      "score": 26.228101228935184,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 6223
+    },
     {
       "id": "d1c18d784547228652fa732d5a8a8eda1d8009ab0daec9234e13de4c6432666a",
       "title": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 26.037760219097223,
+      "published_at": "2026-03-11",
+      "score": 26.228101228935184,
       "tags": [
         "trending"
       ],
-      "stars_today": 1104
+      "stars_today": 4504
+    },
+    {
+      "id": "8c6014a36ca90e3fbda99713be2f876778d503c5bbb1e29cfa51436eb2d12035",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "published_at": "2026-03-11",
+      "score": 26.228101228935184,
+      "tags": [
+        "trending"
+      ],
+      "stars_today": 1387
     },
     {
       "id": "0b5c4741d1c147be5fddf0c75c5c0f478ced75a3c3b71cf8751002122b8f3831",
       "title": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 26.037760219097223,
+      "published_at": "2026-03-11",
+      "score": 26.228101228935184,
       "tags": [
         "trending"
       ],
-      "stars_today": 4603
+      "stars_today": 9080
     },
     {
-      "id": "9b8fb32d5892ba24a300635ab841190e98dd0c1878367761c8d505def607d4e9",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 18.357760219097223,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 566
-    },
-    {
-      "id": "2cc5eab13f08dcd3105e9297c87e7492455d59c03f71e3a417da6018bd171df2",
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "source": "GitHub Trending",
-      "published_at": "2026-03-09",
-      "score": 18.277760219097225,
-      "tags": [
-        "trending"
-      ],
-      "stars_today": 612
-    },
-    {
-      "id": "2a55fdd86a1add5e9d47091ff1fe1f88e7ae2cb89de946ce2ef42a0659454a98",
-      "title": "How Balyasny Asset Management built an AI research engine for investing",
-      "url": "https://openai.com/index/balyasny-asset-management",
+      "id": "43591d3bdb3f3bfa57b4f65d656331a58244ee6f0e6a8484537a57be27edd0ee",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
       "source": "OpenAI",
-      "published_at": "2026-03-06T15:00:00+08:00",
-      "score": 1.0,
+      "published_at": "2026-03-10T19:00:00+08:00",
+      "score": 5.144767895601851,
       "tags": [
         "blog",
         "research",
         "LLM",
         "research"
       ],
-      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale."
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
     },
     {
-      "id": "937d6214096735b4ac7c9f9fcdc3662f5ac5d501de75b0e7813cc87b45e7947d",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
+      "id": "4d9c8f1a2eb4040d0be0230addb2b39eae2efc996274838830c68998f1aa4bea",
+      "title": "New ways to learn math and science in ChatGPT",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
       "source": "OpenAI",
-      "published_at": "2026-03-06T18:00:00+08:00",
-      "score": 0.0,
+      "published_at": "2026-03-10T18:00:00+08:00",
+      "score": 3.728101228935185,
       "tags": [
         "blog",
         "research",
         "LLM",
         "research"
       ],
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
     },
     {
-      "id": "5bd08c4ff5b22ccff27b31d2756f75c4f08f06a39042ba860244d2a6fadf7e51",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
-      "source": "OpenAI",
-      "published_at": "2026-03-06T18:00:00+08:00",
-      "score": 0.0,
+      "id": "b8627d99453c0293126f7663569ccb0d89870b7fc1b83cf0d5231454e063785f",
+      "title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2603.06587",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 3.228101228935185,
       "tags": [
-        "blog",
-        "research",
-        "LLM",
-        "research"
+        "arxiv",
+        "cs.AI"
       ],
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
+      "summary": "arXiv:2603.06587v1 Announce Type: new Abstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY and XOP options, we evaluate models using realized path delta hedging outcome distributions, shortfall probability, and tail risk measures such as Expected Shortfall. Empirically, RLOP reduces shortfall frequency in most slices and shows the clearest tail-risk improvements in stress, while implied vo…"
+    },
+    {
+      "id": "9a4e5ea6579e13a75aecf5f0a2eb5bd426f7a6c5ac2758e67dc2520e104898f6",
+      "title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+      "url": "https://arxiv.org/abs/2603.06801",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 2.228101228935185,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06801v1 Announce Type: new Abstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:standard MAD cannot improve belief correctness beyond majority voting; we refer to this as the Martingale Curse. This curse arises because correlated errors cause agents to converge toward erroneous consensus, where debate merely reinforces collective mistakes rather than filtering noise. We propose AceMAD, a framework that breaks the Martingale Curse by harnessing asymmetric cognitive potential energy to transform MAD from a random walk into a directed convergence process with positive drift. Through a peer-prediction mechanism, agents predict their peers' belief distributions, revealing asymmet…"
+    },
+    {
+      "id": "6f5222e408e5aaf625a192e370b0e48f6a270b499c571e82a6a1988a9ce2394a",
+      "title": "Making AI Evaluation Deployment Relevant Through Context Specification",
+      "url": "https://arxiv.org/abs/2603.06811",
+      "source": "arXiv cs.AI",
+      "published_at": "2026-03-10T12:00:00+08:00",
+      "score": 2.228101228935185,
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ],
+      "summary": "arXiv:2603.06811v1 Announce Type: new Abstract: With many organizations struggling to gain value from AI deployments, pressure to evaluate AI in an informed manner has intensified. Status quo AI evaluation approaches mask the operational realities that ultimately determine deployment success, making it difficult for decision makers outside the stack to know whether and how AI tools will deliver durable value. We introduce and describe context specification as a process to support and inform the deployment decision making process. Context specification turns diffuse stakeholder perspectives about what matters in a given setting into clear, named constructs: explicit definitions of the properties, behaviors, and outcomes that evaluations aim to capture, so they can be observed and measured i…"
     }
   ]
 }
