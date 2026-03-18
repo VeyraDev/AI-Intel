@@ -125,12 +125,12 @@
   ],
   "last_run": "2026-03-09 09:30:33",
   "collect": {
-    "last_success": "2026-03-09"
+    "last_success": "2026-03-18"
   },
   "process": {
-    "last_success": "2026-03-09"
+    "last_success": "2026-03-18"
   },
   "generate": {
-    "last_success": "2026-03-09"
+    "last_success": "2026-03-18"
   }
 }
