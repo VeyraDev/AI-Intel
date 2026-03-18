@@ -1,6 +1,89 @@
 {
   "history": [
     {
+      "date": "2026-03-11",
+      "items": [
+        {
+          "repo": "msitarzewski/agency-agents",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "stars_today": 6223,
+          "language": "Shell"
+        },
+        {
+          "repo": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "stars_today": 4504,
+          "language": "Python"
+        },
+        {
+          "repo": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "stars_today": 781,
+          "language": "Python"
+        },
+        {
+          "repo": "promptfoo/promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo",
+          "stars_today": 661,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "GoogleCloudPlatform/generative-ai",
+          "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+          "stars_today": 530,
+          "language": "Jupyter Notebook"
+        },
+        {
+          "repo": "virattt/ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "stars_today": 300,
+          "language": "Python"
+        },
+        {
+          "repo": "karpathy/nanochat",
+          "url": "https://github.com/karpathy/nanochat",
+          "stars_today": 705,
+          "language": "Python"
+        },
+        {
+          "repo": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "stars_today": 1387,
+          "language": "Shell"
+        },
+        {
+          "repo": "alibaba/page-agent",
+          "url": "https://github.com/alibaba/page-agent",
+          "stars_today": 891,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "sepinf-inc/IPED",
+          "url": "https://github.com/sepinf-inc/IPED",
+          "stars_today": 273,
+          "language": "Java"
+        },
+        {
+          "repo": "openclaw/openclaw",
+          "url": "https://github.com/openclaw/openclaw",
+          "stars_today": 9080,
+          "language": "TypeScript"
+        },
+        {
+          "repo": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "stars_today": 939,
+          "language": "JavaScript"
+        },
+        {
+          "repo": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "stars_today": 1413,
+          "language": "Python"
+        }
+      ]
+    },
+    {
       "date": "2026-03-09",
       "items": [
         {

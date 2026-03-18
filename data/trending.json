@@ -1,77 +1,83 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-11",
   "items": [
     {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "stars_today": 522,
-      "language": "Jupyter Notebook"
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "stars_today": 6223,
+      "language": "Shell"
     },
     {
       "repo": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "stars_today": 1104,
+      "stars_today": 4504,
       "language": "Python"
     },
     {
-      "repo": "shadcn-ui/ui",
-      "url": "https://github.com/shadcn-ui/ui",
-      "stars_today": 488,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "stars_today": 4603,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "toeverything/AFFiNE",
-      "url": "https://github.com/toeverything/AFFiNE",
-      "stars_today": 533,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "Ed1s0nZ/CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "stars_today": 244,
-      "language": "Go"
-    },
-    {
-      "repo": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "stars_today": 566,
-      "language": "TypeScript"
-    },
-    {
-      "repo": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "stars_today": 612,
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "stars_today": 781,
       "language": "Python"
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "url": "https://github.com/promptfoo/promptfoo",
+      "stars_today": 661,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "stars_today": 530,
+      "language": "Jupyter Notebook"
     },
     {
       "repo": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
-      "stars_today": 275,
+      "stars_today": 300,
       "language": "Python"
     },
     {
-      "repo": "is-a-dev/register",
-      "url": "https://github.com/is-a-dev/register",
-      "stars_today": 10,
-      "language": "JavaScript"
+      "repo": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "stars_today": 705,
+      "language": "Python"
     },
     {
-      "repo": "teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py",
-      "stars_today": 196,
-      "language": "Python"
+      "repo": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "stars_today": 1387,
+      "language": "Shell"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "stars_today": 891,
+      "language": "TypeScript"
+    },
+    {
+      "repo": "sepinf-inc/IPED",
+      "url": "https://github.com/sepinf-inc/IPED",
+      "stars_today": 273,
+      "language": "Java"
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "stars_today": 9080,
+      "language": "TypeScript"
     },
     {
       "repo": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
-      "stars_today": 443,
+      "stars_today": 939,
       "language": "JavaScript"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars_today": 1413,
+      "language": "Python"
     }
   ]
 }

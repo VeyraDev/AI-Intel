@@ -1,6 +1,16 @@
 {
-  "date": "2026-03-09",
+  "date": "2026-03-11",
   "videos": [
+    {
+      "id": "374f8578d1e6d8623fc64b97172cb48cf685dc98d78a5994970c0a7d5cfecd58",
+      "title": "智谱做了个澳龙出来？直接将OpenClaw变成零门槛客户端，人人拥有一只虾",
+      "url": "https://www.bilibili.com/video/BV1JmPfzFE17",
+      "source": "神秘的鱼仔",
+      "published_at": "2026-03-10 11:12:50",
+      "score": 1.0,
+      "github_refs": [],
+      "platform": "bilibili"
+    },
     {
       "id": "0ca35d82ed39716fa0247e291e9a8508cd6490680d7d541a0281476588e4e25a",
       "title": "一行命令把 ClaudeCode 拉出终端！手机上都能用了？",
